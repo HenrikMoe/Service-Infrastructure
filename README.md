@@ -11,14 +11,19 @@ https://taggartinstitute.org/p/the-homelab-almanac
 Applications:
 
 Neural net env
+ - graph element
 
 Neural net interface
+- graph builder
 
 Visualization user interface
+- UI
 
 Security IAM management 
+- graph edge management
 
 K8 env management
+- graph domain management
 
 # Evaluation
 
