@@ -18,6 +18,8 @@ Visualization user interface
 
 Security IAM management 
 
+K8 env management
+
 # Evaluation
 
 Application and per unit resuability projections
