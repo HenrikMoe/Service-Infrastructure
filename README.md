@@ -23,7 +23,7 @@ Applications:
 - graph edge management
 
 ## K8 Env Management
-- graph domain management
+- graph domain management, terraform namespaces
 
 # Evaluation
 
