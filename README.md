@@ -1,35 +1,13 @@
-# Service-Infrastructure
+Rust Crate with Py JAX Container
 
-Service infrastructure for  https://jinsei.ai.
+VM1: Rust Crate
 
-# Hardware
+Env:
 
-https://taggartinstitute.org/p/the-homelab-almanac
+Routing: 
 
-# Software
+VM2:
 
-Applications:
+Env:
 
-## Neural Net Envs
- - graph element 
-
-## Neural Net Interface
-- graph compliation / 
-
-## Security/IAM Management 
-- graph edge management
-
-## Visualization User Interface
-- graph query 
-
-## K8 Env Management
-- graph domain management, terraform packs 
-
-# Evaluation
-
-Application and per unit resuability projections
-
-# Audited Security
-
-Soc checklists
-
+Routing:
