@@ -1,6 +1,10 @@
 PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/xla_extension.so
 
 .DS_Store
+PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/mlir/_mlir_libs/libjaxlib_mlir_capi.dylib
+PyJaxService/myenv/lib/python3.11/site-packages/scipy/.dylibs/libopenblas.0.dylib
+PyJaxService/myenv/lib/python3.11/site-packages/numpy/.dylibs/libopenblas64_.0.dylib
+PyJaxService/PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/xla_extension.so
 
 PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/mlir/_mlir_libs/libjaxlib_mlir_capi.dylib
 PyJaxService/myenv/lib/python3.11/site-packages/scipy/.dylibs/libopenblas.0.dylib
