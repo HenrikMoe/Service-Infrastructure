@@ -24,6 +24,8 @@ source myenv/bin/activate
 
 pip install jax jaxlib
 
+pip install numpy scipy
+
 python test_service.py
 
 Routing:

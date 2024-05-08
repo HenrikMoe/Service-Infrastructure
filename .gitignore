@@ -5,4 +5,31 @@ PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/xla_extension.so
 PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/mlir/_mlir_libs/libjaxlib_mlir_capi.dylib
 PyJaxService/myenv/lib/python3.11/site-packages/scipy/.dylibs/libopenblas.0.dylib
 PyJaxService/myenv/lib/python3.11/site-packages/numpy/.dylibs/libopenblas64_.0.dylib
+# Ignore specific heavy lib files
+PyJaxService/myenv/lib/python3.11/site-packages/scipy/fft/_pocketfft/pypocketfft.cpython-311-darwin.so
+PyJaxService/myenv/lib/python3.11/site-packages/scipy/special/_ufuncs.cpython-311-darwin.so
+PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/cpu/_ducc_fft.so
+PyJaxService/myenv/lib/python3.11/site-packages/scipy/special/tests/data/boost.npz
+PyJaxService/myenv/lib/python3.11/site-packages/scipy/stats/_unuran/unuran_wrapper.cpython-311-darwin.so
+PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/mlir/_mlir_libs/register_jax_dialects.so
+PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/mlir/_mlir_libs/_chlo.so
+PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/mlir/_mlir_libs/_triton_ext.so
+PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/mlir/_mlir_libs/_mlirHlo.so
+PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/mlir/_mlir_libs/_mlirDialectsSparseTensor.so
+PyJaxService/myenv/lib/python3.11/site-packages/scipy/misc/face.dat
+PyJaxService/myenv/lib/python3.11/site-packages/scipy/linalg/_flapack.cpython-311-darwin.so
+PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/mlir/_mlir_libs/_tpu_ext.so
+PyJaxService/myenv/lib/python3.11/site-packages/scipy/io/_fast_matrix_market/_fmm_core.cpython-311-darwin.so
+PyJaxService/myenv/lib/python3.11/site-packages/ml_dtypes/_ml_dtypes_ext.cpython-311-darwin.so
+PyJaxService/myenv/lib/python3.11/site-packages/scipy/special/cython_special.cpython-311-darwin.so
+PyJaxService/myenv/lib/python3.11/site-packages/numpy/core/_simd.cpython-311-darwin.so
+PyJaxService/myenv/lib/python3.11/site-packages/scipy/optimize/_highs/_highs_wrapper.cpython-311-darwin.so
+PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/mlir/_mlir_libs/_mlir.so
+PyJaxService/myenv/lib/python3.11/site-packages/scipy/sparse/_sparsetools.cpython-311-darwin.so
+PyJaxService/myenv/lib/python3.11/site-packages/numpy/core/_multiarray_umath.cpython-311-darwin.so
+PyJaxService/myenv/lib/python3.11/site-packages/numpy/.dylibs/libgfortran.5.dylib
+PyJaxService/myenv/lib/python3.11/site-packages/scipy/.dylibs/libgfortran.5.dylib
+PyJaxService/myenv/lib/python3.11/site-packages/jaxlib/mlir/_mlir_libs/_stablehlo.so
 
+# Include everything else
+!PyJaxService/
