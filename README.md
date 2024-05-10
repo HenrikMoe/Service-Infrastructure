@@ -23,7 +23,7 @@ Applications:
 - graph query 
 
 ## K8 Env Management
-- graph domain management, terraform packs 
+- graph domain management, opentofu packs 
 
 # Evaluation
 
