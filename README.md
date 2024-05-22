@@ -22,8 +22,8 @@ Applications:
 ## Visualization User Interface
 - graph query 
 
-## K8 Env Management
-- graph domain management, opentofu packs 
+## OpenTofu Env Management
+- graph domain management, opentofu packs, staging and replications
 
 # Evaluation
 
