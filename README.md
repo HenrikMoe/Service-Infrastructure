@@ -1,4 +1,4 @@
-# Service-Infrastructure
+l# Service-Infrastructure
 
 Service infrastructure for  https://jinsei.ai.
 
@@ -11,10 +11,10 @@ https://taggartinstitute.org/p/the-homelab-almanac
 Applications:
 
 ## Neural Net Envs
- - graph element 
+ - graph element , nix
 
 ## Neural Net Interface
-- graph compliation / 
+- graph compliation / nix
 
 ## Security/IAM Management 
 - graph edge management
