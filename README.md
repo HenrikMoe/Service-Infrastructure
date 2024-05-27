@@ -17,7 +17,7 @@ Applications:
 - graph compliation / nix
 
 ## Security/IAM Management 
-- graph edge management
+- graph edge management / nix
 
 ## Visualization User Interface
 - graph query 
