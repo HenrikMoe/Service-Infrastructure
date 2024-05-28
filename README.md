@@ -4,6 +4,8 @@ Service infrastructure for  https://jinsei.ai.
 
 # Hardware
 
+Specs:
+
 https://taggartinstitute.org/p/the-homelab-almanac
 
 # Software
