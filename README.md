@@ -20,7 +20,7 @@ Applications:
 - graph edge management / nix
 
 ## Visualization User Interface
-- graph query 
+- graph query assembly
 
 ## OpenTofu Env Management
 - graph domain management, opentofu packs, staging and replications
