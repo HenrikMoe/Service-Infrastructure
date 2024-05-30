@@ -22,7 +22,7 @@ Applications:
 ## Visualization User Interface
 - graph query assembly pack
 
-## OpenTofu Env Management
+## Env Management
 - graph domain management, opentofu packs, staging and replications
 
 # Evaluation
