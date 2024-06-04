@@ -37,4 +37,4 @@ Soc checklists
 
 # Data
 
-Tokenized actus 
+Tokenized actus product list
