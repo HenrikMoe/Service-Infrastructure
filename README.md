@@ -14,7 +14,7 @@ EURO - EUROPack - Upload filings, retrieve filings
 
 SBRM - SBRM - populate SBRM with aspects and facts. AI transformation silos
 
-MiCa ViCa  - MicaVica - populate euro web3 asset tracking filing specs' aspects and facts. AI transformation silos 
+MiCa ViCa  - MicaVica - populate euro web3 asset tracking filing specs' aspects and facts, via ixbrl whitepapers. AI transformation silos 
 
 ACTUS - ACTUS - all encompassing financial product modeler (about 100 of every fin product today)
 
