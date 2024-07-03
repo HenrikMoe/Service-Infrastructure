@@ -28,7 +28,7 @@ JinseiLuciano -
 
 JinseiView - 
 
-Specs doc for designer: 
+Specs doc for designer: https://docs.google.com/document/d/1-msOp2yvxAZJnFdpXi0jH3BZSJShm_2GWBC9O5tE4vY/edit
 
 # Hardware
 
