@@ -28,6 +28,8 @@ JinseiLuciano -
 
 JinseiView - 
 
+Specs doc for designer: 
+
 # Hardware
 
 https://taggartinstitute.org/p/the-homelab-almanac
