@@ -26,7 +26,7 @@ Sfac-6
 
 JinseiLuciano -  link the repo
 
-Jinsei API - Desinger needed w react 7 yrs
+Jinsei API - Desinger needed w react 7 yrs - 
 
 Specs doc for designer: https://docs.google.com/document/d/1-msOp2yvxAZJnFdpXi0jH3BZSJShm_2GWBC9O5tE4vY/edit
 
