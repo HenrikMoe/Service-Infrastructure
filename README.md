@@ -18,7 +18,7 @@ MiCa ViCa  - MicaVica - populate euro web3 asset tracking filing specs' aspects 
 
 ACTUS - ACTUS - all encompassing financial product modeler (about 100 of every fin product today)
 
-SOC -
+SOC - na
 
 Sfac-6 
 
