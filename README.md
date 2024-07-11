@@ -22,28 +22,17 @@ SOC - usbank e&y audit and internal audits - soc 1 and soc2 audits - has to be a
 pcidss - verizon team for that audit 
 
 K1 - Double audit and accounting interest check 
-
-
 K1 generation for huge entity webs
-
 Real estate returns 
-
 Non profit reporting 
-
 Roll forward 
-
 Deloitte tax portal 
 Tax intella store documentation info requests users deadlines 
-
 Client make requests to their end client 
-
 Import templates 
-
 Then line items get assigned 
-
 Variance report 
-
-K1s - foreign reporting footnote generation - elections, rules for allocations
+K1s foreign reporting footnote generation - elections, rules for allocations
 Template this is this type of entity w features and special thing generates footnotes for k1s 
 That is for overaching entity level and that needs to be distributes 
 Reports for each partner entitled go thru the packs  
