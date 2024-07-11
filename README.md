@@ -37,13 +37,17 @@ ESMA - EUROPack - Upload filings, retrieve filings
 ## Report Envs:
 
 SBRM - SBRM - fasb subset -populate SBRM with aspects and facts. AI transformation silos
+EDGAR ESMA
 
 MiCa ViCa  - MicaVica - populate euro web3 asset tracking filing specs' aspects and facts, via ixbrl whitepapers. AI transformation silos 
+EDGAR ESMA
 
 ACTUS - ACTUS - all encompassing financial product modeler (about 100 of every fin product today)
+COMMERCIAL ANALYSIS 
 
 SOC - usbank e&y audit and internal audits - soc 1 and soc2 audits - has to be a cpa firm - soc 2 is a service to service bank - soc 1 is from a financial statement perepsective 
 pcidss - verizon team for that audit 
+UNKNOWN
 
 K1 - Double audit and accounting interest check 
 K1 generation for huge entity webs
@@ -62,10 +66,15 @@ That is for overaching entity level and that needs to be distributes
 Reports for each partner entitled go thru the packs  
 Roll forward - an element its rolling specs 
 Accured notes - outstanding debt can roll forward too so it is structure and fact 
+EDGAR
+
 
 FASB 2024 Taxonomy - https://xbrlview.fasb.org/yeti/resources/yeti-gwt/Yeti.jsp#tax~(id~174*v~10231)!con~(id~5273661)!net~(a~3474*l~832)!lang~(code~en-us)!path~(g~99019*p~0_0)!rg~(rg~32*p~12)
+EDGAR
+
 
 Ferc Energy Credit Audits
+UNKNOWN
 
 ## Visuals Envs 
 
