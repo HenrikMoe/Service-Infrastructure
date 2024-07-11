@@ -18,7 +18,8 @@ MiCa ViCa  - MicaVica - populate euro web3 asset tracking filing specs' aspects 
 
 ACTUS - ACTUS - all encompassing financial product modeler (about 100 of every fin product today)
 
-SOC - na
+SOC - usbank e&y audit and internal audits - soc 1 and soc2 audits - has to be a cpa firm - soc 2 is a service to service bank - soc 1 is from a financial statement perepsective 
+pcidss - verizon team for that audit 
 
 Sfac-6 
 
