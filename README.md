@@ -7,6 +7,15 @@ Service infrastructure for  https://jinsei.ai.
 ## Authority Services
 
 SEC EDGAR API - EdgarPack - Upload filings, retrieve filings
+https://www.sec.gov/files/edgar/filermanual/efmvol1.pdf
+https://www.sec.gov/files/edgar/filermanual/archive/efmvol2.pdf
+sec solution engine
+The SEC accepts electronic submissions on EDGAR Monday through Friday, except federal holidays, from 6 a.m. to 10 p.m. Eastern Time. See also Rule 12 of Regulation S-T, 17 CFR 232.12. Rule 13 of Regul
+form-id 
+https://www.sec.gov/page/edgar-how-do-i-prepare-and-submit-my-form-id-application
+ https://www.filermanagement.edgarfiling.sec.gov/filermgmt/selectFormId.html
+get online notarization tool
+
 
 EURO - EUROPack - Upload filings, retrieve filings
 
