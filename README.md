@@ -83,6 +83,11 @@ JinseiLuciano -  link the repo - needs like a file editors package navigator for
 Jinsei API - Desinger needed w react 7 yrs - 
 Specs doc for designer: https://docs.google.com/document/d/1-msOp2yvxAZJnFdpXi0jH3BZSJShm_2GWBC9O5tE4vY/edit
 
+## Commercial Envs
+
+ACTUS and Edgar report taxonomies will be available for request over hosted JINSEI API with a key of course
+
+
 # Hardware
 
 https://taggartinstitute.org/p/the-homelab-almanac
