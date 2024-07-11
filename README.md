@@ -22,6 +22,16 @@ A submission may have more than one attached document formatted using Inline XBR
 
 The Discoverable Taxonomy Set (DTS) of an instance document is the set of all schemas and linkbases that are found by following all URI links and references.
 
+135 rules from xbrl-us  - data quality committee github https://github.com/DataQualityCommittee/dqc_us_rules
+they sit in a gh repo sec uses a subset 
+the xule editor works with all these rules 
+instance references the taxonmy that uses the linkbases 
+those rules are used in the us gaap taxonmy - some subset 
+viewer for the dqc rules taxonmy and the us gaap https://xbrl.us/xbrl-taxonomy/2024-us-gaap/
+edgar filing portal 
+https://xbrl.us/xbrl-reference/tdh/
+how do xbrl instances have permission and access to ns uri? what requests are made by the edgar to the ns uri
+
 ESMA - EUROPack - Upload filings, retrieve filings
 
 ## Report Envs:
