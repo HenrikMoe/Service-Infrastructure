@@ -12,7 +12,7 @@ EURO - EUROPack - Upload filings, retrieve filings
 
 ## Report Envs:
 
-SBRM - SBRM - populate SBRM with aspects and facts. AI transformation silos
+SBRM - SBRM - fasb subset -populate SBRM with aspects and facts. AI transformation silos
 
 MiCa ViCa  - MicaVica - populate euro web3 asset tracking filing specs' aspects and facts, via ixbrl whitepapers. AI transformation silos 
 
