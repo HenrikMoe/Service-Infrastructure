@@ -15,6 +15,7 @@ form-id
 https://www.sec.gov/page/edgar-how-do-i-prepare-and-submit-my-form-id-application
  https://www.filermanagement.edgarfiling.sec.gov/filermgmt/selectFormId.html
 get online notarization tool
+
 IXBRL Edgar Uptake- The Inline XBRL document format is based on HTML and can be viewed in a browser and used in all the same ways that an HTML document can be viewed and used. As compared to HTML, however, an Inline XBRL document contains additional XML elements and XML attributes that allow the document to be validated and processed as an XBRL instance document. As a result, filers that submit an Inline XBRL document are not required to submit a separate instance document as described in Chapter 6, “Interactive Data,” and EDGAR will not accept an Inline XBRL document that includes a separate instance document in the submission process.
 
 
