@@ -20,7 +20,9 @@ IXBRL Edgar Uptake- The Inline XBRL document format is based on HTML and can be 
 
 A submission may have more than one attached document formatted using Inline XBRL. Inline XBRL formatted attachments are processed and validated together as an Inline XBRL Document Set (IXDS), as defined by section 3.1 of the Inline XBRL 1.1 Specification, producing a single target instance document. For submissions with an Inline XBRL attachment, all references to “official HTML/ASCII document” in Chapter 6 should be read as “IXDS” All of the validations that apply in Chapter 6 apply to the target instance document.
 
-EURO - EUROPack - Upload filings, retrieve filings
+The Discoverable Taxonomy Set (DTS) of an instance document is the set of all schemas and linkbases that are found by following all URI links and references.
+
+ESMA - EUROPack - Upload filings, retrieve filings
 
 ## Report Envs:
 
