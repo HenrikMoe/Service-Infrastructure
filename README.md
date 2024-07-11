@@ -44,10 +44,9 @@ FASB 2024 Taxonomy - https://xbrlview.fasb.org/yeti/resources/yeti-gwt/Yeti.jsp#
 
 ## Visuals Envs 
 
-JinseiLuciano -  link the repo
+JinseiLuciano -  link the repo - needs like a file editors package navigator for the report package taxonomy 
 
 Jinsei API - Desinger needed w react 7 yrs - 
-
 Specs doc for designer: https://docs.google.com/document/d/1-msOp2yvxAZJnFdpXi0jH3BZSJShm_2GWBC9O5tE4vY/edit
 
 # Hardware
