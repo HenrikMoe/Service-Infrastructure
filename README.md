@@ -80,7 +80,7 @@ UNKNOWN
 
 NewName - Jinsei Luciano Legacy -  ok your k1s listed above, your k1 links visual file above on the left side (which when clicked goes into the viewer not the active fs), yur k1 final pack, k1 xbrl packs, all listed together, then they get clicked on and it is in the active fs below (all left)
 
-the right side has the report file infromation and above that is the API connections to company apis and jinsei transformers listed as named services and when clicked they display below as service pipelines with like active status and endpoint creation via the ui with modals,
+the right side has the report file infromation and above that is the API connections to company apis and jinsei transformers listed as named services and when clicked they display below as service pipelines with like active status and endpoint creation with the transformers via the ui with modals, so you can be like hey myservice1 call xuri1, 2, and 3 into jinsei.ai-mypersonalk1transformer and connect the dozen type output set with jinsei.ai-mypersonalsecedgarfiler 
 
 Jinsei API - API transformer listing with publically and privately avialble trainig data displayed with perofmrance analytics - 
 Specs doc for designer: https://docs.google.com/document/d/1-msOp2yvxAZJnFdpXi0jH3BZSJShm_2GWBC9O5tE4vY/edit
