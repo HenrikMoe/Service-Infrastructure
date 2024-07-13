@@ -78,9 +78,11 @@ UNKNOWN
 
 ## Visuals and Integrated Commericial Envs 
 
-JinseiLuciano -  link the repo - needs like a file editors package navigator iframe for the report package taxonomy 
+NewName - Jinsei Luciano Legacy -  ok your k1s listed above, your k1 links visual file above on the left side (which when clicked goes into the viewer not the active fs), yur k1 final pack, k1 xbrl packs, all listed together, then they get clicked on and it is in the active fs below (all left)
 
-Jinsei API - Desinger needed w react 7 yrs - 
+the right side has the report file infromation and above that is the API connections to company apis and jinsei transformers listed as named services and when clicked they display below as service pipelines with like active status and endpoint creation via the ui with modals,
+
+Jinsei API - API transformer listing with publically and privately avialble trainig data displayed with perofmrance analytics - 
 Specs doc for designer: https://docs.google.com/document/d/1-msOp2yvxAZJnFdpXi0jH3BZSJShm_2GWBC9O5tE4vY/edit
 
 ACTUS and Edgar report taxonomies will be available for request over hosted JINSEI API with a key of course
