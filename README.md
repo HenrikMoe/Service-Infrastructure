@@ -78,7 +78,7 @@ UNKNOWN
 
 ## Visuals and Integrated Commericial Envs 
 
-NewName - Jinsei Luciano Legacy -  Services, Active Package, APIs, Canvas, services only goes one level down. it has report packages, api code bases, listed to be selected then shown in active package. 
+NewName - Jinsei Luciano Legacy -  Services, Active Package, APIs, Canvas, services only goes one level down. it has report packages, api code bases, and deployed services in hosted or ci/cd/imagineered packages listed to be selected then shown in active package. 
 
 ok your k1s listed above, your k1 links visual file above on the left side (which when clicked goes into the viewer not the active fs), yur k1 final pack, k1 xbrl packs, all listed together, then they get clicked on and it is in the active fs below (all left)
 
