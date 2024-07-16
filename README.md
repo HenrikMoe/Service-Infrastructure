@@ -88,6 +88,8 @@ declare the data states in a npm compat file
 
 use some sort of declaritive instantion component hook component wrap from npm import should just be able to call in the ui component - redux? 
 
+Api pack to the services - every transformer is its own subpack - called in the state instantion add on config 
+
 Jinsei API - API transformer listing with publically and privately avialble trainig data displayed with perofmrance analytics - 
 Specs doc for designer: https://docs.google.com/document/d/1-msOp2yvxAZJnFdpXi0jH3BZSJShm_2GWBC9O5tE4vY/edit
 
@@ -102,13 +104,11 @@ https://taggartinstitute.org/p/the-homelab-almanac
 Applications:
 
 ## Neural Net Envs
- - graph element , nix
-
-## Neural Net Interface
-- graph compliation / nix
+ - graph element , nix , part of transfomer subpack
 
 ## Security/IAM Management 
-- graph edge management / nix
+- graph edge management / nix , enterprise pack
+- transfomer packs have enterprise pack interface
 
 ## Visualization User Interface
 - graph query assembly pack
