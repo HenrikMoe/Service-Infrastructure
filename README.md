@@ -97,7 +97,7 @@ Enterprise pack - rust declaration of users and iam permissions with key generat
 
 jinsei api subpack for okaying enterprise iams 
 
-ACTUS and Edgar report taxonomies will be available for request over hosted JINSEI API with a key of course
+ACTUS and Edgar report taxonomies will be available for request over hosted JINSEI API with a key of course - as transformer packs
 
 # Hardware
 
