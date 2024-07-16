@@ -93,6 +93,10 @@ Api pack to the services - every transformer is its own subpack - called in the 
 Jinsei API - API transformer listing with publically and privately avialble trainig data displayed with perofmrance analytics - 
 Specs doc for designer: https://docs.google.com/document/d/1-msOp2yvxAZJnFdpXi0jH3BZSJShm_2GWBC9O5tE4vY/edit
 
+Enterprise pack - rust declaration of users and iam permissions with key generating functions for access to routes within jinsei api, 
+
+jinsei api subpack for okaying enterprise iams 
+
 ACTUS and Edgar report taxonomies will be available for request over hosted JINSEI API with a key of course
 
 # Hardware
