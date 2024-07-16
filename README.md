@@ -118,7 +118,8 @@ Applications:
 - graph query assembly pack
 
 ## Env Management
-- graph domain management, opentofu packs, staging and replications
+- graph domain management, opentofu pack for calling the image generator pack, staging and replications, interface for enterprise pack so it can display service info in the ui
+- service compilation and auto code pack producing docker image
 
 # Evaluation
 
