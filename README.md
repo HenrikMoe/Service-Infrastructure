@@ -90,8 +90,9 @@ use some sort of declaritive instantion component hook component wrap from npm i
 
 Api pack to the services - every transformer is its own subpack - called in the state instantion add on config 
 
-Jinsei API - API rust transformer pack listing with publically and privately avialble trainig data with perofmrance analytics - 
-drafted service listing page and further redocly documentation - Specs doc for designer: https://docs.google.com/document/d/1-msOp2yvxAZJnFdpXi0jH3BZSJShm_2GWBC9O5tE4vY/edit
+Jinsei API - API rust transformer packs w nix and tofu listing with publically and privately avialble trainig data with perofmrance analytics and tf ai for the statment data transformations and maps for transformations- 
+
+Api service listing ui npm - drafted service listing page and further redocly documentation - Specs doc for designer: https://docs.google.com/document/d/1-msOp2yvxAZJnFdpXi0jH3BZSJShm_2GWBC9O5tE4vY/edit
 
 Enterprise pack - rust declaration of users and iam permissions with key generating functions for access to routes within jinsei api, 
 
