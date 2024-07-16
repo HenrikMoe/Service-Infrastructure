@@ -115,7 +115,7 @@ Applications:
 - transfomer packs have enterprise pack interface
 
 ## Visualization User Interface
-- graph query assembly pack
+- graph query assembly pack - the uis abov
 
 ## Env Management
 - graph domain management, opentofu pack for calling the image generator pack, staging and replications, interface for enterprise pack so it can display service info in the ui
