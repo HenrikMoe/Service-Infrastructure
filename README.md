@@ -101,6 +101,8 @@ Enterprise pack - rust declaration of users and iam permissions with key generat
 
 jinsei api subpack for okaying enterprise iams - api subpack aggregator api 
 
+directory runner for users
+
 # Hardware
 
 https://taggartinstitute.org/p/the-homelab-almanac
