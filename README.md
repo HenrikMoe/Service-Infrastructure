@@ -81,7 +81,7 @@ UNKNOWN
 
 ## Visuals and Integrated Commericial Envs 
 
-new landing: the main vid out of them and a footer w heavyinfo
+new landing: the commercial vid out of them and a footer w heavyinfo 
 
 NewName - Jinsei Luciano Legacy -  Services, Active Package, APIs, Canvas, services only goes one level down. it has report packages, api code bases, and deployed services in hosted or ci/cd/imagineered packages listed to be selected then shown in active package. 
 
