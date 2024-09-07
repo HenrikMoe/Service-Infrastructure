@@ -6,6 +6,8 @@ Service infrastructure for  https://jinsei.ai.
 
 ## Authority Services
 
+Asia
+
 SEC EDGAR API - EdgarPack - Upload filings, retrieve filings
 https://www.sec.gov/files/edgar/filermanual/efmvol1.pdf
 https://www.sec.gov/files/edgar/filermanual/archive/efmvol2.pdf
