@@ -117,6 +117,7 @@ Applications:
 
 ## Neural Net Envs
  - graph element , nix , part of transfomer subpack
+- specs
 
 ## Security/IAM Management 
 - graph edge management / nix , enterprise pack
