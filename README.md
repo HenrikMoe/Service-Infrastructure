@@ -124,6 +124,7 @@ Applications:
 ## Security/IAM Management 
 - graph edge management / nix , enterprise pack
 - transfomer packs have enterprise pack interface
+- pack examples
 
 ## Visualization User Interface
 - graph query ie service assembly pack - the uis abov
