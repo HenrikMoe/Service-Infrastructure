@@ -128,6 +128,7 @@ Applications:
 
 ## Visualization User Interface
 - graph query ie service assembly pack - the uis abov
+- outsourced npm nd mac ui packs
 
 ## Env Management
 - graph domain management, opentofu pack for calling the image generator pack, staging and replications, interface for enterprise pack so it can display service info in the ui
