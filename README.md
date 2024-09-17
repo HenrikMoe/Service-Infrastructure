@@ -124,7 +124,7 @@ Applications:
 ## Security/IAM Management 
 - graph edge management / nix , enterprise pack
 - transfomer packs have enterprise pack interface
-- packs w iam and env spinup
+- packs w opentofu iam and env spinup
 
 ## Visualization User Interface
 - graph query ie service assembly pack - the uis abov
@@ -133,7 +133,7 @@ Applications:
 ## Env Management
 - graph domain management, opentofu pack for calling the image generator pack, staging and replications, interface for enterprise pack so it can display service info in the ui
 - service compilation and auto code pack producing docker image
-- package specs
+- package specs, docker opentofu 
 
 # Evaluation
 
