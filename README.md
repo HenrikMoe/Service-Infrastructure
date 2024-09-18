@@ -121,7 +121,7 @@ Applications:
 
 ## Neural Net Envs
  - graph element , nix , part of transfomer subpack
-- specs
+- specs xgrok tf py in rust
 
 ## Security/IAM Management 
 - graph edge management / nix , enterprise pack
