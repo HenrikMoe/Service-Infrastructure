@@ -123,7 +123,7 @@ Applications:
 
 ## Neural Net Envs
  - graph element , nix , part of transfomer subpack
-- specs xgrok tf py in rust, api layer specs
+- specs xgrok tf py in rust, api layer specs, budget
 
 ## Security/IAM Management 
 - graph edge management / nix , enterprise pack
