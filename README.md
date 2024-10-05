@@ -1,8 +1,9 @@
 # Service-Infrastructure
 
-interactive demo webpage replic: https://app.arcade.software/share/0XFiwiEY3ObVQ9U4bHoB?embed_referrer=https%3A%2F%2Fzapier.com%2F
+interactive demo webpage replic:https://app.arcade.software/share/0XFiwiEY3ObVQ9U4bHoB?embed_referrer=https%3A%2F%2Fzapier.com%2F
+-dun
 
-4 x 10ish json for all demo data(embedded indiv vids via uri idk host)pre demo demo select screen 1 component, video and text 1 component, scroll buttons and progess bar components, parent
+Building books with Baker Tilly. Development partnership with open ended scenarios
 
 Service infrastructure for  https://jinsei.ai.
 
