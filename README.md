@@ -3,7 +3,9 @@
 interactive demo webpage replic:https://app.arcade.software/share/0XFiwiEY3ObVQ9U4bHoB?embed_referrer=https%3A%2F%2Fzapier.com%2F
 -dun
 
-Building books with Baker Tilly. Development partnership with open ended scenarios
+Building books with Baker Tilly. Development partnership with open ended scenarios. 
+
+common eval rules: 
 
 Service infrastructure for  https://jinsei.ai.
 
