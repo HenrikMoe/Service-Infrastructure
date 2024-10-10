@@ -67,12 +67,13 @@ team licesning schedules are dependent on value observed during team testing and
 
 at least one license schedule must be executed 
 
+share price x 1M(10%) = 2 yr budget 
+
 clauses for BT escape, 
 
 clauses for Jinsei escape
 
-This gives us valuation right warren?
-
+share price is a table
 
 
 Service infrastructure for  https://jinsei.ai.
