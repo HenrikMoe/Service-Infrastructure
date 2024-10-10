@@ -53,6 +53,10 @@ license value = avg salary: 90000 X 25 X util: (1-.4)
 
 annual license val for this team: 9600000 
 
+2nd val: budget 2 yr build
+
+calc for systems, business administration, marketing
+
 
 
 Service infrastructure for  https://jinsei.ai.
