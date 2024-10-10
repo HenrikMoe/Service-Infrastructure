@@ -11,8 +11,6 @@ times revenue valu:
 
  price x shares / revperyr = valu The result indicates how many times of annual income a buyer was willing to pay for a company. https://www.google.com/books/edition/_/n70LEAAAQBAJ?hl=en&gbpv=0
 
-price x shares = build budg and co budg
-
 valu = const like 5 in this industry?
 
 revperyr= scenarioed revenue from BT licensing sched
