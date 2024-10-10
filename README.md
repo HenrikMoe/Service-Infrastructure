@@ -19,6 +19,33 @@ revperyr= scenarioed revenue from BT licensing sched
 
 ioi agreements? examples
 
+budget two yr & license schedu values - 2 vals util and ac 
+
+util - case study deloitte p.e. client management team - 
+
+util estimate: (50% reduction in process time with Jinsei automation) (through configured and running jinsei services requiring operator audit and minor data edits)
+
+Filing workflows:
+
+x10 over 1 month period team size 25
+
+footnote creation and editing on k1 (avg 3 times for each 25 clients) (avg 1 time 2 hours) = 150 h
+
+california tax rule audits filing (1 time for each 25 clients)  (avg 1 time 4 hours) = 100 h
+
+other filing proceses...
+
+estimate 10 things come out to avg 125h each, 1250 total hours for 25 person team = 47ish hour weeks per member 
+
+for 15 person team or a 40% salary expense reduction
+
+80hish weeks per member with same work demand
+
+with jinsei.ai -> 40ish h weeks for the team
+
+
+
+
 Service infrastructure for  https://jinsei.ai.
 
 # Branches
