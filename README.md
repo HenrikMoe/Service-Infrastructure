@@ -23,7 +23,7 @@ budget two yr & license schedu values - 2 vals util and ac
 
 util - case study deloitte p.e. client management team - 
 
-util estimate: (50% reduction in process time with Jinsei automation) (through configured and running jinsei services requiring operator audit and minor data edits)
+util estimate: (50% reduction in process time with Jinsei automation) (through configured and running jinsei.ai services requiring operator audit and minor data edits)
 
 Filing workflows:
 
@@ -43,6 +43,15 @@ for 15 person team or a 40% salary expense reduction
 
 with jinsei.ai -> 40ish h weeks for the team
 
+license value = avg salary: 90000 X 25 X util: (1-.4) 
+
+2250000 25 person team 
+
+1450000 15 person team 
+
+800000 in value x12 mo license
+
+annual license val for this team: 9600000 
 
 
 
