@@ -15,7 +15,9 @@ price x shares = build budg and co budg
 
 valu = const like 5 in this industry?
 
-revperyr= scenarioed revenue from BT licensing 
+revperyr= scenarioed revenue from BT licensing sched
+
+ioi agreements? examples
 
 Service infrastructure for  https://jinsei.ai.
 
