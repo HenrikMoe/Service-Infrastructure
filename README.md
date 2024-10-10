@@ -57,6 +57,22 @@ annual license val for this team: 9600000
 
 calc for systems, business administration, marketing
 
+to get revperyr= scenarioed revenue from BT licensing sched - development partnership or ioi agreement
+
+depending on what they want to do , acquire and align for team licensing, or align for team licensing
+
+align for team testing: offer a license rate at a slightly lower value than the utility or a lockout period from other accounting companies
+
+team licesning schedules are dependent on value observed during team testing and implementation
+
+at least one license schedule must be executed 
+
+clauses for BT escape, 
+
+clauses for Jinsei escape
+
+This gives us valuation right warren?
+
 
 
 Service infrastructure for  https://jinsei.ai.
