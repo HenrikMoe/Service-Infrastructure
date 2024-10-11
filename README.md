@@ -57,7 +57,7 @@ calc for systems, business administration, marketing
 
 to get revperyr= scenarioed revenue from BT licensing sched - development partnership or ioi agreement
 
-depending on what they want to do , acquire and align for team licensing, or align for team licensing
+--->> depending on what they want to do , acquire and align for team licensing, or align for team licensing w a lockout period
 
 align for team testing: offer a license rate at a slightly lower value than the utility or a lockout period from other accounting companies
 
