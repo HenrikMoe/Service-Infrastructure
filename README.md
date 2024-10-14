@@ -5,6 +5,8 @@ interactive demo webpage replic:https://app.arcade.software/share/0XFiwiEY3ObVQ9
 
 Building books with Baker Tilly. 
 
+due dilligence agreement: https://docs.google.com/document/d/18O3qxAD5mrm_s2Z1SoHTkcMNEWYvwFG_mVcOhlYajww/edit?usp=sharing
+
 common eval rules: 
 
 times revenue valu: 
