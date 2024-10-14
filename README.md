@@ -15,7 +15,9 @@ valu = const like 5 in this industry?
 
 revperyr= scenarioed revenue from BT licensing sched
 
-ioi agreements? examples
+ioi agreements? examples https://www.sec.gov/Archives/edgar/data/1117119/000119312508129978/dex99d10.htm
+
+dd:
 
 budget two yr & license schedu values - 2 vals util and ac 
 
