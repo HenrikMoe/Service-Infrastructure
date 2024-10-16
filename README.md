@@ -7,7 +7,7 @@ Building books with Baker Tilly.
 
 due dilligence agreement: https://docs.google.com/document/d/18O3qxAD5mrm_s2Z1SoHTkcMNEWYvwFG_mVcOhlYajww/edit?usp=sharing
 
-stack budget
+stack budget, reach to chase after bt tech team circles
 
 common eval rules: 
 
