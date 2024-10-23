@@ -3,7 +3,9 @@
 interactive demo webpage replic:https://app.arcade.software/share/0XFiwiEY3ObVQ9U4bHoB?embed_referrer=https%3A%2F%2Fzapier.com%2F
 -dun - https://jinsei.ai/activedemo
 
-Building books with Baker Tilly. bt gov audit team first use case/ team impl/ build active demo for team for erp dd - p
+books with Baker Tilly. innovation team and ai team leads - p rev
+
+bt gov audit team first use case/ team impl/ build active demo for team for erp dd - p
 
 due dilligence agreement: https://docs.google.com/document/d/18O3qxAD5mrm_s2Z1SoHTkcMNEWYvwFG_mVcOhlYajww/edit?usp=sharing
 
