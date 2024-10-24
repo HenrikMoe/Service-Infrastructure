@@ -169,7 +169,7 @@ Baker Tilly spreadsheet service provider
 
 https://taggartinstitute.org/p/the-homelab-almanac
 
-locations 3 hardware items: server computer, routing computer, isp costs, rent costs, security costs @ 3 locations
+items: server computer, routing computer, isp costs, rent costs, security costs @ 3 locations
 
 # Software
 
@@ -185,7 +185,6 @@ Infrastructure:
 Applications:
 
 ## Neural Net Envs
-.sh files ./turbospinup
  - graph element , nix , part of transfomer subpack
 - specs xgrok tf py in rust, api layer specs, budget, examples 
 
@@ -201,16 +200,6 @@ Applications:
 ## Env Management
 - graph domain management, opentofu pack for calling the image generator pack, staging and replications, interface for enterprise pack so it can display service info in the ui
 - service compilation and auto code pack producing docker image
-- package specs, docker opentofu 
+- package hosting partion specs, docker opentofu 
 
-# Evaluation
 
-Application and per unit resuability projections
-
-# Audited Security
-
-Soc checklists
-
-# Data
-
-Tokenized actus product list
