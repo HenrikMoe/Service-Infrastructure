@@ -133,7 +133,7 @@ Applications:
 - iam packages
 
 
-## Use Cases - ad infinum
+## Use Cases - ad infinitum
 
 ## Authority Services
 
