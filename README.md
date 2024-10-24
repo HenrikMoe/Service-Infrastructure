@@ -186,7 +186,9 @@ Applications:
 
 ## Neural Net Envs
  - graph element , nix , part of transfomer subpack
-- specs xgrok tf py in rust, api layer specs, budget, examples 
+- specs xgrok tf py in rust, api layer specs, budget, examples, 
+- auto mapping model characterisitcs to the inputted training data extension
+- more model mapping packages with data formatting and isolated data transforming predictive characteristics - chase, r&d
 
 ## Security/IAM Management 
 - graph edge management / nix , enterprise pack
@@ -202,4 +204,6 @@ Applications:
 - service compilation and auto code pack producing docker image
 - package hosting partion specs, docker opentofu 
 
-
+## Database
+- postegre sql for llm assembly and writing
+- iam packages
