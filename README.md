@@ -5,8 +5,6 @@ interactive demo webpage replic:https://app.arcade.software/share/0XFiwiEY3ObVQ9
 
 books with Baker Tilly. innovation team and ai team leads - p rev
 
-bt gov audit team first use case/ team impl/ build active demo for team for erp dd - p
-
 due dilligence agreement: https://docs.google.com/document/d/18O3qxAD5mrm_s2Z1SoHTkcMNEWYvwFG_mVcOhlYajww/edit?usp=sharing
 
 stack budget, reach to chase after bt tech team dd
@@ -197,7 +195,18 @@ iam packages:
 
 https://taggartinstitute.org/p/the-homelab-almanac
 
+locations 3 hardware items: server computer, routing computer, isp costs, rent costs, security costs @ 3 locations
+
 # Software
+
+Infrastructure:
+
+## Provisions 
+
+- tf setup partions services evenly across hardware
+- 3 namespace setup for developmemt staging prod branched versioning for each
+- tf managed packaging and routing details
+- ci/cd with shell scripting on damon  
 
 Applications:
 
