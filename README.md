@@ -165,31 +165,7 @@ UNKNOWN
 
 ## Visuals and Integrated Commericial Envs 
 
-new landing: the commercial vid out of them and a footer w heavyinfo 
-
-NewName - Jinsei Luciano Legacy -  Services, Active Package, APIs, Canvas, services only goes one level down. it has report packages, api code bases, and deployed services in hosted or ci/cd/imagineered packages listed to be selected then shown in active package. 
-
-ok your k1s listed above (service generated report packages), your k1 links visual directory above on the left side (when clicked goes into the active fs), yur k1 final pack, k1 xbrl packs, all listed together, then they get clicked on and it is in the active fs below (all left), when a file from there is clicked it goes into the lower right viewer. 
-
-the right side has the report file infromation and above that is the API connections to company apis and jinsei transformers listed as named services and when clicked they display below as service pipelines with like active status and endpoint creation with the transformers via the ui with modals, so you can be like hey myservice1 call xuri1, 2, and 3 into jinsei.ai-mypersonalk1transformer and connect the dozen type output set with jinsei.ai-mypersonalsecedgarfiler 
-
-declare the data states in a npm compat file
-
-use some sort of declaritive instantion component hook component wrap from npm import should just be able to call in the ui component - redux? 
-
-Api pack to the services - every transformer is its own subpack - called in the state instantion (of a service)
-
-Jinsei API - API rust transformer packs w nix and tofu listing with publically and privately avialble trainig data with perofmrance analytics and tf ai for the statment data transformations and maps for transfomers - HL subpack overview
-
-Api service listing ui npm - drafted service listing page and further redocly documentation - Specs doc for designer: https://docs.google.com/document/d/1-msOp2yvxAZJnFdpXi0jH3BZSJShm_2GWBC9O5tE4vY/edit - transformer endpoint packs - what is in each endpoint? - private and publicly usable versions of the transformers based on the authenticated IAM enterprise config
-
-Enterprise pack - rust declaration of users and iam permissions with key generating functions for access to routes within jinsei api, 
-
-jinsei api subpack for okaying enterprise iams - api subpack aggregator api 
-
-directory runner for users
-
-iam packages: 
+Baker Tilly spreadsheet service provider 
 
 # Hardware
 
