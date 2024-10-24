@@ -84,8 +84,6 @@ share price is a table
 
 Service infrastructure for  https://jinsei.ai.
 
-# Branches
-
 ## Authority Services
 
 Asia
