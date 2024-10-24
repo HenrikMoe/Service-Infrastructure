@@ -202,6 +202,7 @@ https://taggartinstitute.org/p/the-homelab-almanac
 Applications:
 
 ## Neural Net Envs
+.sh files ./turbospinup
  - graph element , nix , part of transfomer subpack
 - specs xgrok tf py in rust, api layer specs, budget, examples 
 
