@@ -177,7 +177,7 @@ Infrastructure:
 
 ## Provisions 
 
-- tf setup partions services so that every ns is available at any time on each hardware location
+- tf partition services so that every ns is available at any time on each hardware location
 - 3 namespace setup for developmemt staging prod branched versioning for each
 - tf managed packaging and routing details
 - ci/cd with shell scripting on damon  
