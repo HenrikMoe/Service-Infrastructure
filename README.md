@@ -39,9 +39,6 @@ Applications:
 - service and subservice packs with on premise iam package interface
 - full onprem service w tf/opentofu and cli iam packages, routing, hardware
 
-## User Interface
-- react or other graph query service assembly pack 
-- outsourced npm nd mac ui packs, onprem
 
 ## Env Management Service
 - graph compilation api  
@@ -52,6 +49,10 @@ Applications:
 ## Database
 - postegre sql for llm assembly and writing
 - onpremiam compatibility 
+
+## User Interface
+- react with service assembly pack 
+- outsourced npm and mac ui packs, onprem integration
 
 ## Use Cases - ad infinitum
 
