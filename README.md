@@ -22,9 +22,10 @@ Infrastructure:
 ## Provisions 
 
 - tf(terraform) partition services 
-- namespace setup for developmemt staging prod branched versioning for each
+- developmemt staging production namespaces
+- git for all namespace configurations
 - tf managed packaging and routing details
-- ci/cd with shell scripting on damon  
+- ci/cd with shell scripting on damon on hardware
 
 Applications:
 
