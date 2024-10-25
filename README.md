@@ -11,6 +11,59 @@ stack budget, reach to chase after bt tech team dd
 
 admin budget: social, accounting, legal
 
+
+Service infrastructure for  https://jinsei.ai.
+
+
+## Visuals and Integrated Commericial Envs 
+
+Baker Tilly spreadsheet service provider 
+
+# Hardware
+
+https://taggartinstitute.org/p/the-homelab-almanac
+
+items: server computer, routing computer, isp costs, rent costs, security costs @ 3 locations
+
+# Software
+
+Infrastructure:
+
+## Provisions 
+
+- tf partition services so that every ns is available at any time on each hardware location
+- 3 namespace setup for developmemt staging prod branched versioning for each
+- tf managed packaging and routing details
+- ci/cd with shell scripting on damon  
+
+Applications:
+
+## Neural Net Envs
+ - graph element , nix , part of transfomer subpack
+- specs xgrok tf py in rust, api layer specs, budget, examples, 
+- auto mapping model characterisitcs to the inputted training data extension
+- more model mapping packages with data formatting and isolated data transforming predictive characteristics - chase, r&d
+
+## Security/IAM Management 
+- graph edge management / nix , enterprise pack
+- transfomer packs have enterprise pack interface
+- packs w opentofu iam and env spinup
+
+## Visualization User Interface
+- graph query ie service assembly pack - the uis abov
+- outsourced npm nd mac ui packs
+
+## Env Management
+- graph domain management, opentofu pack for calling the image generator pack, staging and replications, interface for enterprise pack so it can display service info in the ui
+- service compilation and auto code pack producing docker image
+- package hosting partion specs, docker opentofu 
+
+## Database
+- postegre sql for llm assembly and writing
+- iam packages
+
+## Use Case Example BackNapkim Econ
+
 common eval rules: 
 
 times revenue valu: 
@@ -80,58 +133,6 @@ clauses for BT escape,
 clauses for Jinsei escape
 
 share price is a table
-
-
-Service infrastructure for  https://jinsei.ai.
-
-
-## Visuals and Integrated Commericial Envs 
-
-Baker Tilly spreadsheet service provider 
-
-# Hardware
-
-https://taggartinstitute.org/p/the-homelab-almanac
-
-items: server computer, routing computer, isp costs, rent costs, security costs @ 3 locations
-
-# Software
-
-Infrastructure:
-
-## Provisions 
-
-- tf partition services so that every ns is available at any time on each hardware location
-- 3 namespace setup for developmemt staging prod branched versioning for each
-- tf managed packaging and routing details
-- ci/cd with shell scripting on damon  
-
-Applications:
-
-## Neural Net Envs
- - graph element , nix , part of transfomer subpack
-- specs xgrok tf py in rust, api layer specs, budget, examples, 
-- auto mapping model characterisitcs to the inputted training data extension
-- more model mapping packages with data formatting and isolated data transforming predictive characteristics - chase, r&d
-
-## Security/IAM Management 
-- graph edge management / nix , enterprise pack
-- transfomer packs have enterprise pack interface
-- packs w opentofu iam and env spinup
-
-## Visualization User Interface
-- graph query ie service assembly pack - the uis abov
-- outsourced npm nd mac ui packs
-
-## Env Management
-- graph domain management, opentofu pack for calling the image generator pack, staging and replications, interface for enterprise pack so it can display service info in the ui
-- service compilation and auto code pack producing docker image
-- package hosting partion specs, docker opentofu 
-
-## Database
-- postegre sql for llm assembly and writing
-- iam packages
-
 
 ## Use Cases - ad infinitum
 
