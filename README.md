@@ -31,9 +31,9 @@ Applications:
 
 ## Neural Net Envs
 - xgrok, tensorflow py, in rust
-- api layer: [see env management], budget, examples, 
 - deep product: auto mapping model characterisitcs to the inputted training data extension
 - deep product: more model mapping packages with data formatting and isolated data transforming predictive characteristics - chase, r&d
+- api layer: [see env management]
 
 ## Security/IAM Management 
 - service and subservice packs with on premise iam package interface
