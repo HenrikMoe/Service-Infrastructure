@@ -44,9 +44,10 @@ Applications:
 - outsourced npm nd mac ui packs, onprem
 
 ## Env Management API
-- graph domain management, opentofu pack for calling the image generator pack, staging and replications, interface for onprem ui packs 
-- service compilation and auto code pack producing docker image
-- package hosting partion specs, docker opentofu 
+- graph compilation api  
+- interface onprem and remote ui packs
+- [neural net env] pack producing service image
+- package hosting partition - terraform pack onprem or saas
 
 ## Database
 - postegre sql for llm assembly and writing
