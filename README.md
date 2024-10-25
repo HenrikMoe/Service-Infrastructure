@@ -1,15 +1,5 @@
 # Service-Infrastructure
 
-interactive demo webpage replic:https://app.arcade.software/share/0XFiwiEY3ObVQ9U4bHoB?embed_referrer=https%3A%2F%2Fzapier.com%2F
--dun - https://jinsei.ai/activedemo
-
-books with Baker Tilly. innovation team and ai team leads - p rev
-
-due dilligence agreement: https://docs.google.com/document/d/18O3qxAD5mrm_s2Z1SoHTkcMNEWYvwFG_mVcOhlYajww/edit?usp=sharing
-
-stack budget, reach to chase after bt tech team dd
-
-admin budget: social, accounting, legal
 
 
 Service infrastructure for  https://jinsei.ai.
