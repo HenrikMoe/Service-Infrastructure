@@ -40,29 +40,29 @@ Applications:
 
 ## Neural Net Envs
  - graph element , nix , part of transfomer subpack
-- specs xgrok tf py in rust, api layer specs, budget, examples, 
+- specs xgrok tf py in rust, api layer specs [env management], budget, examples, 
 - auto mapping model characterisitcs to the inputted training data extension
 - more model mapping packages with data formatting and isolated data transforming predictive characteristics - chase, r&d
 
 ## Security/IAM Management 
-- graph edge management / nix , enterprise pack
-- transfomer packs have enterprise pack interface
-- packs w opentofu iam and env spinup
+- graph edge management / nix , onprem packages
+- transfomer packs with on premise iam package interface
+- full onprem service w tf/opentofu with and cli iam packages, routing, hardware
 
 ## User Interface
 - graph query ie service assembly pack - the uis abov
 - outsourced npm nd mac ui packs, onprem
 
-## Env Management
-- graph domain management, opentofu pack for calling the image generator pack, staging and replications, interface for enterprise pack so it can display service info in the ui
+## Env Management API
+- graph domain management, opentofu pack for calling the image generator pack, staging and replications, interface for onprem ui packs 
 - service compilation and auto code pack producing docker image
 - package hosting partion specs, docker opentofu 
 
 ## Database
 - postegre sql for llm assembly and writing
-- iam packages
+- onpremiam compatibility 
 
-## Use Case Example BackNapkim Econ
+## Use Case Example Utility Notes
 
 common eval rules: 
 
