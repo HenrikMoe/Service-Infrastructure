@@ -13,7 +13,7 @@ cli spreadsheet service provider for onprem use
 
 https://taggartinstitute.org/p/the-homelab-almanac
 
-items: server computer, routing computer, isp costs, rent costs, security costs @ locations
+items: server computer, routing computer, isp costs, rent costs, security costs 
 
 # Software
 
