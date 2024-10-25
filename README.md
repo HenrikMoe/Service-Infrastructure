@@ -40,14 +40,14 @@ Applications:
 - full onprem w tf/opentofu and cli iam packages, routing, hardware
 
 
-## Env Management Service
+## Neural Network Management
 - graph compilation api  
-- nix rust crate assemblies of transfomer [see neural net env] packs
-- interface onprem and remote ui packs
-- package hosting partition - terraform pack onprem or saas
+- nix rust crate assemblies of transfomer packs [see neural net env] 
+- interfaces onprem and remote ui packages
+- service hosting partition - terraform pack onprem or saas
 
 ## Database
-- postegre sql for llm assembly and writing
+- postegre sql for llms
 - onpremiam compatibility 
 
 ## User Interface
