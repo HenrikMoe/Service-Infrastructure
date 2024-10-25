@@ -13,7 +13,7 @@ Client spreadsheet service provider for onPrem use.
 
 https://taggartinstitute.org/p/the-homelab-almanac
 
-server computer, routing computer, isp , rent , security  
+server, router, isp , rent , security  
 
 # Software
 
