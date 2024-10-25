@@ -29,8 +29,6 @@ Infrastructure:
 Applications:
 
 ## Neural Net Envs
- - graph elements:
-- result: nix rust crate assemblies of transfomer subpacks
 - specs: xgrok tensorflow py in rust, api layer specs: [see env management], budget, examples, 
 - auto mapping model characterisitcs to the inputted training data extension
 - more model mapping packages with data formatting and isolated data transforming predictive characteristics - chase, r&d
@@ -43,10 +41,10 @@ Applications:
 - react or other graph query service assembly pack 
 - outsourced npm nd mac ui packs, onprem
 
-## Env Management API
+## Env Management Service
 - graph compilation api  
+- nix rust crate assemblies of transfomer [see neural net env] packs
 - interface onprem and remote ui packs
-- [neural net env] pack producing service image
 - package hosting partition - terraform pack onprem or saas
 
 ## Database
