@@ -15,7 +15,7 @@ admin budget: social, accounting, legal
 Service infrastructure for  https://jinsei.ai.
 
 
-## Visuals and Integrated Commericial Envs 
+## On Premise Infrastructure 
 
 Baker Tilly spreadsheet service provider 
 
