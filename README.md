@@ -7,7 +7,7 @@ Service infrastructure for  https://jinsei.ai/activedemo.
 
 ## On Premise Infrastructure 
 
-Client spreadsheet service provider for onprem use. 
+Client spreadsheet service provider for onPrem use. 
 
 # Hardware
 
