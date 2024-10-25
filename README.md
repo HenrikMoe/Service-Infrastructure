@@ -30,9 +30,10 @@ Infrastructure:
 Applications:
 
 ## Neural Net Envs
-- specs: xgrok tensorflow py in rust, api layer specs: [see env management], budget, examples, 
-- auto mapping model characterisitcs to the inputted training data extension
-- more model mapping packages with data formatting and isolated data transforming predictive characteristics - chase, r&d
+- xgrok, tensorflow py, in rust
+- api layer: [see env management], budget, examples, 
+- deep product: auto mapping model characterisitcs to the inputted training data extension
+- deep product: more model mapping packages with data formatting and isolated data transforming predictive characteristics - chase, r&d
 
 ## Security/IAM Management 
 - service and subservice packs with on premise iam package interface
