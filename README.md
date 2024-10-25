@@ -7,7 +7,7 @@ Service infrastructure for  https://jinsei.ai.
 
 ## On Premise Infrastructure 
 
-Baker Tilly spreadsheet service provider 
+cli spreadsheet service provider for onprem use
 
 # Hardware
 
