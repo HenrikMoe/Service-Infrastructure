@@ -36,7 +36,7 @@ Applications:
 - api layer: [see env management]
 
 ## Security/IAM Management 
-- service and subservice packs with on premise iam package interface
+- service packs with multi layer iam subservice access 
 - full onprem service w tf/opentofu and cli iam packages, routing, hardware
 
 
