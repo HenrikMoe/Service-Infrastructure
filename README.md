@@ -32,7 +32,7 @@ Applications:
 ## Neural Net Envs
 - xgrok, tensorflow py, in rust
 - deep product: auto mapping model characterisitcs to the inputted training data extension
-- deep product: more model mapping packages with data formatting and isolated data transforming predictive characteristics - chase, r&d
+- deep product: tensorflow mapping packages with data formatting and isolated data predictive characteristics library
 - api layer: [see env management]
 
 ## Security/IAM Management 
