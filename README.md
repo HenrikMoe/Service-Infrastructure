@@ -37,7 +37,7 @@ Applications:
 
 ## Security/IAM Management 
 - service packs with multi layer iam subservice access 
-- full onprem service w tf/opentofu and cli iam packages, routing, hardware
+- full onprem w tf/opentofu and cli iam packages, routing, hardware
 
 
 ## Env Management Service
