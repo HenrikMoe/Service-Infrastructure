@@ -31,7 +31,7 @@ Applications:
 
 ## Neural Net Envs
 - xgrok, tensorflow py, in rust
-- auto configure model characterisitcs to the inputted training data extension type pack
+- configure model characterisitcs to the inputted training data extension type pack
 - tensorflow mapping packages with data formatting and isolated data predictive characteristics library
 - api layer: [see env management]
 
