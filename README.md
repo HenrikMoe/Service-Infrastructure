@@ -2,7 +2,7 @@
 
 
 
-Service infrastructure for  https://jinsei.ai.
+Service infrastructure for  https://jinsei.ai/activedemo.
 
 
 ## On Premise Infrastructure 
