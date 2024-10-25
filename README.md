@@ -25,7 +25,7 @@ Infrastructure:
 - developmemt staging production namespaces
 - git for all namespace configurations
 - tf managed packaging and routing details
-- ci/cd with shell scripting on damon on hardware
+- ci/cd with shell scripting on daemon 
 
 Applications:
 
