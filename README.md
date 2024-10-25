@@ -7,7 +7,7 @@ Service infrastructure for  https://jinsei.ai/activedemo.
 
 ## On Premise Infrastructure 
 
-cli spreadsheet service provider for onprem use
+Client spreadsheet service provider for onprem use. 
 
 # Hardware
 
@@ -21,26 +21,26 @@ Infrastructure:
 
 ## Provisions 
 
-- tf partition services so that every ns is available at any time on each hardware location
-- 3 namespace setup for developmemt staging prod branched versioning for each
+- tf(terraform) partition services 
+- namespace setup for developmemt staging prod branched versioning for each
 - tf managed packaging and routing details
 - ci/cd with shell scripting on damon  
 
 Applications:
 
 ## Neural Net Envs
- - graph element , nix , part of transfomer subpack
-- specs xgrok tf py in rust, api layer specs [env management], budget, examples, 
+ - graph elements:
+- result: nix rust crate assemblies of transfomer subpacks
+- specs: xgrok tensorflow py in rust, api layer specs: [see env management], budget, examples, 
 - auto mapping model characterisitcs to the inputted training data extension
 - more model mapping packages with data formatting and isolated data transforming predictive characteristics - chase, r&d
 
 ## Security/IAM Management 
-- graph edge management / nix , onprem packages
-- transfomer packs with on premise iam package interface
-- full onprem service w tf/opentofu with and cli iam packages, routing, hardware
+- service and subservice packs with on premise iam package interface
+- full onprem service w tf/opentofu and cli iam packages, routing, hardware
 
 ## User Interface
-- graph query ie service assembly pack - the uis abov
+- react or other graph query service assembly pack 
 - outsourced npm nd mac ui packs, onprem
 
 ## Env Management API
