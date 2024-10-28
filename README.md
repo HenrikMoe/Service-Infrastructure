@@ -126,7 +126,7 @@ EDGAR
 FASB 2024 Taxonomy - https://xbrlview.fasb.org/yeti/resources/yeti-gwt/Yeti.jsp#tax~(id~174*v~10231)!con~(id~5273661)!net~(a~3474*l~832)!lang~(code~en-us)!path~(g~99019*p~0_0)!rg~(rg~32*p~12)
 EDGAR
 
-Capitilization Fasb / ifrs 38 sec - antithesis if capitilaization reviewers
+Capitilization Fasb / ifrs 38 sec - antithesis of capitilaization reviewers
 
 ACTUS and Edgar report taxonomies will be available for request over hosted JINSEI API with a key of course - as transformer packs
 
