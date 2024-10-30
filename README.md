@@ -91,7 +91,7 @@ ESMA - EUROPack - Upload filings, retrieve filings
 ## Report Envs:
 
 SBRM - SBRM - fasb subset - populate SBRM with aspects and facts. AI transformation silos
-EDGAR ESMA
+EDGAR ESMA JP
 
 MiCa ViCa  - MicaVica - populate euro web3 asset tracking filing specs' aspects and facts, via ixbrl whitepapers. AI transformation silos 
 EDGAR ESMA
