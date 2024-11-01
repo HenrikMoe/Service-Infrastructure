@@ -60,6 +60,10 @@ Applications:
 
 Asia
 
+Cryptocurrency and blockchain transaction classification. 
+
+smart contract write and deployment auomtation
+
 SEC EDGAR API - EdgarPack - Upload filings, retrieve filings
 https://www.sec.gov/files/edgar/filermanual/efmvol1.pdf
 https://www.sec.gov/files/edgar/filermanual/archive/efmvol2.pdf
