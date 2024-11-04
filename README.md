@@ -9,6 +9,8 @@ Service infrastructure for  https://jinsei.ai/activedemo.
 
 Client spreadsheet service provider for onPrem use. 
 
+Runner or on prem app specs
+
 # Hardware
 
 https://taggartinstitute.org/p/the-homelab-almanac
