@@ -35,7 +35,7 @@ Applications:
 - xgrok, tensorflow py, in rust
 - package for configuring model with the inputted training data extension type 
 - library of tensorflow mapping packages with data formatting and isolated data predictive characteristics 
-- api layer/neural net assembly: [see env management]
+- api layer/neural net assembly
 
 ## Security/IAM Management 
 - service packs with multi layer iam subservice access 
