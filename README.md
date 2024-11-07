@@ -56,6 +56,12 @@ Applications:
 - react with service assembly pack 
 - outsourced npm and mac ui packs, onprem integration
 
+## Teams
+- application build
+- testing 
+- enterprise implementation
+- business admin
+
 ## Use Cases - ad infinitum
 
 Cryptocurrency and blockchain transaction classification. 
