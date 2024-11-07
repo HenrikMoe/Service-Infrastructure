@@ -7,9 +7,9 @@ Service infrastructure for  https://jinsei.ai/activedemo.
 
 ## On Premise Infrastructure 
 
-Client spreadsheet service provider for onPrem use. 
+Client spreadsheet service provider interface pack integration. 
 
-Runner or on prem layer pack specs
+Enterprise specific directory access packages
 
 # Hardware
 
