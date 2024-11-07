@@ -9,7 +9,7 @@ Service infrastructure for  https://jinsei.ai/activedemo.
 
 Client spreadsheet service provider for onPrem use. 
 
-Runner or on prem app specs
+Runner or on prem layer pack specs
 
 # Hardware
 
