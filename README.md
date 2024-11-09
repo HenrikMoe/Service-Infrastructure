@@ -41,8 +41,8 @@ Applications:
 - api layer/neural net assembly
 
 ## Security/IAM Management 
-- service packs with multi layer iam subservice access 
-- full onprem w tf/opentofu and cli iam packages, routing, hardware
+- Permissible route audit application 
+- On premise security audit application
 
 
 ## Neural Network Management
