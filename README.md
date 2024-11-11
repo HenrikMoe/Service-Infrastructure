@@ -60,8 +60,8 @@ Applications:
 - outsourced npm and mac ui packs, onprem integration
 
 ## Teams
-- application build
-- testing 
+- application build - nix flakes
+- testing - nix flakes
 - enterprise implementation
 - business admin
 
