@@ -34,10 +34,10 @@ Infrastructure:
 Applications:
 
 ## Neural Envs
-- xgrok, tensorflow py, in rust
-- package for configuring model with the inputted training data extension type 
+- xgrok, tensorflow py, in rust, 
+- package for configuring model with the inputted training data extension type x20
 - library of tensorflow mapping packages with data formatting and isolated data predictive characteristics 
-- per extension library data normalization layer 
+- per extension library data normalization layer x20
 - api layer/neural net assembly
 
 ## Security/IAM Management 
