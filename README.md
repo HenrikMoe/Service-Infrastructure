@@ -55,7 +55,7 @@ For questions contact CTO: Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - Neural Interface, Security, Database, Hosting, Compilation Application in Rust/Nix
   
 - **Licensing Applications**
-  - Service Secret and License Rebundler
+  - Service Secret and License Rebundler Applications
 
 ## Teams
 
