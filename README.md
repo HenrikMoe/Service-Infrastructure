@@ -5,7 +5,7 @@ For questions contact CTO: Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 ## SaaS Build Library
 
-### Hardware Provisions:
+#### Hardware Provisions:
 
 - Beelink SER6 or EQ13 @ 32 GB RAM
 - NVMe SSD
@@ -13,7 +13,7 @@ For questions contact CTO: Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - 7.2kwH/day @ Max Load
 - NixOS ISO 
 
-### Development Provision Packages:
+#### Development Provision Packages:
 
 - Developer Version Partition Applications
 - Development Operation Environment Applications
