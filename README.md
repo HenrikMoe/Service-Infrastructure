@@ -64,12 +64,6 @@ For questions contact CTO: Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - **Enterprise Implementation**
 - **Business Admin**
 
-## Use Cases
-
-- **Cyclical Data Augmentation Automation**
-  - Cryptocurrency and blockchain transaction classification
-  - Smart contract write and deployment automation
-  - **Custom Transformer Training** - Operators can train custom models to automate data transformation processes tailored to specific needs.
 
 ## Custom Data Transformation Platform
 
@@ -77,6 +71,11 @@ Our platform empowers operators with:
 
 - **Customizable Transformers:** Tailor AI models to fit specific data augmentation and transformation requirements.
 - **Cyclical Process Management:** Automate repetitive data handling tasks, from ingestion to transformation and output.
+  
+- **Cyclical Data Augmentation Automation**
+  - Cryptocurrency and blockchain transaction classification
+  - Smart contract write and deployment automation
+  - **Custom Transformer Training** - Operators can train custom models to automate data transformation processes tailored to specific needs.
 
 ## External Service Packages
 
@@ -87,7 +86,7 @@ Our platform empowers operators with:
   - Online Notarization Tool integration for seamless document verification.
  
 - **Leads CRM Reports** 
--   - **Purpose:** Manage SEC filings with custom data transformation for compliance.
+-   - **Purpose:** Manage Real Estate, Energy transaction data into CRM lead generation software for insurance, financing.
 
 
 ## Report Environments:
