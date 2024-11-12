@@ -40,7 +40,7 @@ For questions contact CTO: Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     
 - **Interface Applications**
   - *User Interfaces*
-    - PaaS Buildout of [Jinsei.ai/ActiveDemo](https://jinsei.ai/activedemo)
+    - PaaS Build Out of This Library Guided by [Jinsei.ai/ActiveDemo](https://jinsei.ai/activedemo)
     - On Premise PaaS
   - *Data Normalization Interfaces*
     - 20 File Extension Data Abstraction Applications
