@@ -52,7 +52,7 @@ For questions contact CTO: Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - xGrok NLP File Interface Applications
 
 - **Service Assembly Applications**
-- Neural Interface, Security, Database, Hosting, Compilation Application in Rust/Nix
+  - Neural Interface, Security, Database, Hosting, Compilation Application in Rust/Nix
   
 - **Licensing Applications**
   - Service Secret and License Rebundler
