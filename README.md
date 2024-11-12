@@ -82,6 +82,10 @@ Our platform empowers operators with:
   - [Upload filings, retrieve filings](https://www.sec.gov/files/edgar/filermanual/efmvol1.pdf)
   - **Form-ID** submission process enhanced by automated data preparation.
   - Online Notarization Tool integration for seamless document verification.
+ 
+- **Leads CRM Reports 
+-   - **Purpose:** Manage SEC filings with custom data transformation for compliance.
+
 
 ## Report Environments:
 
@@ -111,6 +115,10 @@ Our platform empowers operators with:
 
 - **FERC Energy Credit Audits**
   - **Enhanced Audit Preparation:** Automate data preparation for energy credit audits with custom models.
+ 
+- **Lead Generation **
+  - **Real Estate transaction lead generation services
+
  
 ## On Premise Applications
 
