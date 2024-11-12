@@ -54,8 +54,6 @@ For questions contact CTO: Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - **Licensing Applications**
   - Service Secret and License Rebundler
 
-### On Premise Applications
-
 ## Teams
 
 - **Application Build** - Utilizes Nix Flakes for consistent builds.
@@ -65,53 +63,54 @@ For questions contact CTO: Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 ## Use Cases
 
-- Cryptocurrency and blockchain transaction classification
-- Smart contract write and deployment automation
+- **Cyclical Data Augmentation Automation**
+  - Cryptocurrency and blockchain transaction classification
+  - Smart contract write and deployment automation
+  - **Custom Transformer Training** - Operators can train custom models to automate data transformation processes tailored to specific needs.
 
-## Authority Services
+## Custom Data Transformation Platform
 
-### Asia
+Our platform empowers operators with:
+
+- **Customizable Transformers:** Tailor AI models to fit specific data augmentation and transformation requirements.
+- **Cyclical Process Management:** Automate repetitive data handling tasks, from ingestion to transformation and output.
+
+## External Service Packages
 
 - **SEC EDGAR API - EdgarPack**
-  - **Purpose:** Manage SEC filings.
+  - **Purpose:** Manage SEC filings with custom data transformation for compliance.
   - [Upload filings, retrieve filings](https://www.sec.gov/files/edgar/filermanual/efmvol1.pdf)
-  - [SEC Solution Engine](https://www.sec.gov/page/edgar-how-do-i-prepare-and-submit-my-form-id-application)
-  - **Form-ID** submission process
-  - Online Notarization Tool
-
-- **IXBRL Edgar Uptake** - Inline eXtensible Business Reporting Language for SEC filings.
-  - Inline XBRL document format details
-  - Validation rules for Inline XBRL documents
+  - **Form-ID** submission process enhanced by automated data preparation.
+  - Online Notarization Tool integration for seamless document verification.
 
 ## Report Environments:
 
 - **SBRM (Standardized Business Reporting Model)**
-  - A subset of FASB standards for reporting.
-  - AI transformation silos for data consistency.
-  - Applicable to EDGAR, ESMA, JP
+  - **Integration with AI:** Leverage custom transformers for data consistency and compliance across different reporting standards.
 
 - **MiCa ViCa**
-  - **Purpose:** Asset tracking in the European Web3 space through iXBRL specifications.
-  - Applicable to EDGAR, ESMA
+  - **Custom Data Handling:** Use trained transformers for asset tracking data normalization and reporting.
 
 - **ACTUS**
-  - **Description:** A comprehensive model for financial products.
-  - Use cases: Commercial Analysis, bank product integration
+  - **Enhanced Financial Modeling:** Apply custom data transformations to model financial products accurately.
 
 - **SOC (System and Organization Controls)**
-  - **Details:** Audits by E&Y for US Bank, focusing on SOC 1 and SOC 2.
+  - **Data Security and Compliance:** Ensure data integrity through automated, compliant data transformations.
 
 - **K1 Reporting**
-  - **Functionality:** Double audit, accounting for complex entity structures, real estate, non-profit reporting, etc.
+  - **Automated Report Generation:** Utilize custom transformers for generating complex K1 reports with ease.
 
 - **FASB 2024 Taxonomy**
-  - [Taxonomy Viewer](https://xbrlview.fasb.org/yeti/resources/yeti-gwt/Yeti.jsp#tax~(id~174*v~10231)!con~(id~5273661)!net~(a~3474*l~832)!lang~(code~en-us)!path~(g~99019*p~0_0)!rg~(rg~32*p~12))
+  - **Custom Taxonomy Adaptation:** Adapt and transform data entries to match the latest FASB taxonomy requirements.
 
 - **Capitalization (FASB / IFRS 38)**
-  - Reviews against overcapitalization.
+  - **Accurate Reporting:** Custom transformers assist in correctly capitalizing assets according to accounting standards.
 
 - **ACTUS and Edgar Report Taxonomies**
-  - Available via JINSEI API with key authentication.
+  - **Flexible Integration:** Custom transformation models available via JINSEI API to adapt to various taxonomies.
 
 - **FERC Energy Credit Audits**
-  - **Description:** Audits related to energy and credit compliance.
+  - **Enhanced Audit Preparation:** Automate data preparation for energy credit audits with custom models.
+ 
+#### On Premise Applications
+
