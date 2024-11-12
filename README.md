@@ -56,6 +56,9 @@ For questions contact CTO: Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   
 - **Licensing Applications**
   - Service Secret and License Rebundler Applications
+ 
+- **User Onboarding Applications**
+  - User interface applications for onboarding workflows into Jinsei.ai
 
 ## Teams
 
