@@ -66,6 +66,7 @@ For questions contact CTO: Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - **Testing** - Employs Nix Flakes for testing environments.
 - **Enterprise Implementation**
 - **Business Admin**
+- **Customer Success**
 
 
 ## Custom Data Transformation Platform
