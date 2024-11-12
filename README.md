@@ -119,8 +119,8 @@ Our platform empowers operators with:
 - **FERC Energy Credit Audits**
   - **Enhanced Audit Preparation:** Automate data preparation for energy credit audits with custom models.
  
-- **Lead Generation **
-  - **Real Estate transaction lead generation services
+- **Lead Generation**
+  - **Real Estate** transaction lead generation services
 
  
 ## On Premise Applications
