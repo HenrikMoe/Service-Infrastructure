@@ -44,7 +44,7 @@ For questions contact CTO: Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - On Premise PaaS
   - *Data Normalization Interfaces*
     - 20 File Extension Data Abstraction Applications
-    - Natural Language Processor and TensorFlow File Interface Applications
+    - Natural Language Processor and TensorFlow Data Compilation Applications
 
 - **Neural Applications**
   - Data Batching Per Extension Type and File Characteristics (20 Libraries)
