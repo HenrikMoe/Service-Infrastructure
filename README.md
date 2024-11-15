@@ -1,6 +1,6 @@
 # Service Infrastructure for Jinsei.ai
 
-**Contact:**  
+
 For questions contact CTO: Henrik Moe via email at [henrik@jinsei.ai](mailto:henrik@jinsei.ai) or connect on [LinkedIn](https://linkedin.com/in/henrikmoe)
 
 ## SaaS Build Library
