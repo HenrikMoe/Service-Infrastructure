@@ -95,9 +95,6 @@ Our platform empowers operators with:
 
 ## Report Environments:
 
-- **SBRM (Standardized Business Reporting Model)**
-  - **Integration with AI:** Leverage custom transformers for data consistency and compliance across different reporting standards.
-
 - **MiCa ViCa**
   - **Custom Data Handling:** Use trained transformers for asset tracking data normalization and reporting.
 
