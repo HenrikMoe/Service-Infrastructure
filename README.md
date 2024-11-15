@@ -83,7 +83,7 @@ Our platform empowers operators with:
 
 ## External Service Packages
 
-- **SEC EDGAR **
+- **SEC EDGAR**
   - **Purpose:** Manage SEC filings with custom data transformation for compliance.
   - [Upload filings, retrieve filings](https://www.sec.gov/files/edgar/filermanual/efmvol1.pdf)
   - **Form-ID** submission process enhanced by automated data preparation.
