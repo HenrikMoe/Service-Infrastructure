@@ -86,8 +86,7 @@ Our platform empowers operators with:
 - **SEC EDGAR**
   - **Purpose:** Manage SEC filings with custom data transformation for compliance.
   - [Upload filings, retrieve filings](https://www.sec.gov/files/edgar/filermanual/efmvol1.pdf)
-  - **Form-ID** submission process enhanced by automated data preparation.
-  - Online Notarization Tool integration for seamless document verification.
+  - On premise integration for seamless document verification.
  
 - **Leads, CRM Reports** 
    - **Purpose:** Manage Real Estate, Energy, more transaction data on premise into CRM lead generation software for insurance, financing.
