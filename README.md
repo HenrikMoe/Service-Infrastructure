@@ -117,9 +117,6 @@ Our platform empowers operators with:
 - **Capitalization (FASB / IFRS 38)**
   - **Accurate Reporting:** Custom transformers assist in correctly capitalizing assets according to accounting standards.
 
-- **ACTUS and Edgar Report Taxonomies**
-  - **Flexible Integration:** Custom transformation models available via JINSEI API to adapt to various taxonomies.
-
 - **FERC Energy Credit Audits**
   - **Enhanced Audit Preparation:** Automate data preparation for energy credit audits with custom models.
  
