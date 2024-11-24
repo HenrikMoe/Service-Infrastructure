@@ -41,10 +41,12 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - **Interface Applications**
   - *User Interfaces*
     - PaaS Build Out of This Library Guided by [Jinsei.ai/ActiveDemo](https://jinsei.ai/activedemo)
-    - On Premise PaaS
+    - On Premise PaaS Applications
+    
   - *Data Normalization Interfaces*
     - 20 File Extension Data Abstraction Applications
     - Natural Language Processor and TensorFlow Data Compilation Applications
+    - On Premise Data Interface Applications
 
 - **Neural Applications**
   - Data Batching Per Extension Type and File Characteristics (20 Libraries)
