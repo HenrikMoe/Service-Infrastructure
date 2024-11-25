@@ -66,7 +66,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 - **Application Build** - Utilizes Nix Flakes for consistent builds.
 - **Testing** - Employs Nix Flakes for testing environments.
-- **Enterprise Implementation**
+- **Enterprise Implementation** - On premise with nix to saas
 - **Business Admin**
 - **Customer Success** - 
 
