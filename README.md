@@ -99,7 +99,7 @@ Our platform empowers operators with:
   - **Benefits:** Encourages innovation by allowing departments or employees to propose and vote on operational changes, potentially rewarding improvements with Tezos tokens or similar incentives.
 
 
-## Report Environments:
+## Report Workflows:
 
 - **MiCa ViCa**
   - **Custom Data Handling:** Use trained transformers for asset tracking data normalization and reporting.
