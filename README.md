@@ -126,16 +126,16 @@ Our platform empowers operators with:
   - **Real Estate** **Insurance** **Financing** transaction based lead generation services.
  
 - **ISO 27001 Compliance Reporting:**
-  - Automation of ISO 27001 compliance checks by transforming data to meet audit requirements, ensuring your organization's security practices are up to standard.
+   - **Automation of ISO 27001** compliance checks by transforming data to meet audit requirements, ensuring your organization's security practices are up to standard.
 
-- **Supply Chain Clarity:**
-  - Utilize Jinsei.ai as a hub for tracking, verifying, and reporting supply chain data, ensuring transparency and ethical compliance from origin to consumer.
+- **Supply Chain**
+  - **Supply Chain Clarity:** Utilize Jinsei.ai as a hub for tracking, verifying, and reporting supply chain data, ensuring transparency and ethical compliance from origin to consumer.
 
-- **Privacy Impact Assessment (PIA) Automated:**
-- Automate the generation of Privacy Impact Assessments by transforming and analyzing data usage patterns to comply with GDPR or CCPA.
+- **Privacy Impact Assessment (PIA):**
+  - **CDPR / CCPA** automate the generation of Privacy Impact Assessments by transforming and analyzing data usage patterns to comply with GDPR or CCPA.
 
 - **Healthcare Compliance Automation:** 
-- Aids healthcare providers in maintaining compliance with standards like HIPAA through automated data handling and report generation workflows.
+  - **HIPAA** Aids healthcare providers in maintaining compliance with standards like HIPAA through automated data handling and report generation workflows.
 
  
 
