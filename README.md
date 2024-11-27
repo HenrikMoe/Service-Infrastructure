@@ -261,3 +261,83 @@ Our platform empowers operators with:
 - **Fan Engagement**
     - Personalize marketing with fan interaction data.
     - **Standard:** NBA Data Transparency Standards.
+ 
+- **Tax Planning Automation**
+  - **Custom Tax Strategy Development:** Automate the generation of personalized tax strategies based on client financial data.
+    - **Standard:** IRC (Internal Revenue Code) for tax law compliance.
+
+- **Transfer Pricing Compliance**
+  - **Intercompany Pricing Analysis:** Use data transformation to ensure transfer pricing is aligned with international tax regulations.
+    - **Standard:** OECD Transfer Pricing Guidelines.
+
+- **Sales Tax Compliance for Multi-Jurisdictions**
+  - **Automated Tax Rate Application:** Apply correct sales tax rates across different jurisdictions for eCommerce transactions.
+    - **Standard:** Streamlined Sales Tax (SST) for sales tax administration.
+
+- **Audit Trail Management**
+  - **Automated Transaction Logging:** Ensure every transaction has a clear, auditable trail for compliance and internal audits.
+    - **Standard:** COSO Internal Control – Integrated Framework for effective internal control.
+
+- **Tax Form Automation**
+  - **Filling and Filing:** Automate the process of filling tax forms with error checks and direct filing capabilities.
+    - **Standard:** IRS e-file standards for electronic tax filing.
+
+- **VAT/GST Reporting**
+  - **Global Tax Compliance:** Streamline the preparation and reporting of VAT/GST for businesses operating internationally.
+    - **Standard:** EU VAT Directive or respective national VAT laws for consistent VAT/GST compliance.
+
+- **Accrual to Cash Basis Conversion**
+  - **Financial Statement Adjustment:** Convert financial statements from accrual to cash basis for tax purposes.
+    - **Standard:** GAAP for financial reporting; IRS guidelines for tax basis adjustments.
+
+- **R&D Tax Credit Calculation**
+  - **Incentive Maximization:** Use data transformation to identify and calculate eligible activities for R&D tax credits.
+    - **Standard:** IRS Section 41 guidelines for R&D tax credits.
+
+- **Tax Risk Assessment**
+  - **Proactive Risk Management:** Analyze financial data to predict and manage tax-related risks.
+    - **Standard:** ISO 31000 for risk management principles and guidelines.
+
+- **Income Allocation for Partnerships**
+  - **K-1 Distribution:** Automate the allocation of income among partners for accurate K-1 forms.
+    - **Standard:** IRS guidelines for partnership income allocation.
+
+- **Tax Audit Facilitation**
+  - **Data Preparation and Analysis:** Prepare and analyze data to facilitate smoother tax audits.
+    - **Standard:** AICPA guidelines for audit engagements.
+
+- **Tax Compliance Monitoring**
+  - **Real-Time Compliance Check:** Continuously monitor transactions for compliance with tax laws.
+    - **Standard:** Various tax jurisdictions' regulations, tailored through Jinsei.ai's monitoring capabilities.
+
+- **Deferred Tax Computation**
+  - **Timing Differences:** Calculate deferred tax assets and liabilities based on temporary differences.
+    - **Standard:** ASC 740 for accounting for income taxes.
+
+- **Tax Reconciliation**
+  - **Book to Tax Differences:** Reconcile differences between book income and taxable income.
+    - **Standard:** ASC 740 for income tax accounting and reporting.
+
+- **Tax Data Integration**
+  - **System Integration:** Ensure tax-related data from various business systems is integrated and consistent.
+    - **Standard:** ETL (Extract, Transform, Load) processes for data integration in financial systems.
+
+- **International Tax Compliance**
+  - **Cross-Border Taxation:** Automate compliance with international tax treaties and regulations.
+    - **Standard:** OECD Model Tax Convention for tax treaties.
+
+- **Charitable Contributions Tracking**
+  - **Donation Deduction:** Track and substantiate charitable contributions for tax deductions.
+    - **Standard:** IRS Publication 526 for guidelines on charitable contributions.
+
+- **Tax Provision Workflow**
+  - **Effective Tax Rate Calculation:** Automate the calculation of the effective tax rate for financial reporting.
+    - **Standard:** ASC 740 for income tax accounting in financial statements.
+
+- **Employee Stock Compensation**
+  - **Tax Impact Analysis:** Manage the tax implications of employee stock options and grants.
+    - **Standard:** IRC Section 409A for nonqualified deferred compensation.
+
+- **Property Tax Assessment**
+  - **Asset Valuation:** Transform and analyze property data to assess and optimize property taxes.
+    - **Standard:** Local property tax assessment guidelines.
