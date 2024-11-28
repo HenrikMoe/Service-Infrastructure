@@ -277,7 +277,7 @@ Our platform empowers operators with:
 
 - **Tax Form Automation**
   - **Filling and Filing:** Automate the process of filling tax forms with error checks and direct filing capabilities.
-    - **Standard:** IRS e-file standards for electronic tax filing.
+    - **Standard:** IRS e-file standards for electronic tax filing..
 
 - **VAT/GST Reporting**
   - **Global Tax Compliance:** Streamline the preparation and reporting of VAT/GST for businesses operating internationally.
