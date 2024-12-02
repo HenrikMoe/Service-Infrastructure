@@ -221,7 +221,7 @@ Our platform empowers operators with:
 
 - **Education Performance Analytics**
   - **Student Outcome Prediction:** Predict academic outcomes with student data.
-    - **Standard:** IMS Global for educational data standards.
+    - **Standard:** IMS Global for educational data standards. 
 
 - **Education Path Customization**
   - **Curriculum Tailoring:** Tailor educational content based on data analysis.
