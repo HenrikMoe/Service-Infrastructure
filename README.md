@@ -60,7 +60,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - Service Secret and License Rebundler Applications
  
 - **User Onboarding Applications**
-  - User interface applications for onboarding workflows into Jinsei.ai
+  - Workflow onboarding and demo applications
 
 ## Teams
 
