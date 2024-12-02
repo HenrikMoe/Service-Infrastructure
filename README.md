@@ -46,7 +46,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - *Data Normalization Interfaces*
     - 20 File Extension Data Abstraction Applications
     - Natural Language Processor and TensorFlow Data Compilation Applications
-    - On Premise Data Interface "Runner" Applications
+    - On Premise Data Directory Runner Applications
 
 - **Neural Applications**
   - Data Batching Per Extension Type and File Characteristics (20 Libraries)
