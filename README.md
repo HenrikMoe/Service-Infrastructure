@@ -24,7 +24,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 #### Security Applications
 
 - Permissible Route Audit Applications
-- Secret Audit Applications
+- Secret Audit Applications 
 - Secret Encapsulation Applications
 
 #### Hosting Applications
