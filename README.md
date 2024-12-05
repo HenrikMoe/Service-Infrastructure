@@ -79,9 +79,9 @@ Our platform empowers operators with:
 - **Customizable Transformers:** Tailor AI models to fit specific data augmentation and transformation requirements.
 - **Cyclical Process Management:** Automate repetitive data handling tasks, from ingestion to transformation and output.
   
-- **Cyclical Data Augmentation Automation**
- - **Custom Transformer Training** - Operators can train custom models to automate data transformation processes tailored to specific needs.
+- **Cyclical Data Augmentation Automation:**   **Custom Transformer Training** - Operators can train custom models to automate data transformation processes tailored to specific needs.
 
+ 
 ## External Service Packages
 
 - **Tezos Blockchain Decentralized Decision Making**
