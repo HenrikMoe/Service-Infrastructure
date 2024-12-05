@@ -21,24 +21,24 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - On Premise Enterprise Deployment Applications
 
 
-#### Security Applications
+#### Security Applications:
 
 - Permissible Route Audit Applications
 - Secret Audit Applications 
 - Secret Encapsulation Applications
 
-#### Hosting Applications
+#### Hosting Applications:
 
 - Hosting Partition Applications
 - Nix Production Hosting Environment Image Container Applications
 - On Premise Hosting Applications
 
-#### Service Applications
+#### Service Applications:
 
-- **Database Applications**
+- **Database Applications:**
   - **PostgreSQL**
     
-- **Interface Applications**
+- **Interface Applications:**
   - *User Interfaces*
     - PaaS Build Out of This Library Guided by [Jinsei.ai/ActiveDemo](https://jinsei.ai/activedemo)
     - On Premise PaaS Applications
@@ -48,18 +48,18 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - Natural Language Processor and TensorFlow Data Compilation Applications
     - On Premise Data Directory Runner Applications
 
-- **Neural Applications**
+- **Neural Applications:**
   - Data Batching Per Extension Type and File Characteristics (20 Libraries)
   - TensorFlow Loss Optimization Applications Per Extension Type and File Characteristics (20 Libraries)
   - xGrok NLP File Interface Applications
 
-- **Service Assembly Applications**
+- **Service Assembly Applications:**
   - Neural, Security, Database, Hosting, Interface, Build Applications 
   
-- **Licensing Applications**
+- **Licensing Applications:**
   - Service Secret and License Rebundler Applications
  
-- **User Onboarding Applications**
+- **User Onboarding Applications:**
   - Workflow onboarding and demo applications
 
 ## Teams
