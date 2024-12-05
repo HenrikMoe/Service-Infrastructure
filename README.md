@@ -97,13 +97,11 @@ Our platform empowers operators with:
 ## Report Workflows:
 
 - **Blockchain Transaction Classification**
- - **Precise Accounting For Smart Contracts:**
-  - **Workflow:** Utilize AI to analyze blockchain transactions, identifying and sorting them based on their Fair Market Value (FMV) at the time of transaction, and calculating potential capital gains or losses. 
-  - **Tool:** Implement an AI-driven blockchain transaction analyzer integrated into financial management or tax preparation software, which uses blockchain explorers to fetch real-time FMV data.
-  - **Standard:** 
-    - **Custom Standard:** Develop a proprietary standard that ensures accuracy in FMV assessment for cryptocurrency transactions, potentially incorporating elements from IRS guidelines for cryptocurrency taxation.
-    - **Alignment with IRS:** Ensure practices align with IRS Notice 2014-21, where cryptocurrencies are treated as property for tax purposes, thus subject to capital gains tax based on FMV at the time of transaction completion.
-
+  - **Precise Accounting For Smart Contracts:**
+    - **Workflow:** Utilize AI to analyze blockchain transactions, identifying and sorting them based on their Fair Market Value (FMV) at the time of transaction, and calculating potential capital gains or losses. 
+      - **Tool:** Implement an AI-driven blockchain transaction analyzer integrated into financial management or tax preparation software, which uses blockchain explorers to fetch real-time FMV data.
+      - **Standard:** Develop a proprietary standard that ensures accuracy in FMV assessment for cryptocurrency transactions, potentially incorporating elements from IRS guidelines for cryptocurrency taxation.
+    
 - **Nix Package Manager**
   - **Subpackage Attribute Overload Detection:**
     - **Workflow:** Deploy AI models to simulate and analyze Nix configurations for potential attribute combinations that could lead to system crashes or unexpected behaviors.
