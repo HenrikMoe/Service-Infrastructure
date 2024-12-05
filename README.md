@@ -80,8 +80,6 @@ Our platform empowers operators with:
 - **Cyclical Process Management:** Automate repetitive data handling tasks, from ingestion to transformation and output.
   
 - **Cyclical Data Augmentation Automation**
-  - Cryptocurrency and blockchain transaction classification
-  - Smart contract write and deployment automation
   - **Custom Transformer Training** - Operators can train custom models to automate data transformation processes tailored to specific needs.
 
 ## External Service Packages
@@ -97,6 +95,14 @@ Our platform empowers operators with:
   - On premise integration for seamless document verification.
  
 ## Report Workflows:
+
+- **Blockchain Transactions Classifier**
+- **Accurate Accounting:**
+  - **Workflow:** Utilize AI to analyze blockchain transactions, identifying and sorting them based on their Fair Market Value (FMV) at the time of transaction, and calculating potential capital gains or losses. 
+  - **Tool:** Implement an AI-driven blockchain transaction analyzer integrated into financial management or tax preparation software, which uses blockchain explorers to fetch real-time FMV data.
+  - **Standard:** 
+    - **Custom Standard:** Develop a proprietary standard that ensures accuracy in FMV assessment for cryptocurrency transactions, potentially incorporating elements from IRS guidelines for cryptocurrency taxation.
+    - **Alignment with IRS:** Ensure practices align with IRS Notice 2014-21, where cryptocurrencies are treated as property for tax purposes, thus subject to capital gains tax based on FMV at the time of transaction completion.
 
 - **Nix Package Manager**
   - **Subpackage Attribute Overload Detection:**
