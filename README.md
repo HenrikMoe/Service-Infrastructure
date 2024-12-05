@@ -80,7 +80,7 @@ Our platform empowers operators with:
 - **Cyclical Process Management:** Automate repetitive data handling tasks, from ingestion to transformation and output.
   
 - **Cyclical Data Augmentation Automation**
-- **Custom Transformer Training** - Operators can train custom models to automate data transformation processes tailored to specific needs.
+ - **Custom Transformer Training** - Operators can train custom models to automate data transformation processes tailored to specific needs.
 
 ## External Service Packages
 
