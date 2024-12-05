@@ -10,7 +10,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - Beelink SER6 or EQ13 @ 32 GB RAM
 - NVMe SSD
 - 0.72kWh/day @ Idle
-- 7.2kwH/day @ Max Load
+- 7.2kwH/day @ Max Load 
 - NixOS ISO 
 
 #### Development Provision Packages:
