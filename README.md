@@ -80,7 +80,7 @@ Our platform empowers operators with:
 - **Cyclical Process Management:** Automate repetitive data handling tasks, from ingestion to transformation and output.
   
 - **Cyclical Data Augmentation Automation**
-  - **Custom Transformer Training** - Operators can train custom models to automate data transformation processes tailored to specific needs.
+- **Custom Transformer Training** - Operators can train custom models to automate data transformation processes tailored to specific needs.
 
 ## External Service Packages
 
@@ -96,8 +96,8 @@ Our platform empowers operators with:
  
 ## Report Workflows:
 
-- **Blockchain Transactions Classifier**
-- **Accurate Accounting:**
+- **Blockchain Transaction Classification**
+ - **Precise Accounting For Smart Contracts:**
   - **Workflow:** Utilize AI to analyze blockchain transactions, identifying and sorting them based on their Fair Market Value (FMV) at the time of transaction, and calculating potential capital gains or losses. 
   - **Tool:** Implement an AI-driven blockchain transaction analyzer integrated into financial management or tax preparation software, which uses blockchain explorers to fetch real-time FMV data.
   - **Standard:** 
