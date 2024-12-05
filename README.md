@@ -117,7 +117,7 @@ Our platform empowers operators with:
       - **Standard:** Custom, potentially aligned with OWASP Top Ten for secrets management.
 
 - **AI-Based Attack Vector Simulation**
-  - **Simulation and Testing:**Simulate millions of package attribute combinations using AI to identify potential crash scenarios or security breaches in real-time or staging environments.
+  - **Simulation and Testing:** Simulate millions of package attribute combinations using AI to identify potential crash scenarios or security breaches in real-time or staging environments.
       - **Standard:** N/A - Innovative approach, possibly aligned with future cybersecurity frameworks.
 
 - **Community-Driven Security Response**
