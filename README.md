@@ -19,7 +19,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - Development Operation Environment Applications
 - Enterprise Deployment Partition Applications
 - On Premise Enterprise Deployment Applications
-
+ 
 
 #### Security Applications:
 
