@@ -95,7 +95,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 ### .xlsx
 
- - **.xlsx Abstraction Applications**
+ - **Abstraction Applications**
    - Sheet-Based Batching App
         - **Division by Sheets**: Process each sheet independently, tailored for data, summary, or template sheets.
         - **Dynamic Batch Sizing**: Adjust batch size based on row count, sheet complexity, and performance metrics.
@@ -128,7 +128,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
      - **Conditional Formatting**: Capture and adjust conditional formatting rules for batched data.
      - **Pivot Tables**: Manage data across batches for pivot tables, ensuring integrity upon reconstruction.
 
-- **.xlsx Optimization Applications**
+- **Context Based Optimization Applications**
 
   - **Sheet-Based Batching App**
     - **Division by Sheets**: Process each sheet independently, recognizing different roles (data, summary, template). 
