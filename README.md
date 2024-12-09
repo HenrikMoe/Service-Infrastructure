@@ -93,8 +93,11 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - Workflow onboarding and demo applications
  
 
-- **.xlsx**
- - .xlsx Abstraction Applications **
+## Data Applications
+
+###.xlsx
+
+ - **.xlsx Abstraction Applications**
    - Sheet-Based Batching App
         - **Division by Sheets**: Process each sheet independently, tailored for data, summary, or template sheets.
         - **Dynamic Batch Sizing**: Adjust batch size based on row count, sheet complexity, and performance metrics.
@@ -127,56 +130,56 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
         - **Conditional Formatting**: Capture and adjust conditional formatting rules for batched data.
         - **Pivot Tables**: Manage data across batches for pivot tables, ensuring integrity upon reconstruction.
 
-   - **.xlsx Optimization Applications**:
+   - **.xlsx Optimization Applications**
 
-    - **Sheet-Based Batching App**
-      - **Division by Sheets**: Process each sheet independently, recognizing different roles (data, summary, template). 
-        - **Implementation**: Use Pandas or Openpyxl for reading sheets, with custom logic to categorize sheet types.
-      - **Dynamic Batch Sizing**: Adjust based on sheet complexity, row count, or model performance metrics.
-        - **Implementation**: Implement a performance monitor to dynamically adjust batch sizes. Consider using TensorFlow's `tf.data` for efficient batching.
-
-    - **Formula Preservation App**
-      - **Static Formulas Preservation**: Ensure formulas independent of other sheets remain intact.
-        - **Implementation**: Parse and store formulas as-is, using libraries like Openpyxl for direct formula manipulation.
-      - **Dynamic Formulas Handling**
-        - **Recalculation**: Calculate and store formula results for batch-contained references.
-          - **Implementation**: Use Excel's calculation engine or mimic it in Python for complex formulas.
-        - **Reference Placeholder**: Implement a system to track and later resolve cross-sheet references.
-          - **Implementation**: Maintain a dictionary or database of references, using `#REF!` or similar placeholders.
-
-    - **Data Types and Formatting Preservation App**
-      - **Type Preservation**: Convert Excel's data types to TensorFlow-compatible formats while maintaining integrity.
-        - **Implementation**: Use Pandas for initial data type conversion, then custom TensorFlow operations for further processing.
-      - **Formatting Preservation**: Store formatting details for post-processing reapplication.
-        - **Implementation**: Extract formatting with Openpyxl, store in a separate data structure for later use.
-
-    - **Macros and VBA Scripts Batching App**
-      - **Functionality-Based Batching**: Decide batching strategy based on macro complexity and scope.
-        - **Implementation**: Analyze macros using VBA parsing tools, deciding whether to include in data or process separately.
-      - **Extraction for Post-Processing**: Manage complex macros outside the main data flow.
-        - **Implementation**: Use a separate environment or service to run or simulate macros, ensuring they don't interfere with training data.
-
-    - **Embedded Objects Batching App**
-      - **Charts and Graphs**: Handle as part of the data or convert to images for consistency.
-        - **Implementation**: Use Openpyxl to extract chart data or render charts to images, storing metadata for reference.
-      - **Images and Shapes**: Batch with related cells or manage independently.
-        - **Implementation**: Store image references alongside cell data, or process in isolation for efficiency.
-
-    - **Dependency Handling App**
-      - **Cross-Sheet References**: Create a dependency graph for reconstructing references.
-        - **Implementation**: Implement graph structures or use databases to manage these relationships.
-      - **Named Ranges**: Log and manage named ranges for model understanding.
-        - **Implementation**: Use a custom data structure to track named ranges and their cell references.
-      - **Data Validation**: Preserve Excel's validation rules across batches.
-        - **Implementation**: Store validation rules in a way that can be dynamically reapplied to model outputs.
-
-    - **Preservation and Modification App**
-      - **Metadata**: Preserve all workbook and sheet metadata.
-        - **Implementation**: Use Openpyxl or custom parsing to capture metadata, storing in JSON or similar for model documentation.
-      - **Conditional Formatting**: Capture and adjust conditional formatting rules.
-        - **Implementation**: Extract rules as part of data preprocessing, potentially using them as features or post-processing steps.
-      - **Pivot Tables**: Manage pivot table data across batches for integrity.
-        - **Implementation**: Store pivot table configurations and data sources, ensuring all data necessary for pivot recreation is batched together or references are maintained.
+     - **Sheet-Based Batching App**
+       - **Division by Sheets**: Process each sheet independently, recognizing different roles (data, summary, template). 
+         - **Implementation**: Use Pandas or Openpyxl for reading sheets, with custom logic to categorize sheet types.
+       - **Dynamic Batch Sizing**: Adjust based on sheet complexity, row count, or model performance metrics.
+         - **Implementation**: Implement a performance monitor to dynamically adjust batch sizes. Consider using TensorFlow's `tf.data` for efficient batching.
+ 
+     - **Formula Preservation App**
+       - **Static Formulas Preservation**: Ensure formulas independent of other sheets remain intact.
+         - **Implementation**: Parse and store formulas as-is, using libraries like Openpyxl for direct formula manipulation.
+       - **Dynamic Formulas Handling**
+         - **Recalculation**: Calculate and store formula results for batch-contained references.
+           - **Implementation**: Use Excel's calculation engine or mimic it in Python for complex formulas.
+         - **Reference Placeholder**: Implement a system to track and later resolve cross-sheet references.
+           - **Implementation**: Maintain a dictionary or database of references, using `#REF!` or similar placeholders.
+ 
+     - **Data Types and Formatting Preservation App**
+       - **Type Preservation**: Convert Excel's data types to TensorFlow-compatible formats while maintaining integrity.
+         - **Implementation**: Use Pandas for initial data type conversion, then custom TensorFlow operations for further processing.
+       - **Formatting Preservation**: Store formatting details for post-processing reapplication.
+         - **Implementation**: Extract formatting with Openpyxl, store in a separate data structure for later use.
+ 
+     - **Macros and VBA Scripts Batching App**
+       - **Functionality-Based Batching**: Decide batching strategy based on macro complexity and scope.
+         - **Implementation**: Analyze macros using VBA parsing tools, deciding whether to include in data or process separately.
+       - **Extraction for Post-Processing**: Manage complex macros outside the main data flow.
+         - **Implementation**: Use a separate environment or service to run or simulate macros, ensuring they don't interfere with training data.
+ 
+     - **Embedded Objects Batching App**
+       - **Charts and Graphs**: Handle as part of the data or convert to images for consistency.
+         - **Implementation**: Use Openpyxl to extract chart data or render charts to images, storing metadata for reference.
+       - **Images and Shapes**: Batch with related cells or manage independently.
+         - **Implementation**: Store image references alongside cell data, or process in isolation for efficiency.
+ 
+     - **Dependency Handling App**
+       - **Cross-Sheet References**: Create a dependency graph for reconstructing references.
+         - **Implementation**: Implement graph structures or use databases to manage these relationships.
+       - **Named Ranges**: Log and manage named ranges for model understanding.
+         - **Implementation**: Use a custom data structure to track named ranges and their cell references.
+       - **Data Validation**: Preserve Excel's validation rules across batches.
+         - **Implementation**: Store validation rules in a way that can be dynamically reapplied to model outputs.
+ 
+     - **Preservation and Modification App**
+       - **Metadata**: Preserve all workbook and sheet metadata.
+         - **Implementation**: Use Openpyxl or custom parsing to capture metadata, storing in JSON or similar for model documentation.
+       - **Conditional Formatting**: Capture and adjust conditional formatting rules.
+         - **Implementation**: Extract rules as part of data preprocessing, potentially using them as features or post-processing steps.
+       - **Pivot Tables**: Manage pivot table data across batches for integrity.
+         - **Implementation**: Store pivot table configurations and data sources, ensuring all data necessary for pivot recreation is batched together or references are maintained.
 
 
           
