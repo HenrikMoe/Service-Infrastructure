@@ -46,7 +46,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - Data Normalization Interfaces
     - Natural Language Processor and TensorFlow Data Compilation Applications
     - On Premise Data Directory Runner Applications
-    - 20+ File Type Data Abstraction Applications [link to xlsx abstraction lib]
+    - 20+ File Type Data Abstraction Applications [Data Apps](#data)
        
 
 - **Neural Applications:**
@@ -59,7 +59,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - Stanford CoreNLP
     - OpenNLP
  
-  - Context Based Tensorflow Optimization Applications [see xlsx data optmizization lib]
+  - Context Based Tensorflow Optimization Applications [Data Apps](#data)
 
   - TensorFlow Optimizer Applications
     - User Published Optimizers
