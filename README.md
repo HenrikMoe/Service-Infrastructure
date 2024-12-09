@@ -44,46 +44,113 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - On Premise PaaS Applications
     
   - *Data Normalization Interfaces*
-   - **Data Batching Per Extension Type and File Characteristics (20 Libraries)**
-    - **.xlsx Batching Applications**
-      - **Sheet-Based Batching Application**
+   - Natural Language Processor and TensorFlow Data Compilation Applications
+   - On Premise Data Directory Runner Applications
+   - 20+ File Type Data Abstraction Applications 
+    - .xlsx Abstraction Applications
+      - Sheet-Based Batching App
         - **Division by Sheets**: Process each sheet independently, tailored for data, summary, or template sheets.
         - **Dynamic Batch Sizing**: Adjust batch size based on row count, sheet complexity, and performance metrics.
       
-      - **Formula Preservation Application**
+      - Formula Preservation App
         - **Static Formulas Preservation**: Ensure formulas without external references are preserved within their batch.
         - **Dynamic Formulas Handling**
           - **Recalculation**: Compute and store results for formulas within the same batch.
           - **Reference Placeholder**: Use `#REF!` for cross-batch references, maintaining a map for post-processing reconstruction.
 
-      - **Data Types and Formatting Preservation Application**
+      - Data Types and Formatting Preservation App
         - **Type Preservation**: Convert and reconvert Excel data types for processing while maintaining original format.
         - **Formatting Preservation**: Store and reapply cell styles, fonts, borders, and colors post-processing.
 
-      - **Macros and VBA Scripts Batching Application**
+      - Macros and VBA Scripts Batching App
         - **Functionality-Based Batching**: Include macros in relevant batches or handle post-batching.
         - **Extraction for Post-Processing**: Manage complex macros separately for reintegration after batch processing.
 
-      - **Embedded Objects Batching Application**
+      - Embedded Objects Batching App
         - **Charts and Graphs**: Store chart data references or render as images for cross-batch consistency.
         - **Images and Shapes**: Batch with anchor cells or reference separately.
 
-      - **Dependency Handling Application**
+      - Dependency Handling App
         - **Cross-Sheet References**: Track and reconstruct references with a dependency graph.
         - **Named Ranges**: Log and manage named ranges for correct reassignment.
         - **Data Validation**: Preserve and reapply validation rules across batches.
 
-      - **Preservation and Modification Application**
+      - Preservation and Modification App
         - **Metadata**: Preserve all workbook and sheet properties, comments, and notes.
         - **Conditional Formatting**: Capture and adjust conditional formatting rules for batched data.
         - **Pivot Tables**: Manage data across batches for pivot tables, ensuring integrity upon reconstruction.
 
-    - Natural Language Processor and TensorFlow Data Compilation Applications
-    - On Premise Data Directory Runner Applications
+   
       
 
 - **Neural Applications:**
-  - TensorFlow Loss Optimization Applications Per Extension Type and File Characteristics 
+  
+  - xGrok NLP File Interface Applications
+
+
+- **TensorFlow Loss Optimization Applications Per Extension Type and File Characteristics**
+
+  - **Overview**:
+    - This suite is designed to optimize TensorFlow models by tailoring loss functions and model parameters to the unique characteristics of data within `.xlsx` files, addressing Excel's complex data structures, formulas, and formatting.
+
+  - **Core Objectives**:
+    - **Custom Loss Design**: Develop or adapt loss functions to reflect Excel's data handling, such as considering formula dependencies or cell formatting.
+    - **Parameter Tuning**: Adjust hyperparameters based on the nature of Excel data, like sheet density or the presence of macros.
+    - **Performance Optimization**: Enhance model training efficiency and accuracy by understanding and leveraging Excel's data organization and dependencies.
+
+  - **.xlsx Specific Optimization Applications**:
+
+    - **Sheet-Based Batching App**
+      - **Division by Sheets**: Process each sheet independently, recognizing different roles (data, summary, template). 
+        - **Implementation**: Use Pandas or Openpyxl for reading sheets, with custom logic to categorize sheet types.
+      - **Dynamic Batch Sizing**: Adjust based on sheet complexity, row count, or model performance metrics.
+        - **Implementation**: Implement a performance monitor to dynamically adjust batch sizes. Consider using TensorFlow's `tf.data` for efficient batching.
+
+    - **Formula Preservation App**
+      - **Static Formulas Preservation**: Ensure formulas independent of other sheets remain intact.
+        - **Implementation**: Parse and store formulas as-is, using libraries like Openpyxl for direct formula manipulation.
+      - **Dynamic Formulas Handling**
+        - **Recalculation**: Calculate and store formula results for batch-contained references.
+          - **Implementation**: Use Excel's calculation engine or mimic it in Python for complex formulas.
+        - **Reference Placeholder**: Implement a system to track and later resolve cross-sheet references.
+          - **Implementation**: Maintain a dictionary or database of references, using `#REF!` or similar placeholders.
+
+    - **Data Types and Formatting Preservation App**
+      - **Type Preservation**: Convert Excel's data types to TensorFlow-compatible formats while maintaining integrity.
+        - **Implementation**: Use Pandas for initial data type conversion, then custom TensorFlow operations for further processing.
+      - **Formatting Preservation**: Store formatting details for post-processing reapplication.
+        - **Implementation**: Extract formatting with Openpyxl, store in a separate data structure for later use.
+
+    - **Macros and VBA Scripts Batching App**
+      - **Functionality-Based Batching**: Decide batching strategy based on macro complexity and scope.
+        - **Implementation**: Analyze macros using VBA parsing tools, deciding whether to include in data or process separately.
+      - **Extraction for Post-Processing**: Manage complex macros outside the main data flow.
+        - **Implementation**: Use a separate environment or service to run or simulate macros, ensuring they don't interfere with training data.
+
+    - **Embedded Objects Batching App**
+      - **Charts and Graphs**: Handle as part of the data or convert to images for consistency.
+        - **Implementation**: Use Openpyxl to extract chart data or render charts to images, storing metadata for reference.
+      - **Images and Shapes**: Batch with related cells or manage independently.
+        - **Implementation**: Store image references alongside cell data, or process in isolation for efficiency.
+
+    - **Dependency Handling App**
+      - **Cross-Sheet References**: Create a dependency graph for reconstructing references.
+        - **Implementation**: Implement graph structures or use databases to manage these relationships.
+      - **Named Ranges**: Log and manage named ranges for model understanding.
+        - **Implementation**: Use a custom data structure to track named ranges and their cell references.
+      - **Data Validation**: Preserve Excel's validation rules across batches.
+        - **Implementation**: Store validation rules in a way that can be dynamically reapplied to model outputs.
+
+    - **Preservation and Modification App**
+      - **Metadata**: Preserve all workbook and sheet metadata.
+        - **Implementation**: Use Openpyxl or custom parsing to capture metadata, storing in JSON or similar for model documentation.
+      - **Conditional Formatting**: Capture and adjust conditional formatting rules.
+        - **Implementation**: Extract rules as part of data preprocessing, potentially using them as features or post-processing steps.
+      - **Pivot Tables**: Manage pivot table data across batches for integrity.
+        - **Implementation**: Store pivot table configurations and data sources, ensuring all data necessary for pivot recreation is batched together or references are maintained.
+
+
+    
    - **TensorFlow Lite Inference Optimizations**
       - **Quantization Techniques**: 
         - *Post-Training Quantization*: For quick model compression post-training.
@@ -108,7 +175,6 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
       - **Custom Optimizers**: 
         - Options for users to define custom optimization strategies based on their specific needs, potentially integrating elements from multiple standard optimizers.
 
-  - xGrok NLP File Interface Applications
 
 - **Service Assembly Applications:**
   - Neural, Security, Database, Hosting, Interface, Build Applications 
