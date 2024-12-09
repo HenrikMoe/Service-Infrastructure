@@ -46,90 +46,42 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - *Data Normalization Interfaces*
    - Natural Language Processor and TensorFlow Data Compilation Applications
    - On Premise Data Directory Runner Applications
-   - 20+ File Type Data Abstraction Applications [link to xlsx]
-
-   
+   - 20+ File Type Data Abstraction Applications [link to xlsx abstraction lib]
       
 
 - **Neural Applications:**
   
-  - **xGrok NLP File Interface Applications**
-
-  - **Overview**:
-    - This suite of applications harnesses multiple NLP libraries and models to provide versatile interfaces for processing, analyzing, and interacting with data across different file formats. It aims to bridge the gap between complex data structures and human language.
-
-  - **Core Objectives**:
-    - **Versatile NLP Interaction**: Integrate diverse NLP libraries for a comprehensive natural language interface, allowing users to engage with data in intuitive ways.
-    - **Multi-Modal Data Processing**: Support different NLP models for tasks like text analysis, data querying, and automatic summarization tailored to file specifics.
-    - **User Accessibility**: Simplify data interaction by converting complex data queries into natural language commands.
-
-  - **NLP Libraries and Models Integrated**:
-
-    - **Grok (xAI's NLP Model)**:
-      - **Conversational Interface**: Use Grok for creating a conversational layer over data, where users can ask questions or describe what they need.
-        - **Implementation**: Customize Grok's responses to be context-aware of file structures, providing accurate answers or data manipulations based on user queries.
-
-    - **spaCy**:
-      - **Advanced NLP Tasks**: Leverage spaCy for advanced text processing like entity recognition, dependency parsing, or text classification.
-        - **Implementation**: Employ spaCy for extracting structured information from unstructured text within files, enhancing data organization.
-
-    - **NLTK (Natural Language Toolkit)**:
-      - **Educational and Prototyping**: Use NLTK for quick NLP experiments or educational purposes, offering a wide range of algorithms for text processing.
-        - **Implementation**: Integrate NLTK for basic text analysis, tokenization, or sentiment analysis across different data formats.
-
-    - **Hugging Face Transformers**:
-      - **State-of-the-Art Models**: Utilize models like BERT, RoBERTa, or T5 for tasks requiring deep understanding, such as question-answering or text generation.
-        - **Implementation**: Apply these models for advanced query understanding, summarization, or for generating insights from text data in files.
-
-    - **Stanford CoreNLP**:
-      - **Robust Language Analysis**: Incorporate for comprehensive NLP tasks like coreference resolution or sentiment analysis.
-        - **Implementation**: Use for deeper linguistic analysis when processing documents or logs, providing a rich set of features for understanding context.
-
-    - **OpenNLP**:
-      - **Open Source NLP**: Integrate for tasks like sentence segmentation, tokenization, or name finding in various file formats.
-        - **Implementation**: Especially useful for handling multi-lingual data or when dealing with large volumes of text data within files.
+  - **NLP Libraries**:
+    - **Grok (xAI's NLP Model)**
+    - **spaCy**
+    - **NLTK (Natural Language Toolkit)**
+    - **Hugging Face Transformers**
+    - **Stanford CoreNLP**
+    - **OpenNLP**
+ 
 
 
-
-- **TensorFlow Loss Optimization Applications Per Extension Type and File Characteristics**
-
-  - **Overview**:
-    - This suite is designed to optimize TensorFlow models by tailoring loss functions and model parameters to the unique characteristics of data within `.xlsx` files, addressing Excel's complex data structures, formulas, and formatting.
-
-  - **Core Objectives**:
-    - **Custom Loss Design**: Develop or adapt loss functions to reflect Excel's data handling, such as considering formula dependencies or cell formatting.
-    - **Parameter Tuning**: Adjust hyperparameters based on the nature of Excel data, like sheet density or the presence of macros.
-    - **Performance Optimization**: Enhance model training efficiency and accuracy by understanding and leveraging Excel's data organization and dependencies.
-   
-  see xlsx optmiz lib
-
+- **Data Context Tensorflow Loss Optimization Applications Per Extension Type and File Characteristics** [see xlsx data optmizization lib]
  
     
-   - **TensorFlow Lite Inference Optimizations**
-      - **Quantization Techniques**: 
-        - *Post-Training Quantization*: For quick model compression post-training.
-        - *Quantization-Aware Training*: Integrated into the training pipeline for maintaining accuracy while reducing model size.
-      - **Delegate Utilization**: 
+- **TensorFlow Lite Inference Optimizations**
+  - **Quantization Applications**
+  - **Delegate Utilization**: 
         - *GPU Delegate*: For leveraging GPU acceleration in mobile environments.
         - *Hexagon Delegate*: Optimizes for Qualcomm DSPs, enhancing performance on supported devices.
         - *XNNPACK*: CPU-based acceleration for efficient inference on various platforms.
-      - **Model Conversion Tools**: Automate the conversion of TensorFlow models to TFLite format, optimizing for on-device ML tasks.
 
-    - **TensorFlow Optimizers Integration**
-      - **Adadelta**: 
-        - An extension of Adagrad that adapts learning rates based on a moving window of gradient updates. Provides robustness against diminishing learning rates but requires careful tuning of parameters like `rho` (decay rate) and `epsilon` for stability.
-      - **Adam**: 
-        - Combines advantages of AdaGrad and RMSprop, offering adaptive learning rates per parameter. Configurable with `learning_rate`, `beta_1`, `beta_2`, which affect momentum and velocity in the optimization process.
-      - **RMSprop**: 
-        - Designed to deal with the diminishing learning rate problem of Adagrad by using a moving average of squared gradients. Key parameters include `learning_rate`, `rho` (similar to Adadelta’s decay rate), and `momentum` for acceleration.
-      - **SGD (Stochastic Gradient Descent)**:
-        - Classic optimizer with options like momentum and Nesterov acceleration for improved convergence.
-      - **Adagrad, Nadam, Ftrl**: 
-        - Provide additional optimization strategies for specialized scenarios, such as handling sparse data or large scale learning.
-      - **Custom Optimizers**: 
-        - Options for users to define custom optimization strategies based on their specific needs, potentially integrating elements from multiple standard optimizers.
+- **TensorFlow Optimizers Integration**
+  - **Adadelta**    
+  - **Adam**
+  - **RMSprop**    
+  - **SGD (Stochastic Gradient Descent)**
+  - **Adagrad**
+  - **Nadam**
+  - **Ftrl**
+  - **Custom Optimizers**
 
-
+       
 - **Service Assembly Applications:**
   - Neural, Security, Database, Hosting, Interface, Build Applications 
   
