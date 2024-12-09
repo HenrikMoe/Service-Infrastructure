@@ -51,7 +51,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 - **Neural Applications:**
   
-  - **NLP Libraries**:
+  - *NLP Libraries*
     - xAI Grok
     - spaCy
     - NLTK (Natural Language Toolkit
@@ -59,9 +59,9 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - Stanford CoreNLP
     - OpenNLP
  
-  - **Context Based Tensorflow Optimization Applications** [see xlsx data optmizization lib]
+  - *Context Based Tensorflow Optimization Applications* [see xlsx data optmizization lib]
 
-  - **TensorFlow Optimizer Applications**
+  - *TensorFlow Optimizer Applications*
     - User Published Optimizers
     - Adadelta  
     - Adam
@@ -71,7 +71,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - Nadam
     - Ftrl
       
-  - **TensorFlow Lite Inference Applications**
+  - *TensorFlow Lite Inference Applications*
     - Quantization Applications
     - Delegate Utilization 
       - GPU Delegate
