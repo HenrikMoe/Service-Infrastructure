@@ -36,22 +36,22 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 #### Service Applications:
 
 - **Database Applications:**
-  - **PostgreSQL**
+  - PostgreSQL
     
 - **Interface Applications:**
-  - *User Interfaces*
+  - User Interfaces
     - PaaS Build Out of This Library Guided by [Jinsei.ai/ActiveDemo](https://jinsei.ai/activedemo)
     - On Premise PaaS Applications
     
-  - *Data Normalization Interfaces*
-   - Natural Language Processor and TensorFlow Data Compilation Applications
-   - On Premise Data Directory Runner Applications
-   - 20+ File Type Data Abstraction Applications [link to xlsx abstraction lib]
-      
+  - Data Normalization Interfaces
+    - Natural Language Processor and TensorFlow Data Compilation Applications
+    - On Premise Data Directory Runner Applications
+    - 20+ File Type Data Abstraction Applications [link to xlsx abstraction lib]
+       
 
 - **Neural Applications:**
   
-  - *NLP Libraries*
+  - NLP Libraries
     - xAI Grok
     - spaCy
     - NLTK (Natural Language Toolkit
@@ -59,7 +59,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - Stanford CoreNLP
     - OpenNLP
  
-  - *Context Based Tensorflow Optimization Applications* [see xlsx data optmizization lib]
+  - Context Based Tensorflow Optimization Applications [see xlsx data optmizization lib]
 
   - *TensorFlow Optimizer Applications*
     - User Published Optimizers
