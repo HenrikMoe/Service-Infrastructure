@@ -44,13 +44,70 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - On Premise PaaS Applications
     
   - *Data Normalization Interfaces*
-    - 20 File Extension Data Abstraction Applications
+   - **Data Batching Per Extension Type and File Characteristics (20 Libraries)**
+    - **.xlsx Batching Applications**
+      - **Sheet-Based Batching Application**
+        - **Division by Sheets**: Process each sheet independently, tailored for data, summary, or template sheets.
+        - **Dynamic Batch Sizing**: Adjust batch size based on row count, sheet complexity, and performance metrics.
+      
+      - **Formula Preservation Application**
+        - **Static Formulas Preservation**: Ensure formulas without external references are preserved within their batch.
+        - **Dynamic Formulas Handling**
+          - **Recalculation**: Compute and store results for formulas within the same batch.
+          - **Reference Placeholder**: Use `#REF!` for cross-batch references, maintaining a map for post-processing reconstruction.
+
+      - **Data Types and Formatting Preservation Application**
+        - **Type Preservation**: Convert and reconvert Excel data types for processing while maintaining original format.
+        - **Formatting Preservation**: Store and reapply cell styles, fonts, borders, and colors post-processing.
+
+      - **Macros and VBA Scripts Batching Application**
+        - **Functionality-Based Batching**: Include macros in relevant batches or handle post-batching.
+        - **Extraction for Post-Processing**: Manage complex macros separately for reintegration after batch processing.
+
+      - **Embedded Objects Batching Application**
+        - **Charts and Graphs**: Store chart data references or render as images for cross-batch consistency.
+        - **Images and Shapes**: Batch with anchor cells or reference separately.
+
+      - **Dependency Handling Application**
+        - **Cross-Sheet References**: Track and reconstruct references with a dependency graph.
+        - **Named Ranges**: Log and manage named ranges for correct reassignment.
+        - **Data Validation**: Preserve and reapply validation rules across batches.
+
+      - **Preservation and Modification Application**
+        - **Metadata**: Preserve all workbook and sheet properties, comments, and notes.
+        - **Conditional Formatting**: Capture and adjust conditional formatting rules for batched data.
+        - **Pivot Tables**: Manage data across batches for pivot tables, ensuring integrity upon reconstruction.
+
     - Natural Language Processor and TensorFlow Data Compilation Applications
     - On Premise Data Directory Runner Applications
+      
 
 - **Neural Applications:**
-  - Data Batching Per Extension Type and File Characteristics (20 Libraries)
-  - TensorFlow Loss Optimization Applications Per Extension Type and File Characteristics (20 Libraries)
+  - TensorFlow Loss Optimization Applications Per Extension Type and File Characteristics 
+   - **TensorFlow Lite Inference Optimizations**
+      - **Quantization Techniques**: 
+        - *Post-Training Quantization*: For quick model compression post-training.
+        - *Quantization-Aware Training*: Integrated into the training pipeline for maintaining accuracy while reducing model size.
+      - **Delegate Utilization**: 
+        - *GPU Delegate*: For leveraging GPU acceleration in mobile environments.
+        - *Hexagon Delegate*: Optimizes for Qualcomm DSPs, enhancing performance on supported devices.
+        - *XNNPACK*: CPU-based acceleration for efficient inference on various platforms.
+      - **Model Conversion Tools**: Automate the conversion of TensorFlow models to TFLite format, optimizing for on-device ML tasks.
+
+    - **TensorFlow Optimizers Integration**
+      - **Adadelta**: 
+        - An extension of Adagrad that adapts learning rates based on a moving window of gradient updates. Provides robustness against diminishing learning rates but requires careful tuning of parameters like `rho` (decay rate) and `epsilon` for stability.
+      - **Adam**: 
+        - Combines advantages of AdaGrad and RMSprop, offering adaptive learning rates per parameter. Configurable with `learning_rate`, `beta_1`, `beta_2`, which affect momentum and velocity in the optimization process.
+      - **RMSprop**: 
+        - Designed to deal with the diminishing learning rate problem of Adagrad by using a moving average of squared gradients. Key parameters include `learning_rate`, `rho` (similar to Adadelta’s decay rate), and `momentum` for acceleration.
+      - **SGD (Stochastic Gradient Descent)**:
+        - Classic optimizer with options like momentum and Nesterov acceleration for improved convergence.
+      - **Adagrad, Nadam, Ftrl**: 
+        - Provide additional optimization strategies for specialized scenarios, such as handling sparse data or large scale learning.
+      - **Custom Optimizers**: 
+        - Options for users to define custom optimization strategies based on their specific needs, potentially integrating elements from multiple standard optimizers.
+
   - xGrok NLP File Interface Applications
 
 - **Service Assembly Applications:**
