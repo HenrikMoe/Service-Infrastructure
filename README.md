@@ -52,35 +52,31 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - **Neural Applications:**
   
   - **NLP Libraries**:
-    - **xAI Grok**
-    - **spaCy**
-    - **NLTK (Natural Language Toolkit)**
-    - **Hugging Face Transformers**
-    - **Stanford CoreNLP**
-    - **OpenNLP**
+    - xAI Grok
+    - spaCy
+    - NLTK (Natural Language Toolkit
+    - Hugging Face Transformers
+    - Stanford CoreNLP
+    - OpenNLP
  
+  - **Context Based Tensorflow Optimization Applications** [see xlsx data optmizization lib]
 
-
-  - **Tensorflow Data Context Based Loss Optimization Applications** [see xlsx data optmizization lib]
-
-  - **TensorFlow Optimizers Integration**
-    - **Adadelta**    
-    - **Adam**
-    - **RMSprop**    
-    - **SGD (Stochastic Gradient Descent)**
-    - **Adagrad**
-    - **Nadam**
-    - **Ftrl**
-    - **Custom Optimizers**
+  - **TensorFlow Optimizer Applications**
+    - User Published Optimizers
+    - Adadelta  
+    - Adam
+    - RMSprop    
+    - SGD 
+    - Adagrad
+    - Nadam
+    - Ftrl
       
-  - **TensorFlow Lite Inference Optimizations**
-    - **Quantization Applications**
-    - **Delegate Utilization**: 
-          - *GPU Delegate*: For leveraging GPU acceleration in mobile environments.
-          - *Hexagon Delegate*: Optimizes for Qualcomm DSPs, enhancing performance on supported devices.
-          - *XNNPACK*: CPU-based acceleration for efficient inference on various platforms.
-  
- 
+  - **TensorFlow Lite Inference Applications**
+    - Quantization Applications
+    - Delegate Utilization 
+          - *GPU Delegate*
+          - *Hexagon Delegate*
+          - *XNNPACK*
 
        
 - **Service Assembly Applications:**
@@ -95,7 +91,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 ## Data Applications
 
-###.xlsx
+### .xlsx
 
  - **.xlsx Abstraction Applications**
    - Sheet-Based Batching App
