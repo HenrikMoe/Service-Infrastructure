@@ -74,9 +74,9 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - **TensorFlow Lite Inference Applications**
     - Quantization Applications
     - Delegate Utilization 
-          - *GPU Delegate*
-          - *Hexagon Delegate*
-          - *XNNPACK*
+      - GPU Delegate
+      - Hexagon Delegate
+      - XNNPACK
 
        
 - **Service Assembly Applications:**
