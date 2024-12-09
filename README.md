@@ -89,7 +89,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - Workflow onboarding and demo applications
  
 
-## Data Applications
+## Data Apps
 
 ### .xlsx
 
