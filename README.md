@@ -52,7 +52,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - **Neural Applications:**
   
   - **NLP Libraries**:
-    - **Grok (xAI's NLP Model)**
+    - **xAI Grok**
     - **spaCy**
     - **NLTK (Natural Language Toolkit)**
     - **Hugging Face Transformers**
