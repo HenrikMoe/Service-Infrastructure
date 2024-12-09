@@ -53,7 +53,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
   - Context Based NLP Optimization Applications 
 
-  - NLP Libraries
+  - NLP Library Apps
     - xAI Grok
     - spaCy
     - NLTK (Natural Language Toolkit
