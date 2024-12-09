@@ -50,7 +50,9 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
        
 
 - **Neural Applications:**
-  
+
+  - Context Based NLP Optimization Applications 
+
   - NLP Libraries
     - xAI Grok
     - spaCy
