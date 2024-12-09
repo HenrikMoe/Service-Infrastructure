@@ -61,16 +61,8 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
  
 
 
-  - **Data Context Tensorflow Loss Optimization Applications Per Extension Type and File Characteristics** [see xlsx data optmizization lib]
-   
-      
-  - **TensorFlow Lite Inference Optimizations**
-    - **Quantization Applications**
-    - **Delegate Utilization**: 
-          - *GPU Delegate*: For leveraging GPU acceleration in mobile environments.
-          - *Hexagon Delegate*: Optimizes for Qualcomm DSPs, enhancing performance on supported devices.
-          - *XNNPACK*: CPU-based acceleration for efficient inference on various platforms.
-  
+  - **Tensorflow Data Context Based Loss Optimization Applications** [see xlsx data optmizization lib]
+
   - **TensorFlow Optimizers Integration**
     - **Adadelta**    
     - **Adam**
@@ -80,6 +72,15 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - **Nadam**
     - **Ftrl**
     - **Custom Optimizers**
+      
+  - **TensorFlow Lite Inference Optimizations**
+    - **Quantization Applications**
+    - **Delegate Utilization**: 
+          - *GPU Delegate*: For leveraging GPU acceleration in mobile environments.
+          - *Hexagon Delegate*: Optimizes for Qualcomm DSPs, enhancing performance on supported devices.
+          - *XNNPACK*: CPU-based acceleration for efficient inference on various platforms.
+  
+ 
 
        
 - **Service Assembly Applications:**
