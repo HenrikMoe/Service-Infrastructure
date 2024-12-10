@@ -1,4 +1,4 @@
-# Service Infrastructure for Jinsei.ai
+# Service Infrastructure for https://Jinsei.ai
 
 
 For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:henrik@jinsei.ai) or connect on [LinkedIn](https://linkedin.com/in/henrikmoe)
