@@ -51,10 +51,8 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 - **Neural Applications:**
   
-  - Context Based Model Optimal Configuration Applications
-
-  - Context Based NLP Optimization Applications 
-
+  - Context Based Model Optimal Configuration Applications [Data Apps](#data-apps)
+  
   - NLP Library Apps
     - xAI Grok
     - spaCy
@@ -62,8 +60,6 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - Hugging Face Transformers
     - Stanford CoreNLP
     - OpenNLP
- 
-  - Context Based Tensorflow Optimization Applications [Data Apps](#data-apps)
 
   - TensorFlow Optimizer Applications
     - User Published Optimizers
@@ -107,9 +103,9 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
    - Preservation and Modification App
      
 - **Context Based Optimization Applications**
- - NLP Data Sort App
- - Tensorflow Data Sort App
- - xlsx Context Library 
+ - xlsx Context Library Compilation App
+ - NLP Data Store 
+ - Tensorflow Data Store
 
 ## Teams
 
