@@ -50,6 +50,8 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
        
 
 - **Neural Applications:**
+  
+  - Context Based Neural Model Optimal Configuration Applications
 
   - Context Based NLP Optimization Applications 
 
