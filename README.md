@@ -86,7 +86,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - Service Secret and License Rebundler Applications
  
 - **User Onboarding Applications:**
-  - Workflow onboarding and demo applications
+  - Workflow Onboarding and Demo Applications
  
 
 ## Data Apps
@@ -103,7 +103,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
    - Preservation and Modification App
      
 - **Context Based Optimization Applications**
-  - xlsx Context Library Compilation App
+  - Context Library Compilation App
   - NLP Data Store 
   - Tensorflow Data Store
 
