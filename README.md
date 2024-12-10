@@ -51,7 +51,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 - **Neural Applications:**
   
-  - Context Based Model Optimal Configuration Applications [Data Apps](#data-apps)
+  - Context Based Optimal Model Configuration Applications [Data Apps](#data-apps)
   
   - NLP Library Apps
     - xAI Grok
