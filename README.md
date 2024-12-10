@@ -93,7 +93,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 ### .xlsx
 
- - **Abstraction Applications**
+- **Abstraction Applications**
    - Sheet-Based Batching App
    - Formula Preservation App
    - Data Types and Formatting Preservation App
@@ -103,9 +103,9 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
    - Preservation and Modification App
      
 - **Context Based Optimization Applications**
- - xlsx Context Library Compilation App
- - NLP Data Store 
- - Tensorflow Data Store
+  - xlsx Context Library Compilation App
+  - NLP Data Store 
+  - Tensorflow Data Store
 
 ## Teams
 
