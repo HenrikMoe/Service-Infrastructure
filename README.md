@@ -80,7 +80,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
        
 - **Service Assembly Applications:**
-  - Neural, Security, Database, Hosting, Interface, Build Applications 
+  - Neural, Security, Database, Hosting, Interface, Assembly Applications 
   
 - **Licensing Applications:**
   - Service Secret and License Rebundler Applications
