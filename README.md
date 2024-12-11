@@ -46,8 +46,8 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - Data Normalization Interfaces
     - File Data Abstraction To NLP and Tensorflow Data Blocks Applications
     - NLP and TensorFlow File Data Compilation Applications
-    - Taxonomy Structure Abstraction Applications
-    - Taxonomy Assembly Applications 
+    - Data Directory Abstraction Applications
+    - Data Directory Assembly Applications 
     - On Premise Data Directory Runner Applications
     - 20+ File Type Data Abstraction Applications [Data Apps](#data-apps)
        
