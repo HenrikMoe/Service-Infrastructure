@@ -44,7 +44,10 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - On Premise PaaS Applications
     
   - Data Normalization Interfaces
-    - Natural Language Processor and TensorFlow Data Compilation Applications
+    - File Data Abstraction To NLP and Tensorflow Data Blocks Applications
+    - NLP and TensorFlow File Data Compilation Applications
+    - Taxonomy Structure Abstraction Applications
+    - Taxonomy Restructuring Applications 
     - On Premise Data Directory Runner Applications
     - 20+ File Type Data Abstraction Applications [Data Apps](#data-apps)
        
@@ -104,6 +107,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
      
 - **Context Based Optimization Applications**
   - Context Library Compilation App
+  - Rating Model Configuration Performance with Data Context App
   - NLP Data Store 
   - Tensorflow Data Store
 
