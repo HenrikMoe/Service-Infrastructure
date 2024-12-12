@@ -94,6 +94,11 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 ## Data Apps
 
+### Data Directories
+
+ - Directory Dependency Rules Data Store
+ - Directory Augmentation Management Applications
+
 ### .xlsx
 
 - **Abstraction Applications**
@@ -111,10 +116,6 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - NLP Data Store 
   - Tensorflow Data Store
 
-### Data Directories
-
- - Directory Dependency Rules Data Store
- - Directory Augmentation Management Applications
 
 ## Teams
 
