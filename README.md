@@ -98,7 +98,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
  - Directory Dependency Rules Data Store
  - Directory File Generation and Augmentation Pipeline Management Applications
- - Custom Context Based Data Directory Rule Generation Applications
+ - On Demand Data Retrieval Directory Rule Generation Applications
  - Directory Augmentation Management To File Transformer Interface
 
 ### .xlsx
