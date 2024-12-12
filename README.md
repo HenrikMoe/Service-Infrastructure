@@ -83,7 +83,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
        
 - **Service Assembly Applications:**
-  - Neural, Security, Database, Hosting, Interface, Assembly Applications 
+  - Neural, Security, Database, Hosting, Interface, Data, Assembly Applications 
   
 - **Licensing Applications:**
   - Service Secret and License Rebundler Applications
@@ -98,6 +98,8 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
  - Directory Dependency Rules Data Store
  - Directory File Generation and Augmentation Pipeline Management Applications
+ - Custom Context Based Data Directory Rule Generation Applications
+ - Directory Augmentation Management To File Transformer Interface
 
 ### .xlsx
 
