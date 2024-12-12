@@ -111,6 +111,11 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - NLP Data Store 
   - Tensorflow Data Store
 
+### Data Directories
+
+ - Directory Dependency Rules Data Store
+ - Directory Augmentation Management Applications
+
 ## Teams
 
 - **Application Build** - Utilizes Nix Flakes for consistent builds.
