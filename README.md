@@ -5,7 +5,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 ## SaaS Library 
 
-#### Hardware Provisions:
+#### Hardware Provisions: 
 
 - Beelink SER6 or EQ13 @ 32 GB RAM
 - NVMe SSD
