@@ -123,7 +123,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 
 
-## External Service Interface Packages
+## External Service Interfaces
 
 - **Tezos Blockchain Applications**
  
