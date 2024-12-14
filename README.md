@@ -92,11 +92,27 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
  
 - **User Onboarding Applications:**
   - Workflow Onboarding and Demo Applications
+
+  
+#### External Service Interfaces
+
+- **Tezos Blockchain Applications**
  
+  - ERP Decentralized Decision-Making (DDM) Management Applications
+  - DDM to Service Applications Interface App
+  - DDM to Data Applications Interface App
+  - ERP Smart Contract Deployment Applications
+  - ERP Node Hosting Applications
+  - ERP Fiat On/Off Ramp Applications
 
-## Data Apps
 
-### Data Directories
+- **SEC EDGAR Applications**
+  - EDGAR ETL Applications
+
+
+#### Data Apps
+
+**Data Directories**
 
  - Directory Dependency Rules Data Store
  - Directory File Generation and Augmentation Pipeline Management Applications
@@ -104,7 +120,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
  - On Demand Data Retrieval Directory Rule Assembly Management Interface to Service Applications Applications
 
 
-### .xlsx
+**.xlsx**
 
 - **Abstraction Applications**
    - Sheet-Based Batching App
@@ -123,23 +139,9 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 
 
-## External Service Interfaces
-
-- **Tezos Blockchain Applications**
- 
-  - ERP Decentralized Decision-Making (DDM) Management Applications
-  - DDM to Service Applications Interface App
-  - DDM to Data Applications Interface App
-  - ERP Smart Contract Deployment Applications
-  - ERP Node Hosting Applications
-  - ERP Fiat On/Off Ramp Applications
 
 
-- **SEC EDGAR Applications**
-  - EDGAR ETL Applications
-
-
-## Teams
+#### Teams
 
 - **Application Build** - Utilizes Nix Flakes for consistent builds.
 - **Testing** - Employs Nix Flakes for testing environments.
@@ -149,17 +151,18 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 
 
-## Custom Data Transformation Platform
+#### Custom Data Transformation Platform
 
 Our platform empowers operators with:
 
 - **Customizable Transformers:** Tailor AI models to fit specific data augmentation and transformation requirements.
+  
 - **Cyclical Process Management:** Automate repetitive data handling tasks, from ingestion to transformation and output.
   
 - **Cyclical Data Augmentation Automation:**   **Custom Transformer Training** - Operators can train custom models to automate data transformation processes tailored to specific needs.
 
  
-## Report Workflows:
+#### Report Workflows:
 
 - **Blockchain Transaction Classification**
   - **Precise Accounting For Smart Contracts:** Utilize AI to analyze blockchain transactions, identifying and sorting them based on their Fair Market Value (FMV) at the time of transaction, and calculating potential capital gains or losses. 
