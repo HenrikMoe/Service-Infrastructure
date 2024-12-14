@@ -122,6 +122,23 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - Tensorflow Data Store
 
 
+
+## External Service Interface Packages
+
+- **Tezos Blockchain Applications**
+ 
+  - ERP Decentralized Decision-Making (DDM) Management Applications
+  - DDM to Service Applications Interface App
+  - DDM to Data Applications Interface App
+  - ERP Smart Contract Deployment Applications
+  - ERP Node Hosting Applications
+  - ERP Fiat On/Off Ramp Applications
+
+
+- **SEC EDGAR Applications**
+  - EDGAR ETL Applications
+
+
 ## Teams
 
 - **Application Build** - Utilizes Nix Flakes for consistent builds.
@@ -141,19 +158,6 @@ Our platform empowers operators with:
   
 - **Cyclical Data Augmentation Automation:**   **Custom Transformer Training** - Operators can train custom models to automate data transformation processes tailored to specific needs.
 
-
- 
-## External Service Packages
-
-- **Tezos Blockchain Decentralized Decision Making**
-  - **Purpose:** Integrating decentralized decision-making processes inspired by blockchain governance models. 
-  - **Concept:** Much like voting on Tezos protocol updates, business processes could be improved through stakeholder voting mechanisms, promoting transparency and inclusivity in business operations.
-  - **Benefits:** Encourages innovation by allowing departments or employees to propose and vote on operational changes, potentially rewarding improvements with Tezos tokens or similar incentives.
-
-- **SEC EDGAR**
-  - **Purpose:** Manage SEC filings with custom data transformation for compliance.
-  - [Upload filings, retrieve filings](https://www.sec.gov/files/edgar/filermanual/efmvol1.pdf)
-  - On premise integration for seamless document verification.
  
 ## Report Workflows:
 
