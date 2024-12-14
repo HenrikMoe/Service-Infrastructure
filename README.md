@@ -94,7 +94,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - Workflow Onboarding and Demo Applications
 
   
-#### External Service Interfaces
+#### External Service Applications
 
 - **Tezos Blockchain Applications**
  
@@ -112,7 +112,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 #### Data Apps
 
-**Data Directories**
+- **Data Directories**
 
  - Directory Dependency Rules Data Store
  - Directory File Generation and Augmentation Pipeline Management Applications
