@@ -94,7 +94,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - Workflow Onboarding and Demo Applications
 
   
-#### External Service Applications
+#### External Service Applications:
 
 - **Tezos Blockchain Applications:**
  
