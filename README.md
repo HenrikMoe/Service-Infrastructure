@@ -41,11 +41,11 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - PostgreSQL
     
 - **Interface Applications:**
-  - User Interfaces
+  - User Interfaces:
     - PaaS Build Out of This Library Guided by [Jinsei.ai/ActiveDemo](https://jinsei.ai/activedemo)
     - On Premise PaaS Applications
     
-  - Data Normalization Interfaces
+  - Data Normalization Interfaces:
     - 20+ File Type Data Abstraction Applications [Data Apps](#data-apps)
     - File Data Abstraction To NLP and Tensorflow Data Blocks Applications
     - NLP and TensorFlow File Data Compilation Applications
@@ -58,7 +58,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   
   - Context Based Optimal Model Configuration Interface Applications [Data Apps](#data-apps)
   
-  - NLP Library Apps
+  - NLP Library Apps:
     - xAI Grok
     - spaCy
     - NLTK (Natural Language Toolkit
@@ -66,7 +66,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - Stanford CoreNLP
     - OpenNLP
 
-  - TensorFlow Optimizer Applications
+  - TensorFlow Optimizer Applications:
     - User Published Optimizers
     - Adadelta  
     - Adam
@@ -76,9 +76,9 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - Nadam
     - Ftrl
       
-  - TensorFlow Lite Inference Applications
+  - TensorFlow Lite Inference Applications:
     - Quantization Applications
-    - Delegate Utilization 
+    - Delegate Utilization: 
       - GPU Delegate
       - Hexagon Delegate
       - XNNPACK
@@ -96,7 +96,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   
 #### External Service Applications
 
-- **Tezos Blockchain Applications**
+- **Tezos Blockchain Applications:**
  
   - ERP Decentralized Decision-Making (DDM) Management Applications
   - DDM to Service Applications Interface App
@@ -106,13 +106,13 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - ERP Fiat On/Off Ramp Applications
 
 
-- **SEC EDGAR Applications**
+- **SEC EDGAR Applications:**
   - EDGAR ETL Applications
 
 
 #### Data Apps
 
-- **Data Directories**
+- **Data Directory Applications:**
 
  - Directory Dependency Rules Data Store
  - Directory File Generation and Augmentation Pipeline Management Applications
@@ -120,9 +120,9 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
  - On Demand Data Retrieval Directory Rule Assembly Management Interface to Service Applications Applications
 
 
-**.xlsx**
+**.xlsx:**
 
-- **Abstraction Applications**
+- **Abstraction Applications:**
    - Sheet-Based Batching App
    - Formula Preservation App
    - Data Types and Formatting Preservation App
@@ -131,7 +131,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
    - Dependency Handling App   
    - Preservation and Modification App
      
-- **Context Based Optimization Applications**
+- **Context Based Optimization Applications:**
   - Context Library Compilation App
   - Rating Model Configuration Performance with Data Context App
   - NLP Data Store 
