@@ -110,7 +110,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - EDGAR ETL Applications
 
 
-#### Data Applications
+#### Data Applications:
 
   - **Data Directory Applications:**
     - Directory Dependency Rules Data Store
