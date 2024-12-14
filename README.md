@@ -46,7 +46,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - On Premise PaaS Applications
     
   - Data Normalization Interfaces:
-    - 20+ File Type Data Abstraction Applications [Data Apps](#data-apps)
+    - 20+ File Type Data Abstraction Applications [Data Apps](#data-applications)
     - File Data Abstraction To NLP and Tensorflow Data Blocks Applications
     - NLP and TensorFlow File Data Compilation Applications
     - Data Directory Abstraction Applications
@@ -56,7 +56,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 - **Neural Applications:**
   
-  - Context Based Optimal Model Configuration Interface Applications [Data Apps](#data-apps)
+  - Context Based Optimal Model Configuration Interface Applications [Data Apps](#data-applications)
   
   - NLP Library Apps:
     - xAI Grok
@@ -110,32 +110,31 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   - EDGAR ETL Applications
 
 
-#### Data Apps
+#### Data Applications
 
-- **Data Directory Applications:**
+  - **Data Directory Applications:**
+    - Directory Dependency Rules Data Store
+    - Directory File Generation and Augmentation Pipeline Management Applications
+    - Directory Augmentation Management Interface With Service Applications Applications
+    - On Demand Data Retrieval Directory Rule Assembly Management Interface to Service Applications Applications
 
- - Directory Dependency Rules Data Store
- - Directory File Generation and Augmentation Pipeline Management Applications
- - Directory Augmentation Management Interface With Service Applications Applications
- - On Demand Data Retrieval Directory Rule Assembly Management Interface to Service Applications Applications
 
+  - **.xlsx:**
 
-**.xlsx:**
-
-- **Abstraction Applications:**
-   - Sheet-Based Batching App
-   - Formula Preservation App
-   - Data Types and Formatting Preservation App
-   - Macros and VBA Scripts Batching App
-   - Embedded Objects Batching App
-   - Dependency Handling App   
-   - Preservation and Modification App
-     
-- **Context Based Optimization Applications:**
-  - Context Library Compilation App
-  - Rating Model Configuration Performance with Data Context App
-  - NLP Data Store 
-  - Tensorflow Data Store
+     - **Abstraction Applications:**
+        - Sheet-Based Batching App
+        - Formula Preservation App
+        - Data Types and Formatting Preservation App
+        - Macros and VBA Scripts Batching App
+        - Embedded Objects Batching App
+        - Dependency Handling App   
+        - Preservation and Modification App
+          
+     - **Context Based Optimization Applications:**
+       - Context Library Compilation App
+       - Rating Model Configuration Performance with Data Context App
+       - NLP Data Store 
+       - Tensorflow Data Store
 
 
 
