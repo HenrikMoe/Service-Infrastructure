@@ -14,7 +14,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - 7.2kwH/day @ Max Load 
 - NixOS ISO 
 
-#### Development Provisions Applications:
+#### Development Provisions Applications: 
 
 - Developer Version Partition Applications
 - Development Operation Environment Applications
