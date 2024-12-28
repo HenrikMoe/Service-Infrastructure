@@ -142,8 +142,8 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 #### Teams
 
-- **Application Build** - rmu - Utilizes Nix Flakes for consistent builds.
-- **Testing** - Employs Nix Flakes for testing environments.
+- **Application Build** - ollie/rmu - Utilizes Nix Flakes for consistent builds.
+- **Testing** - npc manager? - Employs Nix Flakes for testing environments.
 - **Enterprise Implementation** - On premise with nix to saas.
 - **Business Administration**  
 - **Customer Success**
