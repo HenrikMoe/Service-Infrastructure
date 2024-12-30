@@ -107,7 +107,9 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 
 - **SEC EDGAR Applications:**
-  - EDGAR ETL Applications
+  - EDGAR ETL Legacy ERP Applications
+  - EDGAR ETL Smart Contract Parameter Indexing Applications
+
 
 
 #### Data Applications:
@@ -135,8 +137,6 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
        - Rating Model Configuration Performance with Data Context App
        - NLP Data Store 
        - Tensorflow Data Store
-
-
 
 
 
