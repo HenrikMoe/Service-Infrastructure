@@ -272,6 +272,10 @@ Our platform empowers operators with:
   - **Inventory Management:** Use transformed sales data to predict future demand.
     - **Standard:** CPFR (Collaborative Planning, Forecasting, and Replenishment).
 
+- **Subscription Media Management**
+  - **Aggregate Subscriptions, Auto Deprecate:** Train models to deprecate user subscriptions from SaaS they aren't using anymore. Provides the subscription declaration for easy user re-uptake of their SaaS footprint on demand. 
+    - **Standard:** On premise integrations to subscription management enterprises. 
+
 - **Media Content Sentiment Analysis**
   - **Content Strategy Insights:** Transform user feedback for content strategy insights.
     - **Standard:** MPAI-AIF for AI-driven analytics in media.
