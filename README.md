@@ -1,5 +1,7 @@
 # Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
+An energy company. 
+
 For Malcom Feix.
 
 For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:henrik@jinsei.ai) or connect on [LinkedIn](https://linkedin.com/in/henrikmoe)
