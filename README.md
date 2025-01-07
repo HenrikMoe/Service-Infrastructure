@@ -147,8 +147,8 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - **Application Build** - chase/ollie/robbie - Utilizes Nix Flakes for consistent builds.
 - **Testing** - npc - Employs Nix Flakes for testing environments.
 - **Enterprise Implementation** - npc - On premise with nix to saas.
-- **Business Administration** - board
-- **Customer Success** - max sam kane
+- **Business Administration** - berg 
+- **Customer Success** - max sam kane yuki?
 
 
 
