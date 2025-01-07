@@ -144,7 +144,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 #### Teams
 
-- **Application Build** - chase/ollie/robbie - Utilizes Nix Flakes for consistent builds.
+- **Application Build** - chase robbie ollie - Utilizes Nix Flakes for consistent builds.
 - **Testing** - npc - Employs Nix Flakes for testing environments.
 - **Enterprise Implementation** - npc - On premise with nix to saas.
 - **Business Administration** - berg 
