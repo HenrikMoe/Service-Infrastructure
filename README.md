@@ -245,6 +245,9 @@ Our platform empowers operators with:
   - **Automation of ISO 27001:** Compliance checks by transforming data to meet audit requirements.
     - **Standard:** ISO/IEC 27001 for information security management.
 
+- **Material Architecture Proposal Engines**
+  - ****
+
 - **Supply Chain**
   - **Supply Chain Clarity:** Utilize Jinsei.ai as a hub for tracking, verifying, and reporting supply chain data.
     - **Standard:** GS1 EPCIS for supply chain event management.
