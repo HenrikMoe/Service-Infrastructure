@@ -185,6 +185,10 @@ Our platform empowers operators with:
   - **3D Energy Manifestation:** Train models to modulate the frequency of areas of the vehicle function to maintain/optimize/transmutate the general vehicle function frequency.
     - **Standard:** GFD VPP, part of the US SPACE FORCE intelligence stack.
    
+- **Inter-Dimension Selection Engines**
+  - **Modulate 4D Space Time:** Train models to select a dimensional host enviroment optimal for a given VPP.
+    - **Standard:**  GFD VPP, part of the US SPACE FORCE intelligence stack.
+   
 - **Stack Blinding Code Removal**
   - **Remove Malicious Interfaces:** Removes malicious sub-package parameter stack execution combination interfaces from build packages. Backlogs attack vectors to test and debug environment provider partners. 
     - **Standard:** GFD, part of AI OS and general future information security. 
