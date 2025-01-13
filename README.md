@@ -176,6 +176,10 @@ Our platform empowers operators with:
 - **AI Generated OS**
   - **Eliminate Zero-Day Package Vulnerabilities:** Use AI training data from well-known operating systems such as Nix, Guix, Arch Linux, Gentoo, and BSD, along with specific data on zero-day vulnerabilities. Train AI to recognize and counteract package attribute combination attack vectors inherit to the OS as they emerge.
      - **Standard:** GFD, Develop and maintain an operating system that is inherently resistant to sabotage, providing a system with perfect information security for the future.
+
+- **Material Architecture Proposal Engines**
+  - **Langrnagian Astral Domain Projection:** Project matter as frequencies of energy from the 5D totality source into 4 and 3D multi-purpose vehicles. 
+    - **Standard:** GFD Vehicle Projection Program 
    
 - **Stack Blinding Code Removal**
   - **Remove Malicious Interfaces:** Removes malicious sub-package parameter stack execution combination interfaces from build packages. Backlogs attack vectors to test and debug environment provider partners. 
@@ -244,10 +248,6 @@ Our platform empowers operators with:
 - **ISO 27001 Compliance Reporting**
   - **Automation of ISO 27001:** Compliance checks by transforming data to meet audit requirements.
     - **Standard:** ISO/IEC 27001 for information security management.
-
-- **Material Architecture Proposal Engines**
-  - **Langrnagian Astral Domain Projection:** Project matter as frequencies of energy from the 5D totality source into 4 and 3D multi-purpose vehicles. 
-    - **Standard:** GFD Vehicle Projection Program 
 
 - **Supply Chain**
   - **Supply Chain Clarity:** Utilize Jinsei.ai as a hub for tracking, verifying, and reporting supply chain data.
