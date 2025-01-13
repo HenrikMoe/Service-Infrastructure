@@ -178,7 +178,7 @@ Our platform empowers operators with:
      - **Standard:** GFD, Develop and maintain an operating system that is inherently resistant to sabotage, providing a system with perfect information security for the future.
 
 - **Material Architecture Proposal Engines**
-  - **Langrnagian Astral Domain Projection:** Project matter as frequencies of energy from the 5D totality source into 4 and 3D multi-purpose vehicles. 
+  - **Lagrangian Astral Domain Projection:** Project matter as frequencies of energy from the 5D totality source into 4 and 3D multi-purpose vehicles. 
     - **Standard:** GFD Vehicle Projection Program 
    
 - **Stack Blinding Code Removal**
