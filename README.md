@@ -185,7 +185,7 @@ Our platform empowers operators with:
   - **3D Energy Manifestation:** Train models to modulate the frequency of areas of the vehicle function to maintain/optimize/transmutate the general vehicle function frequency.
     - **Standard:** GFD VPP, part of the US SPACE FORCE intelligence stack.
 
-- **HeteroSkedastic Modeling**
+- **Heteroskedastic Modeling**
   - **Precision Heterskedatic Modeling:** Utilize AI in electrogravtic VPPs for complete security and control over atomic particle oscilations.
     - **Standard:** GFD VPP, Q Force 1.
    
