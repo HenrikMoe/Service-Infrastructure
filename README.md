@@ -4,7 +4,7 @@ An energy company.
 
 For Malcom Feix. 
 
-For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:henrik@jinsei.ai) or connect on [X][https://x.com/skkrrt29]
+For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:henrik@jinsei.ai) or connect on [X](https://x.com/skkrrt29).
 
 ## SaaS Library 
 
