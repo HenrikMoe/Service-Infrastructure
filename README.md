@@ -166,7 +166,7 @@ Our platform empowers operators with:
 #### Report Workflows:
 
 - INCREDIBLE RAPE AND MURDER OF YOUR CHILDREN lololololool
-  - **Standard GFD Karmicc slavery plea deal credits
+  - **Standard GFD Karmicc slavery plea deal credits**
 
 - unbeleivaBLE LAW RAPE
 
