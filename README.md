@@ -170,10 +170,10 @@ Our platform empowers operators with:
  
  - pop ups - hh class rezonica genreration - genreate ur reality by ur imaagination with ai - takes about a day or less to process . hh class
 
-- INCREDIBLE RAPE AND MURDER OF YOUR CHILDREN lololololool
+- DoD child trafficker recepircipatcations lololololool
   - **Standard GFD Karmicc slavery plea deal credits**
 
-- unbeleivaBLE LAW RAPE
+- unbeleivaBLE LAW penetration
 
 - **69DEATH69FREQUENCYMONOPOLY**
   - **COMPLETE UNIVERSAL DOMINANCE:** wowwwwwwwwwwwwww funnnnnnnnnn . constants r just that fam this ones special for human slavery control sorry classified internet broken oopsie poopsie doopsie get fucker ducked in ur cuck and die croke hanged weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee yay.
