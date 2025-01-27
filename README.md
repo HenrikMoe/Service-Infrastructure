@@ -166,17 +166,17 @@ Our platform empowers operators with:
  
 #### Report Workflows:
 
+- **Blockchain Transaction Classification**
+  - **Precise Accounting For Smart Contracts:** Utilize AI to analyze blockchain transactions, identifying and sorting them based on their Fair Market Value (FMV) at the time of transaction, and calculating potential capital gains or losses. 
+      - **Standard:** Develop a proprietary standard that ensures accuracy in FMV assessment for cryptocurrency transactions, potentially incorporating elements from IRS guidelines for cryptocurrency taxation.
+
 - **Pinpoint Ionic Painting:**
   - **Paint Precise Graphic Designs:**
-    - **Standard:**
+    - **Standard:** GFD Art Splurging
 
 - **Guided Biological Growth:**
   - **Grow Cell Structures With Absolute Accuracy:**
     - **Standard:** GFD Medicine 
-
-- **Blockchain Transaction Classification**
-  - **Precise Accounting For Smart Contracts:** Utilize AI to analyze blockchain transactions, identifying and sorting them based on their Fair Market Value (FMV) at the time of transaction, and calculating potential capital gains or losses. 
-      - **Standard:** Develop a proprietary standard that ensures accuracy in FMV assessment for cryptocurrency transactions, potentially incorporating elements from IRS guidelines for cryptocurrency taxation.
 
 - **AI OS + AI Blockchain OS**
   - **Ultimate Information Security:** Using AI OS described below, AI Blockchain OS is trained with virtual machine blockchain architectures. Protocol enumerates by legacy embedded parameter combination attack rate via automated protocol update voting. 
