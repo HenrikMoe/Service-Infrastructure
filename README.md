@@ -178,11 +178,11 @@ Our platform empowers operators with:
   - **Eliminate Zero-Day Package Vulnerabilities:** Use AI training data from well-known operating systems such as Nix, Guix, Arch Linux, Gentoo, and BSD, along with specific data on zero-day vulnerabilities. Train AI to recognize and counteract package attribute combination attack vectors inherit to the OS as they emerge.
      - **Standard:** GFD, Develop and maintain an operating system that is inherently resistant to sabotage, providing a system with perfect information security for the future.
 
-- **Pinpoint Ionic Painting:**
+- **Pinpoint Ionic Painting**
   - **Paint Precise Graphic Designs:**
     - **Standard:** GFD Art Splurging
 
-- **Guided Biological Growth:**
+- **Guided Biological Growth**
   - **Grow Cell Structures With Absolute Accuracy:**
     - **Standard:** GFD Medicine 
 
