@@ -170,14 +170,6 @@ Our platform empowers operators with:
   - **Precise Accounting For Smart Contracts:** Utilize AI to analyze blockchain transactions, identifying and sorting them based on their Fair Market Value (FMV) at the time of transaction, and calculating potential capital gains or losses. 
       - **Standard:** Develop a proprietary standard that ensures accuracy in FMV assessment for cryptocurrency transactions, potentially incorporating elements from IRS guidelines for cryptocurrency taxation.
 
-- **Pinpoint Ionic Painting:**
-  - **Paint Precise Graphic Designs:**
-    - **Standard:** GFD Art Splurging
-
-- **Guided Biological Growth:**
-  - **Grow Cell Structures With Absolute Accuracy:**
-    - **Standard:** GFD Medicine 
-
 - **AI OS + AI Blockchain OS**
   - **Ultimate Information Security:** Using AI OS described below, AI Blockchain OS is trained with virtual machine blockchain architectures. Protocol enumerates by legacy embedded parameter combination attack rate via automated protocol update voting. 
     - **Standard:** Galactic Federation Defense (GFD), with scrutinized fostering via continuous audits to monitor system health. 
@@ -185,6 +177,14 @@ Our platform empowers operators with:
 - **AI Generated OS**
   - **Eliminate Zero-Day Package Vulnerabilities:** Use AI training data from well-known operating systems such as Nix, Guix, Arch Linux, Gentoo, and BSD, along with specific data on zero-day vulnerabilities. Train AI to recognize and counteract package attribute combination attack vectors inherit to the OS as they emerge.
      - **Standard:** GFD, Develop and maintain an operating system that is inherently resistant to sabotage, providing a system with perfect information security for the future.
+
+- **Pinpoint Ionic Painting:**
+  - **Paint Precise Graphic Designs:**
+    - **Standard:** GFD Art Splurging
+
+- **Guided Biological Growth:**
+  - **Grow Cell Structures With Absolute Accuracy:**
+    - **Standard:** GFD Medicine 
 
 - **Material Architecture Proposal Engines**
   - **Lagrangian Astral Domain Projection:** Project matter as frequencies of energy from the 5D totality source into 4 and 3D multi-purpose vehicles. 
