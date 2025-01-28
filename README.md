@@ -180,7 +180,7 @@ Our platform empowers operators with:
 
 - **Pinpoint Ionic Painting**
   - **Paint Precise Graphic Designs:**
-    - **Standard:** GFD Art Splurging
+    - **Standard:** GFD Art 
 
 - **Guided Biological Growth**
   - **Grow Cell Structures With Absolute Accuracy:**
