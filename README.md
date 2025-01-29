@@ -67,7 +67,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
     - Hugging Face Transformers
     - Stanford CoreNLP
     - OpenNLP
-    - Deepseek V3
+    - Deepseek V3 **SuperDank**
 
   - TensorFlow Optimizer Applications:
     - User Published Optimizers
