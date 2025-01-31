@@ -149,7 +149,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - **Testing** - alex nda* - Employs Nix Flakes for testing environments.
 - **Enterprise Implementation** - npc - On premise with nix to saas.
 - **Business Administration** - berg 
-- **Customer Success** - max sam kane yuki anson blake scottyvd garrett ryan andrew
+- **Customer Success** - max sam kane yuki anson blake scottyvd garrett ryan
 
 
 
