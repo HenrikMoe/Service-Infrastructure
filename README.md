@@ -1,6 +1,6 @@
 # Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
-An energy company.  
+An energy company.   
 
 For Malcom Feix. M. 🙏
 
