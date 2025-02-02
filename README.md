@@ -99,7 +99,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   
 #### External Service Applications:
 
-- **Tezos Blockchain Applications:**
+- **Ripple (XRP) Blockchain Applications:**
  
   - ERP Decentralized Decision-Making (DDM) Management Applications
   - DDM to Service Applications Interface App
