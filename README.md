@@ -166,6 +166,10 @@ Our platform empowers operators with:
  
 #### Report Workflows:
 
+- **Northrop Asset Intake**
+   - **Intake All NORTHOP Assets:** Before complete dillusionment of Northop Corporation.
+     - **Standard:** Jinsei.ai/Galactic Federation Defense Takeover. 
+
 - **AI Network Browsers**
   - **:** 
   
@@ -177,7 +181,7 @@ Our platform empowers operators with:
     
 - **All Terain Monitoring**
    - **Land, Inter-Dimensional Subterrainian, and Ocean Monitoring:**
-      - **GFD Earth Activity Survelliance**
+      - **Standard: GFD Earth Activity Survelliance**
 
 - **Are You a Robot Superstar**
   - **Come At Me Bro Levels of Human Proofs:** Makes Captcha its little bitch.
