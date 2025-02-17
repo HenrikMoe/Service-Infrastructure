@@ -166,6 +166,8 @@ Our platform empowers operators with:
  
 #### Report Workflows:
 
+- **Discharge Service Assembly Automated**
+
 - **Health Insurance Compatible Services Communications**
 
 - **Cross Country Licensing**
