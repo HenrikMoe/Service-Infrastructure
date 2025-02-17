@@ -166,7 +166,7 @@ Our platform empowers operators with:
  
 #### Report Workflows:
 
-- **Discharge Service Assembly Automated**
+- **Multi-Step Down Discharge Service Assembly Automated**
 
 - **Health Insurance Compatible Services Communications**
 
