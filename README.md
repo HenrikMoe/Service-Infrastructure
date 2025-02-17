@@ -166,6 +166,8 @@ Our platform empowers operators with:
  
 #### Report Workflows:
 
+- **Health Insurance Compatible Services Communications**
+
 - **Cross Country Licensing**
 
 - **Culinary Ingrediant Preservation Processing**
