@@ -165,6 +165,8 @@ Our platform empowers operators with:
  
 #### Report Workflows:
 
+- **Culture Information Automated**
+
 - **NPC Network Transfer (Archangel Prison)**
 
 - **RAPR (Retarded APR)**
