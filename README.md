@@ -148,7 +148,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - **Testing** - alex nda* - Employs Nix Flakes for testing environments.
 - **Enterprise Implementation** - illdoitidc - On premise with nix to saas.
 - **Business Administration** - berg 
-- **Customer Success** - same glock max kane travis keeuu bruce saul ramireeeez gallleggoooosss ashkahn ~~~~~\everyboddddyy/~~~~ pinkpanthress kdot doja future dolphin gucci weeeeeeknd currency kamalashubby tyler yuki anson blake scottyvd garebear rslovesbb badddddddddddddddddddbunny sully dunk zander gantler sanders bryson brauny craig/greg:maxidhelp harrison santi fowler crewolf corey o'toole will(psy) sloth frank borange knock feix
+- **Customer Success** - same glock max kane travis keeuu bruce saul ramireeeez biggiesmaaalllzzzzzzzzz diddy gallleggoooosss ashkahn ~~~~~\everyboddddyy/~~~~ pinkpanthress kdot doja future dolphin gucci weeeeeeknd currency kamalashubby tyler yuki anson blake scottyvd garebear rslovesbb badddddddddddddddddddbunny sully dunk zander gantler sanders bryson brauny craig/greg:maxidhelp harrison santi fowler crewolf corey o'toole will(psy) sloth frank borange knock feix
 
 
 
