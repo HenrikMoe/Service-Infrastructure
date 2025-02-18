@@ -110,8 +110,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 
 
 - **SEC EDGAR Applications:**
-  - EDGAR ETL Legacy ERP Applications
-  - EDGAR ETL Smart Contract Parameter Indexing Applications
+  - EDGAR ETL Legacy Intake Applications
 
 
 
