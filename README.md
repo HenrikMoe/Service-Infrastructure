@@ -165,6 +165,8 @@ Our platform empowers operators with:
  
 #### Report Workflows:
 
+- **Q Shit Talking and MCing Automated**
+
 - **Michael Partys Automated**
 
 - **Veteran Rehab Programs Automated**
