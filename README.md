@@ -147,7 +147,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - **Application Build** - chase robbie madhav kern wei heeeenie ollie - Utilizes Nix Flakes for consistent builds.
 - **Testing** - alex nda* - Employs Nix Flakes for testing environments.
 - **Enterprise Implementation** - illdoitidc - On premise with nix to saas.
-- **Business Administration** - berg 
+- **Business Administration** - berg callum
 - **Customer Success** - same glock max kane travis flah?NAH gallietry gryme iso charlixcx penskeentertainment kaliuchls billie layz taylor ocean meghanstalllllioonnn keeuu diezel sexxyReddd marauda svddendeath deathpact elon ye crystalkastles bruce macmiller saul ramireeeez biggiesmaaalllzzzzzzzzz kaytra paac diddy gallleggoooosss ashkahn ~~~~~\everyboddddyy/~~~~ pinkpanthress kdot doja sza future dolphin gucci weeeeeeknd currency kamalashubby tyler yuki anson blake scottyvd garebear rslovesbb badddddddddddddddddddbunny sully dunk zander gantler sanders bryson brauny craig/greg:maxidhelp harrison santi fowler crewolf corey o'toole will(psy) sloth frank borange machinedrum tinashe knock feix
 
 
