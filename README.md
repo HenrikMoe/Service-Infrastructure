@@ -165,6 +165,8 @@ Our platform empowers operators with:
  
 #### Report Workflows:
 
+- **RAPR (Retarded APR)**
+
 - **Q Shit Talking and MCing Automated**
 
 - **Michael Partys Automated**
