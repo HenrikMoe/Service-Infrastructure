@@ -148,7 +148,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - **Testing** - alex nda* - Employs Nix Flakes for testing environments.
 - **Enterprise Implementation** - illdoitidc - On premise with nix to saas.
 - **Business Administration** - berg callum
-- **Customer Success** - same glock max kane travis flah?NAH gallietry arthur gryme iso charlixcx preeeweeeeloooongggggwayyyyy penskeentertainment kaliuchls billie layz taylor ocean meghanstalllllioonnn keeuu diezel sexxyReddd marauda deftones hurtbox svddendeath duster deathpact elon ye crystalkastles mariahsthe godlands bruce macmiller maye aisu ahadaddream ceybae saul ramireeeez arianna biggiesmaaalllzzzzzzzzz kaytra paac diddy gallleggoooosss brunomars coco clairclair ashkahn ~~~~~\everyboddddyy/~~~~ pinkpanthress thugger kdot doja ogryzek sza nicki kevin wreckno smoakland icespice future dolphin gucci weeeeeeknd controlfreak daftpunk Hol subtronics latto davidson alexander salute hitler ki/ki lincoln henrik! currency kamalashubby tyler yuki anson blake scottyvd garebear beastboi rslovesbb badddddddddddddddddddbunny sully dunk zander gantler sanders bryson brauny craig/greg:maxidhelp harrison santi fowler crewolf corey o'toole will(psy) sloth frank borange machinedrum tinashe knock feix
+- **Customer Success** - same glock max kane travis flah?NAH gallietry arthur gryme iso charlixcx preeeweeeeloooongggggwayyyyy penskeentertainment kaliuchls billie layz taylor ocean meghanstalllllioonnn keeuu diezel sexxyReddd marauda deftones hurtbox svddendeath duster deathpact elon ye crystalkastles mariahsthe godlands bruce macmiller maye aisu ahadaddream ceybae saul ramireeeez arianna biggiesmaaalllzzzzzzzzz kaytra paac diddy gallleggoooosss brunomars coco clairclair ashkahn ~~~~~\everyboddddyy/~~~~ pinkpanthress thugger kdot doja ogryzek sza nicki kevin wreckno sevdaliza smoakland icespice future dolphin gucci weeeeeeknd controlfreak daftpunk Hol subtronics latto davidson alexander salute hitler ki/ki lincoln henrik! currency kamalashubby tyler yuki anson blake scottyvd garebear beastboi rslovesbb badddddddddddddddddddbunny sully dunk zander gantler sanders bryson brauny craig/greg:maxidhelp harrison santi fowler crewolf corey o'toole will(psy) sloth frank borange machinedrum tinashe knock feix
 
 
 
@@ -169,7 +169,7 @@ Our platform empowers operators with:
   - **The New Billboard:** Automated brainwave rezonica tracking of top hits and artists in the music industry. 
 
 - **Music Industry Restructuring Automated**
-  - **Distribution, Marketing, DealLeads:** Automate artist franchising with Jinsei.ai. Distribution by Spotify, Apple, Soundcloud algorithms. 
+  - **Distribution, Marketing, DealLeads:** Automate artist franchising with Jinsei.ai. Distribution by Spotify, Apple, Soundcloud algorithms. Artist deal lead and contract alignment services. 
 
 - **Culture Information Automated**
 
