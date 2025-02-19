@@ -165,7 +165,11 @@ Our platform empowers operators with:
  
 #### Report Workflows:
 
+- **Music Rezonica Index Automated**
+  - **The New Billboard:** Automated brainwave rezonica tracking of top hits and artists in the music industry. 
+
 - **Music Industry Restructuring Automated**
+  - **Distribution, Marketing, DealLeads:** Automate artist franchising with Jinsei.ai. Distribution by Spotify, Apple, Soundcloud algorithms. 
 
 - **Culture Information Automated**
 
