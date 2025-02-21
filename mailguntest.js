@@ -6,7 +6,7 @@ async function sendSimpleMessageTemplate() {
 
   const mg = mailgun.client({
     username: "api",
-    key: process.env.API_KEY || "API_KEY",
+    key: process.env.API_KEY || "Skr"
     // When you have an EU-domain, you must specify the endpoint:
     // url: "https://api.eu.mailgun.net/v3"
   });
@@ -26,3 +26,7 @@ async function sendSimpleMessageTemplate() {
     console.log(error); // logs any error
   }
 }
+
+sendSimpleMessageTemplate()
+
+
