@@ -1,0 +1,26 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "An energy company.",
+  "main": "mailguntest.js",
+  "type": "module", 
+
+  "scripts": {
+    "start": "node mailguntest.js",
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenrikMoe/Service-Infrastructure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenrikMoe/Service-Infrastructure/issues"
+  },
+  "homepage": "https://github.com/HenrikMoe/Service-Infrastructure#readme",
+  "dependencies": {
+    "form-data": "^4.0.2",
+    "mailgun.js": "^11.1.0"
+  }
+}
