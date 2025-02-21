@@ -165,6 +165,7 @@ Our platform empowers operators with:
  
 #### Report Workflows:
 
+- **NYSE, NASDAQ, Venture Capital, Family Capital Exchange Monitoring**
 
 - **Fiat To Crypto On/Off Ramp**
 
