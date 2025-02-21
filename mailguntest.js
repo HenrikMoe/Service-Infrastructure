@@ -8,7 +8,7 @@ async function sendSimpleMessageTemplate() {
     username: "api",
     key: process.env.API_KEY || "API_KEY",
     // When you have an EU-domain, you must specify the endpoint:
-    url: "https://api.eu.mailgun.net/v3"
+    // url: "https://api.eu.mailgun.net/v3"
   });
 
   try {
@@ -16,7 +16,7 @@ async function sendSimpleMessageTemplate() {
       from: "Mailgun Sandbox <postmaster@jinsei.ai>",
       to: ["Henrik Moe <henrik@jinsei.ai>"],
       subject: "Hello Henrik Moe",
-      template: "jinsei.ai label contracts",
+      template: "contracts",
       "h:X-Mailgun-Variables": JSON.stringify({
         test: "test",
       }),
