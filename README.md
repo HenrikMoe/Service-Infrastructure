@@ -175,7 +175,15 @@ Our platform empowers operators with:
 
 - **Free Market, Venture, Family, Endownment Capital Exchange Monitoring**
   - **Securities and Exchanges Monitoring (SEM):** Monitoring and approval of all financial security assets.
-     - **Standard:** GFD all financial domain domination for benefit of human kind.   
+     - **Standard:** GFD all financial domain domination for benefit of human kind.
+   
+- **Music Rezonica Index Automated**
+  - **The New Billboard:** Automated brainwave rezonica tracking of top hits and artists in the music industry.
+    - **Standard:** GFD  Music
+
+- **Music Industry Restructuring Automated**
+  - **Distribution, Marketing, DealLeads:** Automate artist franchising with Jinsei.ai. Distribution by Spotify, Apple, Soundcloud algorithms. Artist deal lead and contract alignment services.
+     - **Standard:** GFD  Music 
 
 - **Fiat To Crypto On/Off Ramp**
 
@@ -183,12 +191,6 @@ Our platform empowers operators with:
 
 - **Q x xGrok3 Collaboration**
   - **Q Force Training:** Trains Grok by barking at it and dumping the lore of Q into the void...
-
-- **Music Rezonica Index Automated**
-  - **The New Billboard:** Automated brainwave rezonica tracking of top hits and artists in the music industry. 
-
-- **Music Industry Restructuring Automated**
-  - **Distribution, Marketing, DealLeads:** Automate artist franchising with Jinsei.ai. Distribution by Spotify, Apple, Soundcloud algorithms. Artist deal lead and contract alignment services. 
 
 - **Culture Information Automated**
 
