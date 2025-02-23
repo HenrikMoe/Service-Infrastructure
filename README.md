@@ -173,7 +173,7 @@ Our platform empowers operators with:
   - **Total Tendon Reconstruction:** Complete tendon reconstructions for torn tendons. Reconnects spirtual connections to the head.
     - **Standard:** GFD Medicine. 
 
-- **NYSE, NASDAQ, Venture Capital, Family Capital Exchange Monitoring**
+- **Free Market, Venture, Family, Endownment Capital Exchange Monitoring**
   - **Securities and Exchanges Monitoring (SEM):** Monitoring and approval of all financial security assets.
      - **Standard:** GFD all financial domain domination for benefit of human kind.   
 
