@@ -206,7 +206,7 @@ Our platform empowers operators with:
     - **Standard:** GFD Propoganda
 
 - **RAPR (Retarded APR)**
-  - **Retarded APR Token Project:** Positivity based token project exploiting the delusional ideology of fear of missing out (FOMO).
+  - **Retarded APR Token Project:** Positivity based token project exploiting the ideology of fear of missing out (FOMO).
     - **Standard:** GFD Propoganda, GFD SEM
 
 - **Q Shit Talking and MCing Automated**
@@ -234,14 +234,16 @@ Our platform empowers operators with:
     - **Standard:** GFD Communication  
 
 - **Culinary Ingrediant Preservation Processing**
-  - **:**
+  - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant dissembly and assembly AI powered systems.
+    - **Standard:** GFD Agriculture, GFD Prison Network 
 
 - **Culinary Licensing Automation**
-  - **:**
+  - **Automates Culinary Licensing:** Provides AI powered culinary licensing systems for cooking.
+    - **Standard:** GFD Agriculture, GFD Prison Network 
 
 - **Northrop Asset Intake**
-   - **Intake All NORTHOP Assets:** Before complete dillusionment of Northop Corporation.
-     - **Standard:** Jinsei.ai/Galactic Federation Defense Takeover. 
+   - **Intake All NORTHOP Assets:** Before complete disembodiment of Northop Corporation.
+     - **Standard:** GFD Prison Network 
 
 - **AI Network Browsers**
   - **:** 
