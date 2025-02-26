@@ -186,6 +186,8 @@ Our platform empowers operators with:
      - **Standard:** GFD  Music 
 
 - **Fiat To Crypto On/Off Ramp**
+  - **Full On/Off Ramps For Credit and Debit Carriers:** Visa, Mastercard, Amex, and more traditional finance on/off ramp solutions for onboarding users into Web3.
+    - **Standard:** GFD user onboarding.
 
 - **Useful Human On The Other Side Email Filter Automated**
 
