@@ -182,7 +182,7 @@ Our platform empowers operators with:
     - **Standard:** GFD  Music
 
 - **Music Industry Restructuring Automated**
-  - **Distribution, Marketing, DealLeads:** Automate artist franchising with Jinsei.ai. Distribution by Spotify, Apple, Soundcloud algorithms. Artist deal lead and contract alignment services.
+  - **Distribution, Marketing, DealLeads:** Automate artist franchising with Jinsei.ai. Distribution by Spotify, Apple, Soundcloud by integration with algorithms. Artist deal lead and contract alignment services.
      - **Standard:** GFD  Music 
 
 - **Fiat To Crypto On/Off Ramp**
