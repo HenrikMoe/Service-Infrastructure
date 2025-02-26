@@ -189,6 +189,10 @@ Our platform empowers operators with:
   - **Full On/Off Ramps For Credit and Debit Carriers:** Visa, Mastercard, Amex, and more traditional finance on/off ramp solutions for onboarding users into Web3.
     - **Standard:** GFD User Onboarding.
 
+- **NPC Network Transfer (Archangel Prison)**
+  - **Human Right Violatators Imprisonment:** Transfers all persons connected to human rights violations into Archangel prison systems.
+    - **Standard:** GFD Prison Network
+
 - **Useful Human On The Other Side Email Filter Automated**
   - **Ultimate Spam Filter:** Uses AI to sift through conversations and cold emails to detect useful humans to your personal or business needs.
     - **Standard:** GFD Communications
@@ -200,10 +204,6 @@ Our platform empowers operators with:
 - **Culture Information Automated**
   - **Culture Intelligence Raising Societal Positive Conscious Congruence:** Elevates societal consiousness with cultural information based on where user's lack cultural information.
     - **Standard:** GFD Propoganda
-
-- **NPC Network Transfer (Archangel Prison)**
-  - **Human Right Violatators Imprisonment:** Transfers all persons connected to human rights violations into Archangel prison systems.
-    - **Standard:** GFD Prison Network
 
 - **RAPR (Retarded APR)**
 
