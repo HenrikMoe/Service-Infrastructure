@@ -222,6 +222,8 @@ Our platform empowers operators with:
     - **Standard:** GFD Veteran Care
 
 - **Multi-Step Down Discharge Service Assembly Automated**
+  - **Trauma Rehab Discharge Healing:** Discharges veterans of military programs in tiered fashion to assure smooth transition into general society.
+    - **Standard:** GFD Veteran Care
 
 - **Health Insurance Compatible Services Communications**
 
