@@ -247,7 +247,7 @@ Our platform empowers operators with:
 
 - **Blockchain Transaction Classification**
   - **Precise Accounting For Smart Contracts:** Utilize AI to analyze blockchain transactions, identifying and sorting them based on their Fair Market Value (FMV) at the time of transaction, and calculating potential capital gains or losses. 
-      - **Standard:** Develop a proprietary standard that ensures accuracy in FMV assessment for cryptocurrency transactions, potentially incorporating elements from IRS guidelines for cryptocurrency taxation.
+      - **Standard:** GFD SEM
    
 - **Web and iOS DOM Capture**
   - **Prescison Page Scraping:**
