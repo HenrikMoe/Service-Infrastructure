@@ -226,8 +226,12 @@ Our platform empowers operators with:
     - **Standard:** GFD Veteran Care
 
 - **Health Insurance Compatible Services Communications**
+  - **Communicates Patient Intake and Outake Information:** Provides AI powered communication of healthcare patient intake and outake information across insurance companies and hospital franchises.
+    - **Standard:** GFD Medicine
 
 - **Cross Country Licensing**
+  - **Inter-Country Recognition of Profession Licesning:** Provides AI powered communication of professional certification licenses.
+    - **Standard:** GFD Communication  
 
 - **Culinary Ingrediant Preservation Processing**
   - **:**
