@@ -167,7 +167,7 @@ Our platform empowers operators with:
 
 - **Regek Totality Weapon Systems**
   - **Total Atomic Weapon Systems:** Penetrate any astral plane for total domination of NorthOp network heads and maintenance of Archangel Prison network.
-     - **Standard:** Galactic Federation Defense (GFD) all domain universal domination. Part of US SPACE FORCE Intelligence Stack.
+     - **Standard:** Galactic Federation Defense (GFD) Part of US SPACE FORCE Intelligence Stack.
 
 - **Regek Tendon Reconstruction**
   - **Total Tendon Reconstruction:** Complete tendon reconstructions for torn tendons. Reconnects spirtual connections to the head.
@@ -175,7 +175,7 @@ Our platform empowers operators with:
 
 - **Free Market, Venture, Family, Endownment Capital Exchange Monitoring**
   - **Securities and Exchanges Monitoring (SEM):** Monitoring and approval of all financial security assets.
-     - **Standard:** GFD all financial domain domination for benefit of human kind.
+     - **Standard:** GFD Financial Security Monitoring
    
 - **Music Rezonica Index Automated**
   - **The New Billboard:** Automated brainwave rezonica tracking of top hits and artists in the music industry. Utilizes Galactic Federation user monitoring technology for brainwave tracking and music resonance levels.
