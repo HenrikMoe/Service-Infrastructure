@@ -202,6 +202,8 @@ Our platform empowers operators with:
     - **Standard:** GFD Propoganda
 
 - **NPC Network Transfer (Archangel Prison)**
+  - **Human Right Violatators Imprisonment:** Transfers all persons connected to human rights violations into Archangel prison systems.
+    - **Standard:** GFD Prison Network
 
 - **RAPR (Retarded APR)**
 
