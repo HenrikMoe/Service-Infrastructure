@@ -206,13 +206,20 @@ Our platform empowers operators with:
     - **Standard:** GFD Propoganda
 
 - **RAPR (Retarded APR)**
+  - **Retarded APR Token Project:** Positivity based token project exploiting the delusional ideology of fear of missing out (FOMO).
+    - **Standard:** GFD Propoganda, GFD SEM
 
 - **Q Shit Talking and MCing Automated**
+  - **Infinite Ad Libs For Daily Life:** Trained on Q and Q-Force 1 dialogue to instill positivity and grace in daily life.
+    - **Standard:** GFD Propoganda
 
 - **Michael Partys Automated**
+  - **Pop Up Ragers:** Generates festival stages and party locations around the universe on demand.
+    - **Standard:** GFD Propoganda 
 
 - **Veteran Rehab Programs Automated**
-  - **Veteran Backpay By Trauma Severity Automated:**
+  - **Veteran Backpay By Trauma Severity Automated:** Provides backpay to war and non-combat veterans based on the scale of trauma experienced by the person.
+    - **Standard:** GFD Veteran Care
 
 - **Multi-Step Down Discharge Service Assembly Automated**
 
