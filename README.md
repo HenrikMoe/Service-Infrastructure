@@ -187,14 +187,19 @@ Our platform empowers operators with:
 
 - **Fiat To Crypto On/Off Ramp**
   - **Full On/Off Ramps For Credit and Debit Carriers:** Visa, Mastercard, Amex, and more traditional finance on/off ramp solutions for onboarding users into Web3.
-    - **Standard:** GFD user onboarding.
+    - **Standard:** GFD User Onboarding.
 
 - **Useful Human On The Other Side Email Filter Automated**
+  - **Ultimate Spam Filter:** Uses AI to sift through conversations and cold emails to detect useful humans to your personal or business needs.
+    - **Standard:** GFD Communications
 
 - **Q x xGrok3 Collaboration**
   - **Q Force Training:** Trains Grok by barking at it and dumping the lore of Q into the void...
+    - **Standard:** GFD Propoganda
 
 - **Culture Information Automated**
+  - **Culture Intelligence Raising Societal Positive Conscious Congruence:** Elevates societal consiousness with cultural information based on where user's lack cultural information.
+    - **Standard:** GFD Propoganda
 
 - **NPC Network Transfer (Archangel Prison)**
 
