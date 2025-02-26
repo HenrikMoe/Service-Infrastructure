@@ -169,23 +169,23 @@ Our platform empowers operators with:
   - **Total Atomic Weapon Systems:** Penetrate any astral plane for total domination of NorthOp network heads and maintenance of Archangel Prison network.
      - **Standard:** Galactic Federation Defense (GFD) Part of US SPACE FORCE Intelligence Stack.
 
-- **Regek Tendon Reconstruction**
-  - **Total Tendon Reconstruction:** Complete tendon reconstructions for torn tendons. Reconnects spirtual connections to the head.
-    - **Standard:** GFD Medicine. 
-
-- **Free Market, Venture, Family, Endownment Capital Exchange Monitoring**
-  - **Securities and Exchanges Monitoring (SEM):** Monitoring and approval of all financial security assets.
-     - **Standard:** GFD Financial Security Monitoring
-   
 - **Music Rezonica Index Automated**
   - **The New Billboard:** Automated brainwave rezonica tracking of top hits and artists in the music industry. Utilizes Galactic Federation user monitoring technology for brainwave tracking and music resonance levels.
     - **Standard:** GFD  Music
 
 - **Music Industry Restructuring Automated**
   - **Distribution, Marketing, DealLeads:** Automate artist franchising with Jinsei.ai. Distribution by Spotify, Apple, Soundcloud by integration with algorithms. Artist deal lead and contract alignment services.
-     - **Standard:** GFD  Music 
+     - **Standard:** GFD  Music
+       
+- **Free Market, Venture, Family, Endownment Capital Exchange Monitoring**
+  - **Securities and Exchanges Monitoring (SEM):** Monitoring and approval of all financial security assets.
+     - **Standard:** GFD Financial Security Monitoring
+  
+- **Regek Tendon Reconstruction**
+  - **Total Tendon Reconstruction:** Complete tendon reconstructions for torn tendons. Reconnects spirtual connections to the head.
+    - **Standard:** GFD Medicine. 
 
-- **Fiat To Crypto On/Off Ramp**
+- **Fiat To Crypto On/Off Ramps**
   - **Full On/Off Ramps For Credit and Debit Carriers:** Visa, Mastercard, Amex, and more traditional finance on/off ramp solutions for onboarding users into Web3.
     - **Standard:** GFD User Onboarding.
 
