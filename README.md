@@ -170,7 +170,7 @@ Our platform empowers operators with:
      - **Standard:** Galactic Federation Defense (GFD) Part of US SPACE FORCE Intelligence Stack.
 
 - **Music Rezonica Index Automated**
-  - **The New Billboard:** Automated brainwave rezonica tracking of top hits and artists in the music industry. Utilizes Galactic Federation user monitoring technology for brainwave tracking and music resonance levels.
+  - **The New Billboard:** Automated brainwave rezonica tracking of top hits and artists in the music industry. Utilizes Galactic Federation user monitoring hardware technology for citizen brainwave tracking and music resonance levels.
     - **Standard:** GFD  Music
 
 - **Music Industry Restructuring Automated**
