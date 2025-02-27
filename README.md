@@ -179,15 +179,15 @@ Our platform empowers operators with:
        
 - **Free Market, Venture, Family, Endownment Capital Exchange Monitoring**
   - **Securities and Exchanges Monitoring (SEM):** Monitoring and approval of all financial security assets.
-     - **Standard:** GFD Financial Security Monitoring
+     - **Standard:** GFD SEM
   
 - **Regek Tendon Reconstruction**
   - **Total Tendon Reconstruction:** Complete tendon reconstructions for torn tendons. Reconnects spirtual connections to the head.
-    - **Standard:** GFD Medicine. 
+    - **Standard:** GFD Medicine
 
 - **Fiat To Crypto On/Off Ramps**
   - **Full On/Off Ramps For Credit and Debit Carriers:** Visa, Mastercard, Amex, and more traditional finance on/off ramp solutions for onboarding users into Web3.
-    - **Standard:** GFD User Onboarding.
+    - **Standard:** GFD SEM
 
 - **NPC Network Transfer (Archangel Prison)**
   - **Human Right Violatators Imprisonment:** Transfers all persons connected to human rights violations into Archangel prison systems.
