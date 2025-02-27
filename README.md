@@ -14,7 +14,10 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - NVMe SSD
 - 0.72kWh/day @ Idle
 - 7.2kwH/day @ Max Load 
-- NixOS ISO  
+- NixOS ISO
+- SPACE FORCE PARTNERSHIP HARDWARE:
+- Airware Rezonica Tracking Hardware: Crust to Atmosphere Brainewave Data Collection Hardware
+- Constellation Satellite to Citizen Brainwave Frequency Alignment Tracking Hardware
 
 #### Development Provisions Applications: 
 
