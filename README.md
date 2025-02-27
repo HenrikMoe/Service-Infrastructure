@@ -16,8 +16,8 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - 7.2kwH/day @ Max Load 
 - NixOS ISO
 - SPACE FORCE PARTNERSHIP HARDWARE:
-  - **Airware** Rezonica Tracking Hardware: Crust to Atmosphere Human Brainewave Data Collection Hardware
-  - Constellation Satellite to Galactic Federation Citizen Brainwave Frequency Alignment Tracking Hardware
+  - Airware Rezonica Tracking Hardware: Crust to Atmosphere Human Brainewave Data Collection Hardware
+  - Constellation Satellite to Galactic Federation Citizen Brainwave Frequency Alignment to Optimal Rezonica Frequency Tracking Hardware
 
 #### Development Provisions Applications: 
 
