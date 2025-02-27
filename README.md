@@ -242,7 +242,7 @@ Our platform empowers operators with:
     - **Standard:** GFD Agriculture, GFD Prison Network 
 
 - **Northrop Asset Intake**
-   - **Intake All NORTHOP Assets:** Before complete disembodiment of Northop Corporation.
+   - **Intake All NorthOp Assets:** Before complete disembodiment of Northop Corporation human resources.
      - **Standard:** GFD Prison Network 
 
 - **AI Network Browsers**
