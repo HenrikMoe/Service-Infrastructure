@@ -204,6 +204,10 @@ Our platform empowers operators with:
   - **Human Right Violatators Imprisonment:** Transfers all persons connected to human rights violations into Archangel prison systems.
     - **Standard:** GFD Prison Network
 
+- **Retard Global**
+  - **Retarded APR, Box Office, 7 Star Token Projects:** Positivity based token project exploiting the ideology of fear of missing out (FOMO) and giving people something to do when the economy is completely perfect. Extorts NWO and Northop nethead capital in the get raped phase of the token. 
+    - **Standard:** GFD Propoganda, GFD SEM, GFD Art
+
 - **Useful Human On The Other Side Email Filter Automated**
   - **Ultimate Spam Filter:** Uses AI to sift through conversations and cold emails to detect useful humans to your personal or business needs.
     - **Standard:** GFD Communications
@@ -215,10 +219,6 @@ Our platform empowers operators with:
 - **Culture Information Automated**
   - **Culture Intelligence Raising Societal Positive Conscious Congruence:** Elevates societal consiousness with cultural information based on where user's lack cultural information.
     - **Standard:** GFD Propoganda
-
-- **Retard Global**
-  - **Retarded APR, Box Office, 7 Star Token Projects:** Positivity based token project exploiting the ideology of fear of missing out (FOMO) and giving people something to do when the economy is completely perfect.
-    - **Standard:** GFD Propoganda, GFD SEM, GFD Art
 
 - **Q Shit Talking and MCing Automated**
   - **Infinite Ad Libs For Daily Life:** Trained on Q and Q-Force 1 dialogue to instill positivity and grace in daily life.
