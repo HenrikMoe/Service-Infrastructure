@@ -212,7 +212,7 @@ Our platform empowers operators with:
   - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant disassembly and assembly utilizing AI and atomic systems. Works for preserving opposition network heads after death.
     - **Standard:** GFD Agriculture, GFD Prison Network
       
-- **Culinary/Satanic Chef Licensing Automation**
+- **Satanic/Culinary Chef Licensing Automation**
   - **Automates Culinary Licensing:** Provides AI powered culinary/satanic licensing systems for users cooking food or legacy opposition network heads and/or bodily vehicles. 
     - **Standard:** GFD Agriculture, GFD Prison Network
 
