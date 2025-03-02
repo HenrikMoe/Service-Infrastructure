@@ -170,23 +170,15 @@ Our platform empowers operators with:
 
 - **Q Force 1 Heteroskedastic Atomic Modeling**
   - **Precision Heterskedatic Modeling:** Utilize AI for total security and control over atomic particle oscilations.
-    - **Standard:** GFD VPP, Q Force 1.
+    - **Standard:**  Totality Source Worship, Galactic Federation Defense (GFD)
 
 - **Regek Atomic Weapon Systems**
   - **Total Atomic Weapon Systems:** Penetrate any astral plane for total domination of opposition network heads and maintenance of Archangel Prison network.
-     - **Standard:** Galactic Federation Defense (GFD) Part of US SPACE FORCE Intelligence Stack.
+     - **Standard:** GFD, Part of US SPACE FORCE Intelligence Stack.
    
 - **Regek Teleportation**
   - **Teleport Anywhere In The Universe:** Utilizes astral gravity in the human heart combined with universal electromagnetic frequency rates to teleport persons.
-    - **Standard:** GFD
-   
-- **Regek Nanobot Destruction**
-  - **Annihilates Biological Nanobots:** Destroys nanobots injected into biological systems.
-    - **Standard:** GFD Medicine.
-
-- **Regek Tendon Reconstruction**
-  - **Total Tendon Reconstruction:** Complete tendon reconstructions for torn tendons. Reconnects spirtual connections to the head.
-    - **Standard:** GFD Medicine
+    - **Standard:** GFD, Part of US SPACE FORCE Intelligence Stack.
 
 - **Regek Culinary Ingrediant Preservation Processing**
   - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant dissembly and assembly utilizing AI and atomic systems. Works on humans too.
@@ -206,11 +198,19 @@ Our platform empowers operators with:
 
 - **Regek Pinpoint Ionic Painting**
   - **Paint Precise Graphic Designs:** Paint precise designs onto any domain in astral existence.
-    - **Standard:** GFD Art 
+    - **Standard:** GFD Art
 
 - **Regek Guided Biological Growth**
   - **Grow Cell Structures With Absolute Accuracy:** Grow cell structures utilizing AI for precision regeneration or for life creation.
-    - **Standard:** GFD Medicine 
+    - **Standard:** GFD Medicine
+  
+- **Regek Nanobot Destruction**
+  - **Annihilates Biological Nanobots:** Destroys nanobots injected into biological systems.
+    - **Standard:** GFD Medicine.
+
+- **Regek Tendon Reconstruction**
+  - **Total Tendon Reconstruction:** Complete tendon reconstructions for torn tendons. Reconnects spirtual connections to the head.
+    - **Standard:** GFD Medicine
 
 - **Culinary Chef Licensing Automation**
   - **Automates Culinary Licensing:** Provides AI powered culinary licensing systems for cooking. 
