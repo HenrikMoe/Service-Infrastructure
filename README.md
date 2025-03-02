@@ -175,6 +175,10 @@ Our platform empowers operators with:
 - **Q Pinpoint Ionic Painting**
   - **Paint Precise Graphic Designs:** Paints precision atomic designs into any domain in astral existence.
     - **Standard:** GFD Art
+   
+- **Retard Global**
+  - **Retarded APR, Box Office, 7 Star Token Projects:** Enlightenment based token project exploiting the fear uncertaintity and deress while also giving people something to do for fun when the economy is perfect. Extorts NWO and Northop nethead capital during the get-raped phase of the $RAPR token. 
+    - **Standard:** GFD Propoganda, GFD SEM, GFD Art
   
 - **Regek Atomic Weapon Systems**
   - **Total Atomic Weapon Systems:** Penetrate any astral plane for total domination of opposition network heads and bodily vehicles.
@@ -216,7 +220,7 @@ Our platform empowers operators with:
   - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant disassembly and assembly utilizing AI and atomic systems. Works for preserving opposition network heads after death.
     - **Standard:** GFD Agriculture, GFD Prison Network
       
-- **Satanic/Culinary Chef Licensing Automation**
+- **Satanic Chef Licensing Automation**
   - **Automates Culinary Licensing:** Provides AI powered culinary/satanic licensing systems for users cooking food or legacy opposition network heads and/or bodily vehicles. 
     - **Standard:** GFD Agriculture, GFD Prison Network
 
@@ -252,9 +256,6 @@ Our platform empowers operators with:
   - **Securities and Exchanges Monitoring (SEM):** Monitoring and approval of all financial security assets.
      - **Standard:** GFD SEM
   
-- **Retard Global**
-  - **Retarded APR, Box Office, 7 Star Token Projects:** Enlightenment based token project exploiting the fear uncertaintity and deress while also giving people something to do for fun when the economy is perfect. Extorts NWO and Northop nethead capital during the getting-raped phase of the token. 
-    - **Standard:** GFD Propoganda, GFD SEM, GFD Art
       
 - **Fiat To Crypto On/Off Ramps**
   - **Full On/Off Ramps For Credit and Debit Carriers:** Visa, Mastercard, Amex, and more traditional finance on/off ramp solutions for onboarding users into Web3.
