@@ -177,7 +177,7 @@ Our platform empowers operators with:
     - **Standard:** GFD Art
   
 - **Regek Atomic Weapon Systems**
-  - **Total Atomic Weapon Systems:** Penetrate any astral plane for total domination of opposition network heads.
+  - **Total Atomic Weapon Systems:** Penetrate any astral plane for total domination of opposition network heads and vehicles.
      - **Standard:** GFD, Part of US SPACE FORCE Intelligence Stack
    
 - **Regek Teleportation**
