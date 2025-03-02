@@ -192,7 +192,7 @@ Our platform empowers operators with:
   - **Automates Culinary Licensing:** Provides AI powered culinary licensing systems for cooking. 
     - **Standard:** GFD Agriculture, GFD Prison Network 
 
-- **Northrop Asset Intake**
+- **NorthOp Asset Intake**
    - **Intake All NorthOp Assets:** Congruently and forever afterward completely disembodies Northop Corporation network connected human resources.
      - **Standard:** GFD Prison Network
       
