@@ -192,6 +192,10 @@ Our platform empowers operators with:
   - **3D, 4D, 5D, 10D, Energy Manifestation:** Train models to modulate the frequency of areas of the vehicle function to maintain/optimize/transmutate areas of the vehicle function frequency.
     - **Standard:** GFD VPP, Part of US SPACE FORCE Intelligence Stack.
 
+- **Regek Inter-Dimension Selection Engines**
+  - **Modulate Astral Manifestation:** Train models to select a dimensional host enviroment optimal for a given VPP.
+    - **Standard:**  GFD VPP, part of the US SPACE FORCE intelligence stack.
+   
 - **Regek Guided Biological Growth**
   - **Grow Cell Structures With Absolute Accuracy:** Grow cell structures utilizing AI and Regek atomic projection systems for precision biological regeneration or creation.
     - **Standard:** GFD Medicine
@@ -327,10 +331,6 @@ Our platform empowers operators with:
 - **AI Generated OS**
   - **Eliminate Zero-Day Package Vulnerabilities:** Use AI training data from well-known operating systems such as Nix, Guix, Arch Linux, Gentoo, and BSD, along with specific data on zero-day vulnerabilities. Train AI to recognize and counteract package attribute combination attack vectors inherit to the OS as they emerge.
      - **Standard:** GFD Communication
-   
-- **Regek Inter-Dimension Selection Engines**
-  - **Modulate Astral Manifestation:** Train models to select a dimensional host enviroment optimal for a given VPP.
-    - **Standard:**  GFD VPP, part of the US SPACE FORCE intelligence stack.
    
 - **Stack Blinding Code Removal**
   - **Remove Malicious Interfaces:** Removes malicious sub-package parameter stack execution combination interfaces from build packages. Backlogs attack vectors to test and debug environment provider partners. 
