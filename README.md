@@ -220,12 +220,12 @@ Our platform empowers operators with:
    - **Intake All NorthOp Assets:** Disembodies NorthOp Corporation network connected human resources and material assets.
      - **Standard:** GFD Prison Network
        
-- **Non Playable Character ArchAngel/Satan Prison Transfer**
-  - **Human Right Violatators Imprisonment:** Transfers all persons connected to human rights violations into ArchAngel/Satan prison systems.
+- **Non Playable Character Satan Prison Transfer**
+  - **Human Right Violatators Imprisonment:** Transfers all persons connected to human rights violations into Satan prison systems.
     - **Standard:** GFD Prison Network
 
 - **USAID 51-50 Overwatch Programs**
-  - **Utilizes AI for Monitoring, Transport, and Management of USAID Patients:** Monitors USAID patients for suicidal or self harm tendencies. Ensuring proper health for cooking in ArchAngel/Satan prison systems. 
+  - **Utilizes AI for Monitoring, Transport, and Management of USAID Patients:** Monitors USAID patients for suicidal or self harm tendencies. Ensuring proper health for cooking in Satan prison systems. 
      - **Standard:** GFD Universal Surveillance
 
 - **Music Rezonica Index Automated**
