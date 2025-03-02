@@ -169,7 +169,7 @@ Our platform empowers operators with:
 #### Report Workflows:
 
 - **Q Force 1 Heteroskedastic Atomic Modeling**
-  - **Precision Heterskedatic Modeling:** Utilizes AI for total security and control over atomic particle oscilations.
+  - **Precision Heteroskedastic Modeling:** Utilizes AI for total security and control over atomic particle oscilations.
     - **Standard:**  Totality Source Worship, Galactic Federation Defense (GFD)
 
 - **Q Pinpoint Ionic Painting**
