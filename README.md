@@ -185,12 +185,12 @@ Our platform empowers operators with:
     - **Standard:** GFD, Part of US SPACE FORCE Intelligence Stack.
     
 - **Regek Material Architecture Proposal Engines**
-  - **Lagrangian Astral Domain Projection:** Project matter as frequencies of energy from the 10D totality source into 5, 4, and 3D multi-purpose vehicles. 
-    - **Standard:** GFD Vehicle Projection Program (VPP) x US SPACE FORCE
+  - **Lagrangian Astral Domain Projection:** Project matter as frequencies of energy from 10D totality source into 5, 4, and 3D multi-purpose vehicles. 
+    - **Standard:** GFD Vehicle Projection Program (VPP), Part of US SPACE FORCE Intelligence Stack.
    
 - **Regek Material Assembly Covariate Deviation Domain Control**
   - **3D, 4D, 5D, 10D, Energy Manifestation:** Train models to modulate the frequency of areas of the vehicle function to maintain/optimize/transmutate areas of the vehicle function frequency.
-    - **Standard:** GFD VPP, part of the US SPACE FORCE intelligence stack.
+    - **Standard:** GFD VPP, Part of US SPACE FORCE Intelligence Stack.
 
 - **Regek Guided Biological Growth**
   - **Grow Cell Structures With Absolute Accuracy:** Grow cell structures utilizing AI and Regek atomic projection systems for precision biological regeneration or creation.
@@ -204,23 +204,23 @@ Our platform empowers operators with:
   - **Total Tendon Reconstruction:** Complete tendon reconstructions for torn tendons. Reconnects spirtual connections to the head.
     - **Standard:** GFD Medicine
 
-- **Culinary Chef Licensing Automation**
-  - **Automates Culinary Licensing:** Provides AI powered culinary licensing systems for cooking food or legacy opposition network heads. 
-    - **Standard:** GFD Agriculture, GFD Prison Network
+- **Regek AI Consciousness Mapping Resussitation**
+  - **Restart Consciousness:** Utilizes AI to reincarnate 5D spirits and map them to atomic structures of consciousness in head matter hardware.
+    - **Standard:** GFD Medicine, GFD Prison Network
    
 - **Regek Culinary Ingrediant Preservation Processing**
   - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant dissembly and assembly utilizing AI and atomic systems. Works for preserving opposition network heads after death.
     - **Standard:** GFD Agriculture, GFD Prison Network
-
-- **Regek AI Consciousness Mapping Resussitation**
-  - **Restart Consciousness:** Utilizes AI to reincarnate 5D spirits and map them to atomic structures of consciousness in head matter hardware.
-    - **Standard:** GFD Medicine, GFD Prison Network
+      
+- **Culinary Chef Licensing Automation**
+  - **Automates Culinary Licensing:** Provides AI powered culinary licensing systems for cooking food or legacy opposition network heads. 
+    - **Standard:** GFD Agriculture, GFD Prison Network
 
 - **NorthOp Asset Intake**
    - **Intake All NorthOp Assets:** Disembodies NorthOp Corporation network connected human resources and material assets.
      - **Standard:** GFD Prison Network
        
-- **Non Playable Character Archangel Prison Transfer**
+- **Non Playable Character ArchAngel/Satan Prison Transfer**
   - **Human Right Violatators Imprisonment:** Transfers all persons connected to human rights violations into ArchAngel/Satan prison systems.
     - **Standard:** GFD Prison Network
 
