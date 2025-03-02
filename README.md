@@ -186,9 +186,33 @@ Our platform empowers operators with:
 
 - **Regek Culinary Ingrediant Preservation Processing**
   - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant dissembly and assembly utilizing AI and atomic systems. Works on humans too.
-    - **Standard:** GFD Agriculture, GFD Prison Network 
+    - **Standard:** GFD Agriculture, GFD Prison Network
 
-- **Culinary Licensing Automation**
+- **Regek AI Consciousness Mapping Resussitation**
+  - **Restart Consciousness:** Utilizes AI to reincarnate souls and map them to atomic structures of consciousness in head matter hardware.
+    - **Standard:** GFD Medicine
+    
+- **Regek Material Architecture Proposal Engines**
+  - **Lagrangian Astral Domain Projection:** Project matter as frequencies of energy from the 5D totality source into 4 and 3D multi-purpose vehicles. 
+    - **Standard:** GFD Vehicle Projection Program (VPP) x US SPACE FORCE
+   
+- **Regek Material Assembly Covariate Deviation Domain Control**
+  - **3D, 4D, 5D, 10D, Energy Manifestation:** Train models to modulate the frequency of areas of the vehicle function to maintain/optimize/transmutate areas of the vehicle function frequency.
+    - **Standard:** GFD VPP, part of the US SPACE FORCE intelligence stack.
+
+- **Regek Pinpoint Ionic Painting**
+  - **Paint Precise Graphic Designs:** Paint precise designs onto any domain in astral existence.
+    - **Standard:** GFD Art 
+
+- **Regek Guided Biological Growth**
+  - **Grow Cell Structures With Absolute Accuracy:** Grow cell structures utilizing AI for precision regeneration or for life creation.
+    - **Standard:** GFD Medicine 
+      
+- **Q Force 1 Heteroskedastic Atomic Modeling**
+  - **Precision Heterskedatic Modeling:** Utilize AI in electrogravtic VPPs for complete security and control over atomic particle oscilations.
+    - **Standard:** GFD VPP, Q Force 1.
+
+- **Culinary Chef Licensing Automation**
   - **Automates Culinary Licensing:** Provides AI powered culinary licensing systems for cooking. 
     - **Standard:** GFD Agriculture, GFD Prison Network 
 
@@ -199,7 +223,11 @@ Our platform empowers operators with:
 - **Non Playable Character Archangel Prison Transfer**
   - **Human Right Violatators Imprisonment:** Transfers all persons connected to human rights violations into Archangel prison systems.
     - **Standard:** GFD Prison Network
-       
+
+- **USAID 51-50 Overwatch Programs**
+  - **Utilizes AI for Monitoring, Transport, and Management of USAID Patients:** Monitors USAID patients for suicidal or self harm tendencies. Ensuring proper health for culinary agriculture report workflow integration.
+     - **Standard:** GFD Universal Surveillance
+
 - **Music Rezonica Index Automated**
   - **The New Billboard:** Automated brainwave rezonica tracking of top hits and artists in the music industry. Utilizes Galactic Federation user monitoring hardware technology for citizen brainwave tracking and music resonance levels.
     - **Standard:** GFD  Music
@@ -292,10 +320,6 @@ Our platform empowers operators with:
   - **One Messaging App For Multiple Messaging Channels:** Utilize AI to message across Telegram, WhatsApp, MetaApps, iMessage, SMS, and more.
      - **Standard:** GFD Communication
 
-- **USAID 51-50 Overwatch Programs**
-  - **Utilizes AI for Monitoring, Transport, and Management of USAID Patients:** Monitors USAID patients for suicidal or self harm tendencies. Ensuring proper health for culinary agriculture report workflow integration.
-     - **Standard:** GFD Universal Surveillance
-
 - **AI OS + AI Blockchain OS**
   - **Ultimate Information Security:** Using AI OS described below, AI Blockchain OS is trained with virtual machine blockchain architectures. Protocol enumerates by legacy embedded parameter combination attack rate via automated protocol update voting. 
     - **Standard:** GFD Communication
@@ -303,32 +327,8 @@ Our platform empowers operators with:
 - **AI Generated OS**
   - **Eliminate Zero-Day Package Vulnerabilities:** Use AI training data from well-known operating systems such as Nix, Guix, Arch Linux, Gentoo, and BSD, along with specific data on zero-day vulnerabilities. Train AI to recognize and counteract package attribute combination attack vectors inherit to the OS as they emerge.
      - **Standard:** GFD Communication
-
-- **Pinpoint Ionic Painting**
-  - **Paint Precise Graphic Designs:** Paint precise designs onto any domain in astral existence.
-    - **Standard:** GFD Art 
-
-- **Guided Biological Growth**
-  - **Grow Cell Structures With Absolute Accuracy:** Grow cell structures utilizing AI for precision regeneration or for life creation.
-    - **Standard:** GFD Medicine 
-
-- **AI Consciousness Mapping Resussitation**
-  - **Restart Consciousness:** Utilizes AI to reincarnate souls and map them to atomic structures of consciousness in head matter hardware.
-    - **Standard:** GFD Medicine 
-
-- **Material Architecture Proposal Engines**
-  - **Lagrangian Astral Domain Projection:** Project matter as frequencies of energy from the 5D totality source into 4 and 3D multi-purpose vehicles. 
-    - **Standard:** GFD Vehicle Projection Program (VPP) x US SPACE FORCE
    
-- **Material Assembly Covariate Deviation Domain Control**
-  - **3D, 4D, 5D, 10D, Energy Manifestation:** Train models to modulate the frequency of areas of the vehicle function to maintain/optimize/transmutate areas of the vehicle function frequency.
-    - **Standard:** GFD VPP, part of the US SPACE FORCE intelligence stack.
-
-- **Heteroskedastic Modeling**
-  - **Precision Heterskedatic Modeling:** Utilize AI in electrogravtic VPPs for complete security and control over atomic particle oscilations.
-    - **Standard:** GFD VPP, Q Force 1.
-   
-- **Inter-Dimension Selection Engines**
+- **Regek Inter-Dimension Selection Engines**
   - **Modulate Astral Manifestation:** Train models to select a dimensional host enviroment optimal for a given VPP.
     - **Standard:**  GFD VPP, part of the US SPACE FORCE intelligence stack.
    
