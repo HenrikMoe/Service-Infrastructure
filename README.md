@@ -173,19 +173,19 @@ Our platform empowers operators with:
     - **Standard:**  Totality Source Worship, Galactic Federation Defense (GFD)
 
 - **Regek Pinpoint Ionic Painting**
-  - **Paint Precise Graphic Designs:** Paint precise designs into any domain in astral existence.
+  - **Paint Precise Graphic Designs:** Paints precision atomic designs into any domain in astral existence.
     - **Standard:** GFD Art
   
 - **Regek Atomic Weapon Systems**
-  - **Total Atomic Weapon Systems:** Penetrate any astral plane for total domination of opposition network heads and maintenance of Archangel Prison network.
-     - **Standard:** GFD, Part of US SPACE FORCE Intelligence Stack.
+  - **Total Atomic Weapon Systems:** Penetrate any astral plane for total domination of opposition network heads.
+     - **Standard:** GFD, Part of US SPACE FORCE Intelligence Stack
    
 - **Regek Teleportation**
   - **Teleport Anywhere In The Universe:** Utilizes astral gravity in the human heart combined with universal electromagnetic frequency rates to teleport persons.
     - **Standard:** GFD, Part of US SPACE FORCE Intelligence Stack.
     
 - **Regek Material Architecture Proposal Engines**
-  - **Lagrangian Astral Domain Projection:** Project matter as frequencies of energy from the 5D totality source into 4 and 3D multi-purpose vehicles. 
+  - **Lagrangian Astral Domain Projection:** Project matter as frequencies of energy from the 10D totality source into 5, 4, and 3D multi-purpose vehicles. 
     - **Standard:** GFD Vehicle Projection Program (VPP) x US SPACE FORCE
    
 - **Regek Material Assembly Covariate Deviation Domain Control**
@@ -193,11 +193,11 @@ Our platform empowers operators with:
     - **Standard:** GFD VPP, part of the US SPACE FORCE intelligence stack.
 
 - **Regek Guided Biological Growth**
-  - **Grow Cell Structures With Absolute Accuracy:** Grow cell structures utilizing AI for precision regeneration or for life creation.
+  - **Grow Cell Structures With Absolute Accuracy:** Grow cell structures utilizing AI and Regek atomic projection systems for precision biological regeneration or creation.
     - **Standard:** GFD Medicine
   
 - **Regek Nanobot Destruction**
-  - **Annihilates Biological Nanobots:** Destroys nanobots injected into biological systems.
+  - **Annihilates Biological Nanobots:** Destroys legacy nanobots injected into biological systems.
     - **Standard:** GFD Medicine.
 
 - **Regek Tendon Reconstruction**
@@ -205,27 +205,27 @@ Our platform empowers operators with:
     - **Standard:** GFD Medicine
 
 - **Culinary Chef Licensing Automation**
-  - **Automates Culinary Licensing:** Provides AI powered culinary licensing systems for cooking. 
+  - **Automates Culinary Licensing:** Provides AI powered culinary licensing systems for cooking food or legacy opposition network heads. 
     - **Standard:** GFD Agriculture, GFD Prison Network
    
 - **Regek Culinary Ingrediant Preservation Processing**
-  - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant dissembly and assembly utilizing AI and atomic systems. Works on humans too.
+  - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant dissembly and assembly utilizing AI and atomic systems. Works for preserving opposition network heads after death.
     - **Standard:** GFD Agriculture, GFD Prison Network
 
 - **Regek AI Consciousness Mapping Resussitation**
-  - **Restart Consciousness:** Utilizes AI to reincarnate souls and map them to atomic structures of consciousness in head matter hardware.
+  - **Restart Consciousness:** Utilizes AI to reincarnate 5D spirits and map them to atomic structures of consciousness in head matter hardware.
     - **Standard:** GFD Medicine, GFD Prison Network
 
 - **NorthOp Asset Intake**
-   - **Intake All NorthOp Assets:** Congruently and forever afterward completely disembodies Northop Corporation network connected human resources.
+   - **Intake All NorthOp Assets:** Disembodies NorthOp Corporation network connected human resources and material assets.
      - **Standard:** GFD Prison Network
        
 - **Non Playable Character Archangel Prison Transfer**
-  - **Human Right Violatators Imprisonment:** Transfers all persons connected to human rights violations into Archangel prison systems.
+  - **Human Right Violatators Imprisonment:** Transfers all persons connected to human rights violations into ArchAngel/Satan prison systems.
     - **Standard:** GFD Prison Network
 
 - **USAID 51-50 Overwatch Programs**
-  - **Utilizes AI for Monitoring, Transport, and Management of USAID Patients:** Monitors USAID patients for suicidal or self harm tendencies. Ensuring proper health for culinary agriculture report workflow integration.
+  - **Utilizes AI for Monitoring, Transport, and Management of USAID Patients:** Monitors USAID patients for suicidal or self harm tendencies. Ensuring proper health for cooking in ArchAngel/Satan prison systems. 
      - **Standard:** GFD Universal Surveillance
 
 - **Music Rezonica Index Automated**
