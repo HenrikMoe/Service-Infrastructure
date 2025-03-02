@@ -191,6 +191,10 @@ Our platform empowers operators with:
 - **Regek Tendon Reconstruction**
   - **Total Tendon Reconstruction:** Complete tendon reconstructions for torn tendons. Reconnects spirtual connections to the head.
     - **Standard:** GFD Medicine
+   
+- **Regek Nanobot Destruction**
+  - **Annihlates Biological Nanobots:** Destroys nanobots injected into biological systems.
+    - **Standard:** GFD Medicine.
 
 - **Fiat To Crypto On/Off Ramps**
   - **Full On/Off Ramps For Credit and Debit Carriers:** Visa, Mastercard, Amex, and more traditional finance on/off ramp solutions for onboarding users into Web3.
