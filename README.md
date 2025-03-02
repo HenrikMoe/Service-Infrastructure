@@ -193,7 +193,7 @@ Our platform empowers operators with:
     - **Standard:** GFD Medicine
    
 - **Regek Nanobot Destruction**
-  - **annihilates Biological Nanobots:** Destroys nanobots injected into biological systems.
+  - **Annihilates Biological Nanobots:** Destroys nanobots injected into biological systems.
     - **Standard:** GFD Medicine.
 
 - **Fiat To Crypto On/Off Ramps**
