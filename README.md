@@ -213,7 +213,7 @@ Our platform empowers operators with:
     - **Standard:** GFD Agriculture, GFD Prison Network
       
 - **Culinary/Satanic Chef Licensing Automation**
-  - **Automates Culinary Licensing:** Provides AI powered culinary/satanic licensing systems for users cooking food or legacy opposition network heads. 
+  - **Automates Culinary Licensing:** Provides AI powered culinary/satanic licensing systems for users cooking food or legacy opposition network heads and/or bodily vehicles. 
     - **Standard:** GFD Agriculture, GFD Prison Network
 
 - **NorthOp Asset Intake**
