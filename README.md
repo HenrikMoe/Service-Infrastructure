@@ -174,7 +174,15 @@ Our platform empowers operators with:
    
 - **Regek Teleportation**
   - **Teleport Anywhere In The Universe:** Utilizes astral gravity in the human heart combined with universal electromagnetic frequency rates to teleport persons.
-    - **Standard:** GFD 
+    - **Standard:** GFD
+   
+- **Regek Nanobot Destruction**
+  - **Annihilates Biological Nanobots:** Destroys nanobots injected into biological systems.
+    - **Standard:** GFD Medicine.
+
+- **Regek Tendon Reconstruction**
+  - **Total Tendon Reconstruction:** Complete tendon reconstructions for torn tendons. Reconnects spirtual connections to the head.
+    - **Standard:** GFD Medicine
 
 - **Music Rezonica Index Automated**
   - **The New Billboard:** Automated brainwave rezonica tracking of top hits and artists in the music industry. Utilizes Galactic Federation user monitoring hardware technology for citizen brainwave tracking and music resonance levels.
@@ -191,14 +199,6 @@ Our platform empowers operators with:
 - **Free Market, Venture, Family, Endownment Capital Exchange Monitoring**
   - **Securities and Exchanges Monitoring (SEM):** Monitoring and approval of all financial security assets.
      - **Standard:** GFD SEM
-  
-- **Regek Tendon Reconstruction**
-  - **Total Tendon Reconstruction:** Complete tendon reconstructions for torn tendons. Reconnects spirtual connections to the head.
-    - **Standard:** GFD Medicine
-   
-- **Regek Nanobot Destruction**
-  - **Annihilates Biological Nanobots:** Destroys nanobots injected into biological systems.
-    - **Standard:** GFD Medicine.
   
 - **Retard Global**
   - **Retarded APR, Box Office, 7 Star Token Projects:** Enlightenment based token project exploiting the fear uncertaintity and deress while also giving people something to do for fun when the economy is perfect. Extorts NWO and Northop nethead capital during the getting-raped phase of the token. 
