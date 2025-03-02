@@ -172,6 +172,10 @@ Our platform empowers operators with:
   - **Precision Heterskedatic Modeling:** Utilize AI for total security and control over atomic particle oscilations.
     - **Standard:**  Totality Source Worship, Galactic Federation Defense (GFD)
 
+- **Regek Pinpoint Ionic Painting**
+  - **Paint Precise Graphic Designs:** Paint precise designs into any domain in astral existence.
+    - **Standard:** GFD Art
+  
 - **Regek Atomic Weapon Systems**
   - **Total Atomic Weapon Systems:** Penetrate any astral plane for total domination of opposition network heads and maintenance of Archangel Prison network.
      - **Standard:** GFD, Part of US SPACE FORCE Intelligence Stack.
@@ -179,14 +183,6 @@ Our platform empowers operators with:
 - **Regek Teleportation**
   - **Teleport Anywhere In The Universe:** Utilizes astral gravity in the human heart combined with universal electromagnetic frequency rates to teleport persons.
     - **Standard:** GFD, Part of US SPACE FORCE Intelligence Stack.
-
-- **Regek Culinary Ingrediant Preservation Processing**
-  - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant dissembly and assembly utilizing AI and atomic systems. Works on humans too.
-    - **Standard:** GFD Agriculture, GFD Prison Network
-
-- **Regek AI Consciousness Mapping Resussitation**
-  - **Restart Consciousness:** Utilizes AI to reincarnate souls and map them to atomic structures of consciousness in head matter hardware.
-    - **Standard:** GFD Medicine
     
 - **Regek Material Architecture Proposal Engines**
   - **Lagrangian Astral Domain Projection:** Project matter as frequencies of energy from the 5D totality source into 4 and 3D multi-purpose vehicles. 
@@ -195,10 +191,6 @@ Our platform empowers operators with:
 - **Regek Material Assembly Covariate Deviation Domain Control**
   - **3D, 4D, 5D, 10D, Energy Manifestation:** Train models to modulate the frequency of areas of the vehicle function to maintain/optimize/transmutate areas of the vehicle function frequency.
     - **Standard:** GFD VPP, part of the US SPACE FORCE intelligence stack.
-
-- **Regek Pinpoint Ionic Painting**
-  - **Paint Precise Graphic Designs:** Paint precise designs onto any domain in astral existence.
-    - **Standard:** GFD Art
 
 - **Regek Guided Biological Growth**
   - **Grow Cell Structures With Absolute Accuracy:** Grow cell structures utilizing AI for precision regeneration or for life creation.
@@ -214,7 +206,15 @@ Our platform empowers operators with:
 
 - **Culinary Chef Licensing Automation**
   - **Automates Culinary Licensing:** Provides AI powered culinary licensing systems for cooking. 
-    - **Standard:** GFD Agriculture, GFD Prison Network 
+    - **Standard:** GFD Agriculture, GFD Prison Network
+   
+- **Regek Culinary Ingrediant Preservation Processing**
+  - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant dissembly and assembly utilizing AI and atomic systems. Works on humans too.
+    - **Standard:** GFD Agriculture, GFD Prison Network
+
+- **Regek AI Consciousness Mapping Resussitation**
+  - **Restart Consciousness:** Utilizes AI to reincarnate souls and map them to atomic structures of consciousness in head matter hardware.
+    - **Standard:** GFD Medicine, GFD Prison Network
 
 - **NorthOp Asset Intake**
    - **Intake All NorthOp Assets:** Congruently and forever afterward completely disembodies Northop Corporation network connected human resources.
