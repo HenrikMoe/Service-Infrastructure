@@ -195,7 +195,11 @@ Our platform empowers operators with:
 - **NorthOp Asset Intake**
    - **Intake All NorthOp Assets:** Congruently and forever afterward completely disembodies Northop Corporation network connected human resources.
      - **Standard:** GFD Prison Network
-      
+       
+- **Non Playable Character Archangel Prison Transfer**
+  - **Human Right Violatators Imprisonment:** Transfers all persons connected to human rights violations into Archangel prison systems.
+    - **Standard:** GFD Prison Network
+       
 - **Music Rezonica Index Automated**
   - **The New Billboard:** Automated brainwave rezonica tracking of top hits and artists in the music industry. Utilizes Galactic Federation user monitoring hardware technology for citizen brainwave tracking and music resonance levels.
     - **Standard:** GFD  Music
@@ -219,10 +223,6 @@ Our platform empowers operators with:
 - **Fiat To Crypto On/Off Ramps**
   - **Full On/Off Ramps For Credit and Debit Carriers:** Visa, Mastercard, Amex, and more traditional finance on/off ramp solutions for onboarding users into Web3.
     - **Standard:** GFD SEM
-
-- **NPC Network Transfer (Archangel Prison)**
-  - **Human Right Violatators Imprisonment:** Transfers all persons connected to human rights violations into Archangel prison systems.
-    - **Standard:** GFD Prison Network
 
 - **Useful Human On The Other Side Email Filter Automated**
   - **Ultimate Spam Filter:** Uses AI to sift through conversations and cold emails to detect useful humans to your personal or business needs.
