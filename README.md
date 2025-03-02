@@ -184,6 +184,18 @@ Our platform empowers operators with:
   - **Total Tendon Reconstruction:** Complete tendon reconstructions for torn tendons. Reconnects spirtual connections to the head.
     - **Standard:** GFD Medicine
 
+- **Culinary Ingrediant Preservation Processing**
+  - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant dissembly and assembly AI powered systems. Works on humans too.
+    - **Standard:** GFD Agriculture, GFD Prison Network 
+
+- **Culinary Licensing Automation**
+  - **Automates Culinary Licensing:** Provides AI powered culinary licensing systems for cooking. 
+    - **Standard:** GFD Agriculture, GFD Prison Network 
+
+- **Northrop Asset Intake**
+   - **Intake All NorthOp Assets:** Congruently and forever afterward completely disembodies Northop Corporation network connected human resources.
+     - **Standard:** GFD Prison Network
+      
 - **Music Rezonica Index Automated**
   - **The New Billboard:** Automated brainwave rezonica tracking of top hits and artists in the music industry. Utilizes Galactic Federation user monitoring hardware technology for citizen brainwave tracking and music resonance levels.
     - **Standard:** GFD  Music
@@ -247,18 +259,6 @@ Our platform empowers operators with:
 - **Cross Country Licensing**
   - **Inter-Country Recognition of Profession Licesning:** Provides AI powered communication of professional certification licenses.
     - **Standard:** GFD Communication  
-
-- **Culinary Ingrediant Preservation Processing**
-  - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant dissembly and assembly AI powered systems.
-    - **Standard:** GFD Agriculture, GFD Prison Network 
-
-- **Culinary Licensing Automation**
-  - **Automates Culinary Licensing:** Provides AI powered culinary licensing systems for cooking.
-    - **Standard:** GFD Agriculture, GFD Prison Network 
-
-- **Northrop Asset Intake**
-   - **Intake All NorthOp Assets:** Congruently and forever afterward completely disembodies Northop Corporation network connected human resources.
-     - **Standard:** GFD Prison Network 
 
 - **AI Network Browsers**
   - **Trains AI With Existing Network Browsers:** Utilizes AI to create new network browsers optimzing storage and performance for web browsing.
