@@ -209,7 +209,7 @@ Our platform empowers operators with:
     - **Standard:** GFD Medicine, GFD Prison Network
    
 - **Regek Culinary Ingrediant Preservation Processing**
-  - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant dissembly and assembly utilizing AI and atomic systems. Works for preserving opposition network heads after death.
+  - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant disassembly and assembly utilizing AI and atomic systems. Works for preserving opposition network heads after death.
     - **Standard:** GFD Agriculture, GFD Prison Network
       
 - **Culinary Chef Licensing Automation**
