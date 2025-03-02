@@ -195,7 +195,11 @@ Our platform empowers operators with:
 - **Regek Nanobot Destruction**
   - **Annihilates Biological Nanobots:** Destroys nanobots injected into biological systems.
     - **Standard:** GFD Medicine.
-
+  
+- **Retard Global**
+  - **Retarded APR, Box Office, 7 Star Token Projects:** Enlightenment based token project exploiting the fear uncertaintity and deress while also giving people something to do for fun when the economy is perfect. Extorts NWO and Northop nethead capital during the getting-raped phase of the token. 
+    - **Standard:** GFD Propoganda, GFD SEM, GFD Art
+      
 - **Fiat To Crypto On/Off Ramps**
   - **Full On/Off Ramps For Credit and Debit Carriers:** Visa, Mastercard, Amex, and more traditional finance on/off ramp solutions for onboarding users into Web3.
     - **Standard:** GFD SEM
@@ -203,10 +207,6 @@ Our platform empowers operators with:
 - **NPC Network Transfer (Archangel Prison)**
   - **Human Right Violatators Imprisonment:** Transfers all persons connected to human rights violations into Archangel prison systems.
     - **Standard:** GFD Prison Network
-
-- **Retard Global**
-  - **Retarded APR, Box Office, 7 Star Token Projects:** Positivity based token project exploiting the ideology of fear of missing out (FOMO) and giving people something to do when the economy is completely perfect. Extorts NWO and Northop nethead capital in the get raped phase of the token. 
-    - **Standard:** GFD Propoganda, GFD SEM, GFD Art
 
 - **Useful Human On The Other Side Email Filter Automated**
   - **Ultimate Spam Filter:** Uses AI to sift through conversations and cold emails to detect useful humans to your personal or business needs.
