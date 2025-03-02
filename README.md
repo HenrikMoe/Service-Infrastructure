@@ -184,8 +184,8 @@ Our platform empowers operators with:
   - **Total Tendon Reconstruction:** Complete tendon reconstructions for torn tendons. Reconnects spirtual connections to the head.
     - **Standard:** GFD Medicine
 
-- **Culinary Ingrediant Preservation Processing**
-  - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant dissembly and assembly AI powered systems. Works on humans too.
+- **Regek Culinary Ingrediant Preservation Processing**
+  - **Preserve Cooking Ingrediants:** Post and pre-cooking ingrediant dissembly and assembly utilizing AI and atomic systems. Works on humans too.
     - **Standard:** GFD Agriculture, GFD Prison Network 
 
 - **Culinary Licensing Automation**
