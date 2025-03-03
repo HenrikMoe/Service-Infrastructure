@@ -201,7 +201,7 @@ Our platform empowers operators with:
     - **Standard:**  GFD VPP, part of the US SPACE FORCE intelligence stack.
    
 - **Regek Guided Biological Growth**
-  - **Grow Cell Structures With Absolute Accuracy:** Grow cell structures utilizing AI and Regek atomic projection systems for precision biological regeneration or creation.
+  - **Grow Cell Structures With Absolute Accuracy:** Grow cell structures utilizing AI and Regek atomic projection systems for precision biological regeneration or creation. Great for clones. 
     - **Standard:** GFD Medicine
   
 - **Regek Nanobot Destruction**
