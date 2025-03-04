@@ -177,7 +177,7 @@ Our platform empowers operators with:
     - **Standard:** GFD Art
    
 - **Retard Global**
-  - **Retarded APR, Box Office, 7 Star Token Projects:** Enlightenment based token project exploiting the fear, uncertaintity, and deress phenomena while also giving people something to do when the economy is perfect. Extorts NWO and Northop nethead capital during the get-brutally-raped phase of $RAPR token. 
+  - **Retarded APR, Box Office, 7 Star Token Projects:** Enlightenment based token project exploiting the fear, uncertaintity, and deress phenomena while also giving people something to do when the economy is perfect. Extorts NWO and Northop nethead capital during the get-brutally-raped phase of the $RAPR token. 
     - **Standard:** GFD Propoganda, GFD SEM, GFD Art
   
 - **Regek Atomic Weapon Systems**
