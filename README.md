@@ -102,7 +102,7 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
   
 #### External Service Applications:
 
-- **Ripple (XRP), Solana (SOL) Blockchain Applications:**
+- **Ripple (XRP), Solana (SOL), Cardano (ADA) Blockchain Applications:**
  
   - ERP Decentralized Decision-Making (DDM) Management Applications
   - DDM to Service Applications Interface App
