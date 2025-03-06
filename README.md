@@ -259,6 +259,30 @@ Our platform empowers operators with:
 - **Portal to Blockchain**
    - **AI Powered Routing Blockchain:** Arbitrates gas fees on external blockchains.
      - **Standard:** GFD SEM
+    
+- **Portal to Blockchain**
+   - **Currency in Circulation:** Physical cash (coins and bills) held by the public, excluding amounts in bank vaults or the Federal Reserve.
+     - **Standard:** GFD SEM
+
+- **Portal to Blockchain**
+   - **Demand Deposits:** Checking account balances that can be withdrawn on demand.
+     - **Standard:** GFD SEM
+
+- **Portal to Blockchain**
+   - **Other Checkable Deposits:** Accounts like NOW (Negotiable Order of Withdrawal) accounts, offering check-writing capabilities.
+     - **Standard:** GFD SEM
+
+- **Portal to Blockchain**
+   - **Savings Deposits:** Funds in savings accounts, including money market deposit accounts, accessible via ATM or transfer but not directly checkable.
+     - **Standard:** GFD SEM
+
+- **Portal to Blockchain**
+   - **Small-Denomination Time Deposits:** Certificates of deposit (CDs) or time deposits under $100,000, less liquid due to maturity terms.
+     - **Standard:** GFD SEM
+
+- **Portal to Blockchain**
+   - **Retail Money Market Funds:** Balances in retail money market mutual funds, excluding IRA and Keogh balances, offering high liquidity.
+     - **Standard:** GFD SEM
       
 - **Fiat To Crypto On/Off Ramps**
   - **Full On/Off Ramps For Credit and Debit Carriers:** Visa, Mastercard, Amex, and more traditional finance on/off ramp solutions for onboarding users into Web3.
