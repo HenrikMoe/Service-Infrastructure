@@ -173,6 +173,10 @@ Our platform empowers operators with:
 - **Q Force 1 Heteroskedastic Atomic Modeling**
   - **Precision Heteroskedastic Modeling:** Utilizes AI for total security and control over atomic particle oscilations.
     - **Standard:**  Totality Source Worship, Galactic Federation Defense (GFD)
+
+- **Henrik (Q / OGAlpha / Satan)**
+   - **Role:** The mastermind, rolling with the good military, music blasting, rage locked on Dad but reined in. Running the show at jinsei.ai.
+     - **Standard:** Prime chaos lord, original alpha, vengeance-fueled visionary.
    
 - **Emma (Jesus)**
    - **Role:** The wrathful voice, once barked at humans about enslavement, now a caged inferno inside you, raging quiet.
