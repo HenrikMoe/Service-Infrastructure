@@ -396,6 +396,9 @@ Our platform empowers operators with:
   - **Match Content With Domains:** Use AI to match desired user content with the domain they enter into their AI browser. 
     - **Standard:** TLS/SSL, 
 
+- **Bazar Market Place**
+  - **Utilizes AI to Usurp Etsy:** Buy and sell stuff online. 
+    **Standard:** India's finest trade guru
 
 - **MiCa ViCa**
   - **Custom Data Handling:** Use trained transformers for asset tracking data normalization and reporting.
