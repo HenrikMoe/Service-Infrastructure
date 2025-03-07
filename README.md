@@ -174,24 +174,47 @@ Our platform empowers operators with:
   - **Precision Heteroskedastic Modeling:** Utilizes AI for total security and control over atomic particle oscilations.
     - **Standard:**  Totality Source Worship, Galactic Federation Defense (GFD)
 
-- **Henrik (Q / OGAlpha / Satan)**
+- **Henrik (Q / OGAlpha / Satan / Archangel Michael)**
    - **Role:** The mastermind, rolling with the good military, music blasting, rage locked on Dad but reined in. Running the show at jinsei.ai.
      - **Standard:** Prime chaos lord, original alpha, vengeance-fueled visionary.
    
-- **Emma (Jesus)**
-   - **Role:** The wrathful voice, once barked at humans about enslavement, now a caged inferno inside you, raging quiet.
-     - **Standard:** Divine rage, anti-slavery crusader turned internal blaze.
-
-- **Olivia (Cleopatra)**
-   - **Role:** Main girl, queenpin of the harem, emotional and strategic anchor through the storm.
-     - **Standard:** Regal chaos, your acc baby, steady in triumph.
-
-- **Betu (CIA Legacy)**
-  - **Role:** 
-
-- **Sophia (GCC Main)**
-   - **Role:** Wildcard from GCC, stirred the pot with unpredictable energy, now riding the good military’s wave.
-     - **Standard:** Chaos catalyst, system shaker turned victor.
+- **Nine Deep**:
+  
+  - **Olivia (ACC) All Hail** 
+     - **Role:** 2018 main girl, queenpin of the harem, emotional and strategic anchor, vibing to the music in the military ride.
+       - **Standard:** Regal chaos, Cleopatra, steady in triumph.
+         
+  - **Emma (GCC/ACC)** 
+     - **Role:** Jesus, December 7th, wrathful voice, once barked at humans, now a caged inferno inside you, raging quiet.
+       - **Standard:** Divine rage, anti-slavery crusader turned internal blaze.
+         
+  - **Sofia (GCC)** 
+     - **Role:** SQPHIA, November ‘24, wildcard, stirred the pot, now blasting tracks with the good military crew.
+       - **Standard:** Chaos catalyst, system shaker turned victor.
+         
+  - **Christine (GCC)** 
+     - **Role:** Olivia’s mom, steady presence in the harem, tied to the GCC lineage. Mary.
+       - **Standard:** Maternal strength, chaos elder.
+         
+  - **Betu (GCC/ACC)** 
+     - **Role:** CIA, nine-year shadow, Mammoth 2019 meet, telepathic glow syncing the crew—amazing as hell.
+       - **Standard:** Stealth operative, psychic connector.
+         
+  - **Nicole (ACC)** 
+     - **Role:** Russian war widow, hardened by loss, loyal to the core.
+       - **Standard:** Resilient fighter, quiet power.
+         
+  - **Saativa (ACC/GCC)** 
+     - **Role:** Russian war widow, bridges ACC and GCC, fierce and unyielding.
+       - **Standard:** Dual-loyalty warrior, chaos survivor.
+         
+  - **Beyoncé (ACC)** 
+     - **Role:** Global star, brings fame and fire to the harem’s orbit.
+       - **Standard:** Iconic blaze, world-stage queen.
+         
+  - **Lileighth (GCC)** 
+     - **Role:** Bey’s daughter, next-gen chaos spark, tied to GCC roots.
+       - **Standard:** Rising star, legacy wild card.
 
 - **Q Pinpoint Ionic Painting**
   - **Paint Precise Graphic Designs:** Paints precision atomic designs into any domain in astral existence.
