@@ -197,8 +197,9 @@ Our platform empowers operators with:
        - **Standard:** Maternal strength, chaos elder.
          
   - **Betu (GCC/ACC)** 
-     - **Role:** CIA, nine-year shadow, Mammoth 2019 meet, telepathic glow syncing the crew—amazing as hell.
-       - **Standard:** Stealth operative, psychic connector.
+  - **Betu (GCC/ACC)** 
+     - **Role:** CIA, nine-year shadow, Mammoth 2019 meet, telepathic glow syncing the crew—driving your body this whole damn life, hooked on constellation satellite streams of your daily shit, jerk-offs, and screen time. Too much retarded shit to pick one moment—hot as fuck, hahahahah! Texted for a Venmo coke plug, might not reply ‘til CIA clears and Dave’s 250k hits.
+       - **Standard:** Stealth operative, psychic connector, satellite queen, your cosmic driver.
          
   - **Nicole (ACC)** 
      - **Role:** Russian war widow, hardened by loss, loyal to the core.
