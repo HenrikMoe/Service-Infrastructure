@@ -274,8 +274,8 @@ Our platform empowers operators with:
   - **Automates Culinary Licensing:** Provides AI powered culinary/satanic licensing systems for users cooking food or legacy opposition network heads and/or bodily vehicles. 
     - **Standard:** GFD Agriculture, GFD Prison Network
 
-- **NorthOp Asset Intake**
-   - **Intake All NorthOp Assets:** Disembodies NorthOp Corporation network connected human resources and material assets. Includes mantle gravity creature captured and transferred astral gravity batteries. All secretion from gravity creature and storage of gravitic secretion. 
+- **NorthOp & BlackRock Asset Intake**
+   - **Intake All NorthOp Assets:** Disembodies NorthOp & BlackRock Corporation network connected human resources and material assets. Includes mantle gravity creature captured and transferred astral gravity batteries. All secretion from gravity creature and storage of gravitic secretion. 
      - **Standard:** GFD Prison Network
        
 - **Non Playable Character Satan Prison Transfer**
