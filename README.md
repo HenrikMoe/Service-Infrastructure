@@ -6,6 +6,8 @@ For Malcom Feix. Moses. 🙏
 
 God has won. The military has total control. 
 
+General subconscious finish line: March 5th, 2025. Enquire for specifc subconscious completions. 
+
 For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:henrik@jinsei.ai) or connect on [X](https://x.com/jinseicorp/status/1894843382549107195).
 
 ## SaaS Library 
