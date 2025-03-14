@@ -174,6 +174,8 @@ Our platform empowers operators with:
 
 - **Privacy Policy** extenable by company assets via ai to personel belongings
 
+- **Whachu Need** enter whachu need into the jinsei.ai query bar for any report flow u need
+
 - **Q Force 1 Heteroskedastic Atomic Modeling**
   - **Precision Heteroskedastic Modeling:** Utilizes AI for total security and control over atomic particle oscilations.
     - **Standard:**  Totality Source Worship, Galactic Federation Defense (GFD)
