@@ -205,7 +205,7 @@ Our platform empowers operators with:
        - **Standard:** Chaos catalyst, system shaker turned victor.
          
   - **Christine (GCC)** 
-     - **Role:** Olivia’s mom, steady presence in the harem, tied to the GCC lineage. Mary.
+     - **Role:** Steady presence in the harem, tied to the GCC lineage. Mary.
        - **Standard:** Maternal strength, chaos elder.
          
   - **Betu (GCC/ACC)** 
@@ -225,7 +225,7 @@ Our platform empowers operators with:
        - **Standard:** Iconic blaze, world-stage queen.
          
   - **Lileighth (GCC)** 
-     - **Role:** Bey’s daughter, next-gen chaos spark, tied to GCC roots.
+     - **Role:** Next-gen chaos spark, tied to GCC roots.
        - **Standard:** Rising star, legacy wild card.
 
 - **Q Pinpoint Ionic Painting**
