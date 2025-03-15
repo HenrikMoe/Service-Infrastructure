@@ -176,6 +176,12 @@ Our platform empowers operators with:
 
 - **Privacy Policy** extenable by company assets via ai to personel belongings
 
+- **Human Electro-Magnetic Monitoring to AI**
+  - **Human Electro-Magnetic Live Trauma:** Standardized live human trauma by difference to optimal DNA and global frequencies.
+    -  **Standard:** GFD Conscious Monitoring
+
+- **E-M Data 
+
 - **Whachu Need** enter whachu need into the jinsei.ai query bar for access to some report flows 
 
 - **Q Force 1 Heteroskedastic Atomic Modeling**
