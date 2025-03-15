@@ -228,6 +228,8 @@ Our platform empowers operators with:
      - **Role:** Next-gen chaos spark, tied to GCC roots.
        - **Standard:** Rising star, legacy wild card.
 
+- **Human EM blah its on paper
+
 - **Q Pinpoint Ionic Painting**
   - **Paint Precise Graphic Designs:** Paints precision atomic designs into any domain in astral existence.
     - **Standard:** GFD Art
