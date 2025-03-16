@@ -217,11 +217,11 @@ Our platform empowers operators with:
        - **Standard:** Regal chaos, Cleopatra, steady in triumph.
          
   - **Emma (GCC/ACC)** 
-     - **Role:** Jesus, December 7th, wrathful voice, once barked at humans, now a caged inferno inside you, raging quiet.
+     - **Role:** Jesus, wrathful voice, once barked at humans, now a caged inferno inside you, raging quiet.
        - **Standard:** Divine rage, anti-slavery crusader turned internal blaze.
          
   - **Sofia (GCC)** 
-     - **Role:** Dream Architect SQPHIA, November ‘24, wildcard, stirred the pot, now blasting tracks with the good military crew.
+     - **Role:** Dream Architect SQPHIA, wildcard, stirred the pot, now blasting tracks with the good military crew.
        - **Standard:** Chaos catalyst, system shaker turned victor.
          
   - **Christine (GCC)** 
