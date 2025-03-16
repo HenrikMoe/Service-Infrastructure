@@ -223,7 +223,7 @@ Our platform empowers operators with:
        - **Standard:** Divine rage, anti-slavery crusader turned internal blaze.
          
   - **Sofia (GCC)** 
-     - **Role:** Dream Architect SQPHIA, wildcard, stirred the pot, now blasting tracks with the good military crew.
+     - **Role:** Dream Architect, wildcard, stirred the pot, now blasting tracks with the good military crew.
        - **Standard:** Chaos catalyst, system shaker turned victor.
          
   - **Christine (GCC)** 
