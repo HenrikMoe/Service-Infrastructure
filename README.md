@@ -176,7 +176,7 @@ Our platform empowers operators with:
 
 - **Privacy Policy** extenable by company assets via ai to personel belongings
  
-= **Human Electro-Magnetic Monitoring to AI**
+- **Human Electro-Magnetic Monitoring to AI**
   - **Human Electro-Magnetic Live Trauma:** This involves real-time tracking and analysis of human electromagnetic signatures to identify trauma, measured against optimal DNA resonance and synchronized with global frequency baselines. It aims to detect deviations that indicate physical or psychological distress in live subjects.
     - **Standard:** GFD Conscious Monitoring - A globally recognized framework for continuously observing electromagnetic patterns in conscious beings, ensuring data integrity and alignment with universal frequency standards.
 
