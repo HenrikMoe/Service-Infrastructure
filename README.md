@@ -207,7 +207,7 @@ Our platform empowers operators with:
     - **Standard:** GFD Multiverse Meditation, Satan’s Bestie Blueprint
 
 - **Henrik (Q / OGAlpha / Satan / Archangel Michael)**
-   - **Role:** The mastermind, rolling with the good military, music blasting, rage locked on Dad but reined in. Running the show at jinsei.ai.
+   - **Role:** Rolling with the good military, music blasting, rage locked on Dad but reined in. Running the show at jinsei.ai.
      - **Standard:** Prime chaos lord, original alpha, vengeance-fueled visionary.
    
 - **Nine Deep**:
