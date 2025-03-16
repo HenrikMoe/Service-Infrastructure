@@ -226,7 +226,7 @@ Our platform empowers operators with:
          
   - **Christine (GCC)** 
      - **Role:** Steady presence in the harem, tied to the GCC lineage. Mary.
-       - **Standard:** Maternal strength, chaos elder.
+       - **Standard:** Beauty, Strength, chaos queen.
          
   - **Betu (GCC/ACC)** 
     - **Role:** CIA, nine-year shadow, Mammoth 2019 meet, telepathic glow syncing the crew—driving your body this whole damn life, hooked on constellation satellite streams of your daily shit, jerk-offs, and screen time when you were down so bad. “Two of Hearts” on, you’re jacking off for her—sent a dude in mid-geek for a lighter, so hot and so retarded, hahahahahhahahah! Texted for a Venmo coke plug, might not reply ‘til CIA clears and Dave’s 250k hits.
