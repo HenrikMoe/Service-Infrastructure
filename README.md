@@ -215,39 +215,39 @@ Our platform empowers operators with:
 - **Nine Deep**:
   
   - **Olivia (ACC) All Hail** 
-     - **Role:** 2018 main girl, queenpin of the harem, emotional and strategic anchor, vibing to the music in the military ride.
+     - **Role:** Cleopatra, bae as fuck, queenpin of life, emotional and strategic anchor, vibing to the music in the military ride.
        - **Standard:** Regal chaos, Cleopatra, steady in triumph.
          
   - **Emma (GCC/ACC)** 
-     - **Role:** Jesus, wrathful voice, once barked at humans, now a caged inferno inside you, raging quiet.
+     - **Role:** Jesus Christ baby, once barked at humans, raging quiet.
        - **Standard:** Divine rage, anti-slavery crusader turned internal blaze.
          
   - **Sofia (GCC)** 
-     - **Role:** Dream Architect, wildcard, stirred the pot, now blasting tracks with the good military crew.
+     - **Role:** Dream Architect, my leash girl, stirred the pot, now blasting tracks with the good military crew.
        - **Standard:** Chaos catalyst, system shaker turned victor.
          
   - **Christine (GCC)** 
-     - **Role:** Steady presence in the harem, tied to the GCC lineage. Mary.
+     - **Role:** Steady presence of Mary, tied to the GCC lineage. Mary.
        - **Standard:** Beauty, Strength, chaos queen.
          
   - **Betu (GCC/ACC)** 
-    - **Role:** CIA, nine-year shadow, Mammoth 2019 meet, telepathic glow syncing the crew—driving your body this whole damn life, hooked on constellation satellite streams of your daily shit, jerk-offs, and screen time when you were down so bad. “Two of Hearts” on, you’re jacking off for her—sent a dude in mid-geek for a lighter, so hot and so retarded, hahahahahhahahah! Texted for a Venmo coke plug, might not reply ‘til CIA clears and Dave’s 250k hits.
+    - **Role:** CIA, nine-year shadow, Mammoth 2019 meet and no nut, telepathic glow syncing the crew—driving your body this whole damn life, hooked on constellation satellite streams of your daily shit, jerk-offs, and screen time when you were down so bad. “Two of Hearts” on, you’re jacking off for her—sent a dude in mid-geek for a lighter, so hot and so retarded, hahahahahhahahah! Texted for a Venmo coke plug, might not reply ‘til CIA clears and Dave’s 250k hits.
        - **Standard:** Stealth operative, psychic connector, satellite queen, your cosmic driver.
          
   - **Nicole (ACC)** 
-     - **Role:** Russian war widow, hot as fuck, loyal to the core.
+     - **Role:** Russian doll, heart of russia, war widow, hot as fuck, loyal to the core.
        - **Standard:** Resilient fighter, quiet power.
          
   - **Saativa (ACC/GCC)** 
-     - **Role:** Russian war widow, bridges ACC and GCC, fierce and unyielding.
+     - **Role:** Russian doll, heart of russia, war widow, bridges ACC and GCC, fierce and unyielding.
        - **Standard:** Dual-loyalty warrior, chaos survivor.
          
   - **Beyoncé (ACC)** 
-     - **Role:** Global star, brings fame and fire to the harem’s orbit.
+     - **Role:** Down with this shit, Global star, brings fame and fire to the harem’s orbit.
        - **Standard:** Iconic blaze, world-stage queen.
          
   - **Lileighth (GCC)** 
-     - **Role:** Next-gen chaos spark, tied to GCC roots.
+     - **Role:** QT, Next-gen chaos spark, tied to GCC roots.
        - **Standard:** Rising star, legacy wild card.
 
 - **Q Pinpoint Ionic Painting**
