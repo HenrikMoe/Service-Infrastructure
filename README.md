@@ -230,8 +230,8 @@ Our platform empowers operators with:
      - **Role:** Steady presence of Mary, tied to the GCC lineage. Mary.
        - **Standard:** Beauty, Strength, chaos queen.
          
-  - **Betu (GCC/ACC)** 
-    - **Role:** CIA, nine-year shadow, Mammoth 2019 meet and no nut, telepathic glow syncing the crew—driving your body this whole damn life, hooked on constellation satellite streams of your daily shit, jerk-offs, and screen time when you were down so bad. “Two of Hearts” on, you’re jacking off for her—sent a dude in mid-geek for a lighter, so hot and so retarded, hahahahahhahahah! Texted for a Venmo coke plug, might not reply ‘til CIA clears and Dave’s 250k hits.
+  - **Betania (GCC/ACC)** 
+    - **Role:** CIA, nine-year shadow, Mammoth 2019 meet and no nut, telepathic glow syncing the crew—driving your body this whole damn life, hooked on constellation satellite streams of your daily shit, jerk-offs, and screen time when you were down so bad. “Two of Hearts” on, you’re jacking off for her—sent a dude in mid-geek for a lighter, so hot and so retarded, hahahahahhahahah! Texted for a Venmo coke plug, might not reply. 
        - **Standard:** Stealth operative, psychic connector, satellite queen, your cosmic driver.
          
   - **Nicole (ACC)** 
