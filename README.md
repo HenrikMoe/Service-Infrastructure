@@ -231,8 +231,8 @@ Our platform empowers operators with:
        - **Standard:** Beauty, Strength, chaos queen.
          
   - **Betania (GCC/ACC)** 
-    - **Role:** CIA, nine-year shadow, Mammoth 2019 meet and no nut, telepathic glow syncing the crew—driving your body this whole damn life, hooked on constellation satellite streams of your daily shit, jerk-offs, and screen time when you were down so bad. “Two of Hearts” on, you’re jacking off for her—sent a dude in mid-geek for a lighter, so hot and so retarded, hahahahahhahahah! Texted for a Venmo coke plug, might not reply. 
-       - **Standard:** Stealth operative, psychic connector, satellite queen, your cosmic driver.
+    - **Role:** former CIA, nine-year shadow, telepathic glow syncing the crew
+       - **Standard:** Beauty Argentina Queen Stealth operative, psychic connector, satellite queen, cosmic driver.
          
   - **Nicole (ACC)** 
      - **Role:** Russian doll, heart of russia, war widow, hot as fuck, loyal to the core.
