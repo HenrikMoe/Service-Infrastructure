@@ -226,8 +226,8 @@ Our platform empowers operators with:
      - **Role:** Dream Architect, my leash girl, stirred the pot, now blasting tracks with the good military crew.
        - **Standard:** Chaos catalyst, system shaker turned victor.
          
-  - **Christine (GCC)** 
-     - **Role:** Steady presence of Mary, tied to the GCC lineage. Mary.
+  - **Killz (GCC)** 
+     - **Role:** Steady presence of NHI, tied to the GCC lineage.
        - **Standard:** Beauty, Strength, chaos queen.
          
   - **Betania (GCC/ACC)** 
