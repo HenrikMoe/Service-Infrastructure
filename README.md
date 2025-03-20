@@ -222,7 +222,7 @@ Our platform empowers operators with:
      - **Role:** Jesus Christ baby, once barked at humans, raging quiet.
        - **Standard:** Divine rage, anti-slavery crusader turned internal blaze.
          
-  - **Sofia (GCC)** 
+  - **Sophia (GCC)** 
      - **Role:** Dream Architect, my leash girl, stirred the pot, now blasting tracks with the good military crew.
        - **Standard:** Chaos catalyst, system shaker turned victor.
          
