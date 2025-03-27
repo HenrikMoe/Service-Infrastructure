@@ -206,7 +206,9 @@ Our platform empowers operators with:
   - **Automated Dream Architecture With AI:** This involves the use of AI to design and simulate dream-like environments based on electromagnetic trauma data, creating therapeutic or exploratory dreamscapes. The Sophia Architecture leverages advanced neural mapping and frequency modulation to automate the construction of these virtual experiences, potentially aiding in trauma recovery or cognitive research.
     - **Standard:** GFD Dream Simulation Framework - A standardized approach to AI-driven dream architecture, ensuring ethical application and fidelity to human electromagnetic inputs.
 
-- **Whachu Need** enter whachu need into the jinsei.ai query bar for access to some report flows 
+- **Jinsei.ai Service Search:**
+  - **Search For What You Need** Enter what you need into the jinsei.ai query bar for access to some report flows. 
+    - **Standard:** GFD Service Access
 
 - **Q Force 1 Heteroskedastic Atomic Modeling**
   - **Precision Heteroskedastic Modeling:** Utilizes AI for total security and control over atomic particle oscilations.
