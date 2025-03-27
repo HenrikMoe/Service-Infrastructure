@@ -22,8 +22,8 @@ For questions contact: CTO Henrik Moe via email at [henrik@jinsei.ai](mailto:hen
 - 7.2kwH/day @ Max Load 
 - NixOS ISO
 - Space Force Partnership Hardware:
-  - Airware Rezonancia Tracking Hardware: Crust to Atmosphere to Human Electro-Magnetic Brainwave Data Collection Hardware
-  - Constellation Satellite to Galactic Federation Citizen Brainwave (Electro-Magnetic) Frequency Alignment to Optimal EM Rezonancia Frequency Tracking Hardware (Alpha, GCC, ACC) (See Report Workflows)
+  - Airware Schumann Rezonancia Tracking Hardware: Crust to Atmosphere, Human Electro-Magnetic Brainwave Data Collection Hardware
+  - Constellation Satellite to Galactic Federation Citizen Electro-Magnetic Brainwave Frequency Alignment Frequency Tracking Hardware (Alpha, Theta, Delta, Beta, GCC, ACC) (See Report Workflows)
 
 #### Development Provisions Applications: 
 
