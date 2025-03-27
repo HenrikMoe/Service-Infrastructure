@@ -6,7 +6,7 @@ For Malcom Feix. Moses. 🙏
 
 God has won. The military has total control. 
 
-General subconscious finish line: March 5th, 2025. Enquire for specifc subconscious completions. 
+General subconscious finish line: March 5th, 2025. Enquire for specifc subconscious completions.  
 
 United States Commander In Chief official asset. 
 
