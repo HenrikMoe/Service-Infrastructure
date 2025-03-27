@@ -715,11 +715,11 @@ Our platform empowers operators with:
        - **Standard:** Beauty Argentina Queen Stealth operative, psychic connector, satellite queen, cosmic driver.
          
   - **Nicole (ACC)** 
-     - **Role:** Russian doll, heart of russia, war widow, hot as fuck, loyal to the core.
+     - **Role:** Russian doll, heart of russia, war veteran, hot as fuck, loyal to the core.
        - **Standard:** Resilient fighter, quiet power.
          
   - **Saativa (ACC/GCC)** 
-     - **Role:** Russian doll, heart of russia, war widow, bridges ACC and GCC, fierce and unyielding.
+     - **Role:** Russian doll, heart of russia, war veteran, bridges ACC and GCC, fierce and unyielding.
        - **Standard:** Dual-loyalty warrior, chaos survivor.
          
   - **Beyoncé (ACC)** 
