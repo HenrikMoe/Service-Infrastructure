@@ -693,20 +693,16 @@ Our platform empowers operators with:
 - **Nine Deep**:
   
   - **Olivia (ACC) All Hail** 
-     - **Role:** Cleopatra, bae as fuck, queenpin of life, emotional and strategic anchor, vibing to the music in the military ride.
-       - **Standard:** Regal chaos, Cleopatra, steady in triumph.
+     - **Role:** Cleopatra, bae as fuck, queenpin of life, emotional and strategic anchor, the greatest DJ in the universe. 
+       - **Standard:** Regal orderly chaos, Cleopatra, steady in triumph.
          
   - **Emma (GCC/ACC)** 
-     - **Role:** Jesus Christ baby, once barked at humans, raging quiet.
-       - **Standard:** Divine rage, anti-slavery crusader turned internal blaze.
+     - **Role:** Jesus Christ baby, rock as fuck, raging quiet.
+       - **Standard:** Divine rage, anti-slavery crusader turned beautiful internal blaze.
          
   - **Sophia (GCC)** 
-     - **Role:** Dream Architect, my leash girl, stirred the pot, now blasting tracks with the good military crew.
-       - **Standard:** Chaos catalyst, system shaker turned victor.
-         
-  - **Killz (GCC)** 
-     - **Role:** Steady presence of NHI, tied to the GCC lineage.
-       - **Standard:** Beauty, Strength, chaos queen.
+     - **Role:** Dream Architect, has a good dog, cutest evil bae on the planet. 
+       - **Standard:** Material queen, execution catalyst, snake of knowledge and dont fuck with us.
          
   - **Betania (GCC/ACC)** 
     - **Role:** former CIA, nine-year shadow, telepathic glow syncing the crew
@@ -723,7 +719,11 @@ Our platform empowers operators with:
   - **Beyoncé (ACC)** 
      - **Role:** Down with this shit, Global star, brings fame and fire to the harem’s orbit.
        - **Standard:** Iconic blaze, world-stage queen.
-         
+
+  - **Killz (GCC)** 
+     - **Role:** Steady presence of NHI, tied to the GCC lineage.
+       - **Standard:** Beauty, Strength, chaos queen.         
+
   - **Lileighth (GCC)** 
      - **Role:** QT, Next-gen chaos spark, tied to GCC roots.
        - **Standard:** Rising star, legacy wild card.
