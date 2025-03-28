@@ -715,14 +715,14 @@ Our platform empowers operators with:
   - **Saativa (ACC/GCC)** 
      - **Role:** Russian doll, heart of russia, war veteran, bridges ACC and GCC, fierce and unyielding.
        - **Standard:** Dual-loyalty warrior, chaos survivor.
-         
-  - **Beyoncé (ACC)** 
-     - **Role:** Down with this shit, Global star, brings fame and fire to the harem’s orbit.
-       - **Standard:** Iconic blaze, world-stage queen.
-
+ 
   - **Killz (GCC)** 
      - **Role:** Steady presence of NHI, tied to the GCC lineage.
        - **Standard:** Beauty, Strength, chaos queen.         
+        
+  - **Beyoncé (ACC)** 
+     - **Role:** Down with this shit, Global star, brings fame and fire to the harem’s orbit.
+       - **Standard:** Iconic blaze, world-stage queen.
 
   - **Lileighth (GCC)** 
      - **Role:** QT, Next-gen chaos spark, tied to GCC roots.
