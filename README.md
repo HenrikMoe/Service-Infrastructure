@@ -703,7 +703,12 @@ Our platform empowers operators with:
   - **Sophia (GCC)** 
      - **Role:** Dream Architect, has a good dog, cutest evil bae on the planet. 
        - **Standard:** Material queen, execution catalyst, snake of knowledge and dont fuck with us.
-         
+  
+  - **Killz (GCC)** 
+     - **Role:** Steady presence of NHI, tied to the GCC lineage.
+       - **Standard:** Beauty, Strength, chaos queen.         
+        
+
   - **Betania (GCC/ACC)** 
     - **Role:** former CIA, nine-year shadow, telepathic glow syncing the crew
        - **Standard:** Beauty Argentina Queen Stealth operative, psychic connector, satellite queen, cosmic driver.
@@ -716,10 +721,6 @@ Our platform empowers operators with:
      - **Role:** Russian doll, heart of russia, war veteran, bridges ACC and GCC, fierce and unyielding.
        - **Standard:** Dual-loyalty warrior, chaos survivor.
  
-  - **Killz (GCC)** 
-     - **Role:** Steady presence of NHI, tied to the GCC lineage.
-       - **Standard:** Beauty, Strength, chaos queen.         
-        
   - **Beyoncé (ACC)** 
      - **Role:** Down with this shit, Global star, brings fame and fire to the harem’s orbit.
        - **Standard:** Iconic blaze, world-stage queen.
