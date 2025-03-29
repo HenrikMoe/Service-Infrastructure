@@ -178,6 +178,10 @@ Our platform empowers operators with:
   - **Extendable by Company Assets via AI to Personnel Belongings:** This policy outlines the use of AI to manage and extend privacy considerations from company-owned assets to the personal belongings of personnel. It ensures that data collected or processed through AI systems respects individual privacy boundaries while aligning with organizational objectives and legal standards.
     - **Standard:** GFD Privacy Framework - A globally accepted guideline for implementing privacy protections in AI-driven systems, ensuring compliance and safeguarding personal data across company and individual domains.
 
+- **Surveillance With AI**
+  - **Advanced Behavioral Pattern Detection:** Utilizes AI to match dead surviellance zones with probabilistic actions of individuals entering and exiting the dead zone. 
+    **Standard:** GFD Surveillance 
+
 - **Intel Community to Jinsei to USSF**
   - **Slow Drips Intel Community Hardware and Software to USSF:** Through a partnership with Jinsei.ai, United States Space Force acquires intel community hardware and software components. 
     - **Standard:** GFD Disclosure
