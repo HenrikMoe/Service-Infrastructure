@@ -3,8 +3,8 @@
 An energy company.   
 
 For Malcom Feix. Moses. 🙏
-
-God has won. My military has total control.  
+ 
+God has won. General Henrik's military has total control.  
 
 General subconscious finish line: March 5th, 2025. Enquire for specifc subconscious completions.  
 
