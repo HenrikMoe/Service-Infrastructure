@@ -2,7 +2,7 @@
 
 An atomic energy company.   
 
-For Malcom Feix. Moses. 🙏
+For Malcom Feix. 
 
 Sponsored by Sinaloa. 
  
