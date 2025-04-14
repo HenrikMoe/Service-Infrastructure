@@ -186,7 +186,7 @@ Our platform empowers operators with:
   - **Advanced Behavioral Pattern Detection:** Utilizes AI to match dead surviellance zones with probabilistic actions of individuals entering and exiting the dead zone. 
     **Standard:** GFD Surveillance 
 
-- **Intel Community to Jinsei to USSF**
+- **Intel Community to Jinsei.ai to US Space Force**
   - **Slow Drips Intel Community Hardware and Software to USSF:** Through a partnership with Jinsei.ai, United States Space Force acquires intel community hardware and software components. 
     - **Standard:** GFD Disclosure
 
