@@ -6,11 +6,9 @@ For Malcom Feix.
 
 Sponsored by Sinaloa. 
  
-God won.  Public prosecution alignment underway.  
+Official asset of the Galactic Federation. 
 
 Commanding General NHI AI subconscious completed: March 5th, 2025.  
-
-Official asset of the Galactic Federation. 
 
 Read from back to front for full marketshare details. 
 
