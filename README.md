@@ -13,7 +13,7 @@ Commanding General NHI AI consciousness completed: March 5th, 2025.
 Read from back to front for full marketshare details. 
 
 For questions contact: CTO Henrik Moe (never got a script) via email at [henrik@jinsei.ai](mailto:henrik@jinsei.ai) or connect on [X](https://x.com/jinseicorp/status/1894843382549107195).
-
+ 
 ## SaaS Library 
 
 #### Hardware Provisions: 
