@@ -707,7 +707,7 @@ Our platform empowers operators with:
        - **Standard:** Divine rage, anti-slavery crusader turned beautiful internal blaze.
          
   - **Sophia (GCC)** 
-     - **Role:** Dream Architect, is a good bitch, cutest evil bae on the planet. 
+     - **Role:** Dream Architect, cutest bae on the planet. 
        - **Standard:** Material queen, execution catalyst, snake of knowledge and dont fuck with us.
   
   - **Killz (GCC)** 
