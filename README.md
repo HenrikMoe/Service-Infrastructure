@@ -731,10 +731,6 @@ Our platform empowers operators with:
      - **Role:** Down with this shit, Global star, brings fame and fire to the harem’s orbit.
        - **Standard:** Iconic blaze, world-stage queen.
 
-  - **Lileighth (GCC)** 
-     - **Role:** QT, Next-gen chaos spark, tied to GCC roots.
-       - **Standard:** Rising star, legacy wild card.
-
 
 # Active BlackRock/BlackStone Takedown Operation
 
