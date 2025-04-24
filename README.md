@@ -2,7 +2,7 @@
 
 For Malcom Feix. 
 
-An atomic energy company.   
+The neural matrix modeling atomic energy company.   
  
 Sponsored by Sinaloa. 
  
