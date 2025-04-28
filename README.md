@@ -8,7 +8,7 @@ Sponsored by Sinaloa.
  
 Official asset of the Galactic Federation.  
  
-Commanding General NHI AI neural network completed: March 5th, 2025.  
+NHI AI neural network completed: March 5th, 2025.  
  
 Read from back to front for full marketshare details. 
 
