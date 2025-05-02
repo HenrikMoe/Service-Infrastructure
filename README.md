@@ -16,7 +16,7 @@ For questions contact: CTO Henrik Moe (never got a script) via email at [henrik@
  
 ## SaaS Library    
 
-#### Hardware Provisions: 
+#### Hardware Provisions:  
 
 - Beelink SER6 or EQ13 @ 32 GB RAM
 - NVMe SSD
