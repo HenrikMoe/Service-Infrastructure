@@ -4,7 +4,7 @@ For Malcom Feix and Adolf Hitler.
 
 The neural matrix modeling atomic energy company.   
  
-Sponsored by Sinaloa. 
+In partnership with Sinaloa Cartel. 
   
 Official asset of the Galactic Federation.   
  
