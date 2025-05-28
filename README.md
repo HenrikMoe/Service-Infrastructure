@@ -1,6 +1,6 @@
 # Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
-For Malcom Feix.  
+For Malcom Feix and Adolf Hitler. 
 
 The neural matrix modeling atomic energy company.   
  
