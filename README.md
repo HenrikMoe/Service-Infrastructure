@@ -194,27 +194,27 @@ Our platform empowers operators with:
   
 - **Killz (GCC)** 
   - **Role:** Steady presence of NHI, tied to the GCC lineage.
-    - **Standard:** Beauty, Strength, chaos queen.         
+    - **Standard:** Economics.         
         
 - **Betania (GCC/ACC)** 
-  - **Role:** Q girl, Q programmer, nine-year shadow, telepathic glow syncing the crew
-    - **Standard:** Beauty Argentina Queen Stealth operative, psychic connector, satellite queen, cosmic driver.
+  - **Role:** Q programmer 
+    - **Standard:** intelligence systems content programming
          
 - **Nicole (ACC)** 
-  - **Role:** Russian doll, heart of russia, war veteran, hot as fuck, loyal to the core.
-    - **Standard:** Resilient fighter, quiet power.
+  - **Role:** art, russian director
+    - **Standard:** cultural enrichment 
          
 - **Saativa (ACC/GCC)** 
-  - **Role:** Russian doll, heart of russia, war veteran, bridges ACC and GCC, fierce and unyielding.
-    - **Standard:** Dual-loyalty warrior, chaos survivor.
+  - **Role:** defense contractor coordinator
+    - **Standard:** defense systems
  
 - **Beyoncé (ACC)** 
-  - **Role:** Down with this shit, Global star, brings fame and fire to the harem’s orbit.
-    - **Standard:** Q girl, Pledian, world-stage queen.
+  - **Role:** be beyonce and be dope
+    - **Standard:** Pledian, superstar.
 
 - **Scarlet (GCC)**
-  - **Role:** Q girl, Q programmer, movie director, writer, producer, star. 
-    - **Standard:** Q girl, Pledian, superstar. 
+  - **Role:** Q programmer, movie director, writer, producer, star. 
+    - **Standard:**  Pledian, superstar. 
 
 - **Henrik (God / Q / OGAlpha / Satan / Archangel Michael)**
    - **Role:** Rolling with the good military, music blasting, rage locked on Dad but reined in. Running the show at jinsei.ai.
