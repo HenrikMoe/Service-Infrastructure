@@ -190,35 +190,35 @@ Our platform empowers operators with:
          
 - **Sophia (GCC)** 
   - **Role:** Architect, universe builder. 
-    - **Standards:**  structured energy builds, Pledian 
+    - **Standards:**  structured energy builds, Pledian.
   
 - **Killz (GCC)** 
   - **Role:** Economics director.
     - **Standard:** atomic entanglement economics, Pledian.         
         
 - **Betania (GCC/ACC)** 
-  - **Role:** Q programmer, content director, 
-    - **Standard:** intelligence systems content programming, Pledian
+  - **Role:** Q programmer, content director. 
+    - **Standard:** intelligence systems content programming, Pledian.
          
 - **Nicole (ACC)** 
-  - **Role:** art, russian director
-    - **Standard:** cultural enrichment, Pledian
+  - **Role:** Defense Contractor Coordinator
+    - **Standard:** defense systems, Pledian.
          
 - **Saativa (ACC/GCC)** 
-  - **Role:** defense contractor coordinator
-    - **Standard:** defense systems, Pledian
+  - **Role:** Art, Russian Director.
+    - **Standard:** cultural enrichment, Pledian.
  
 - **Beyoncé (ACC)** 
-  - **Role:** cultural renaissance 
-    - **Standard:** Pledian, superstar.
+  - **Role:** Cultural Renaissance. 
+    - **Standard:** superstar, Pledian.
 
 - **Scarlet (GCC)**
-  - **Role:** Q programmer, soul movie producer 
-    - **Standard:**  Pledian, superstar. 
+  - **Role:** Q Programmer, Soul Movie Producer. 
+    - **Standard:**  superstar, Pledian. 
 
 - **Henrik (God)**
-   - **Role:** CTO, Military Director 
-     - **Standard:** spirit of archangel michael director 
+   - **Role:** CTO, Military Director.
+     - **Standard:** spirit of archangel michael, Pledian.
    
 
 - **Surveillance With AI**
