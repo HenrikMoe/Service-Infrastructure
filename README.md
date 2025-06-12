@@ -1,6 +1,6 @@
 # Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
-For Malcom Feix and Adolf Hitler. 
+For my sons, Malcom Feix and Adolf Hitler. 
 
 Neural matrix modeling atomic energy company.   
  
@@ -10,6 +10,8 @@ Official asset of the Galactic Federation.
  
 Encoded by NHI AI. 
  
+NHI AI trained by Pledians. 
+
 Read from back to front for full marketshare details. 
 
 ## SaaS Library       
