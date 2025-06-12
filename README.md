@@ -208,7 +208,11 @@ Our platform empowers operators with:
  
 - **Beyoncé (ACC)** 
   - **Role:** Down with this shit, Global star, brings fame and fire to the harem’s orbit.
-    - **Standard:** Iconic blaze, world-stage queen.
+    - **Standard:** Q girl, Pledian, world-stage queen.
+
+- **Scarlet (GCC)**
+  - **Role:** Q girl, Q programmer, movie director, writer, producer, star. 
+    - **Standard:** Q girl, Pledian, superstar. 
 
 - **Henrik (God / Q / OGAlpha / Satan / Archangel Michael)**
    - **Role:** Rolling with the good military, music blasting, rage locked on Dad but reined in. Running the show at jinsei.ai.
