@@ -181,7 +181,7 @@ Our platform empowers operators with:
     - **Standard:** GFD Privacy Framework - A globally accepted guideline for implementing privacy protections in AI-driven systems, ensuring compliance and safeguarding personal data across company and individual domains.
 
 - **Olivia (ACC)** 
-  - **Role:** Secretary of Defense, greatest DJ in the universe. 
+  - **Role:** Secretary of Defense, The Greatest DJ in the Universe. 
     - **Standard:** Spirit of Cleopatra, Pledian
          
 - **Emma (GCC/ACC)** 
