@@ -181,12 +181,12 @@ Our platform empowers operators with:
     - **Standard:** GFD Privacy Framework - A globally accepted guideline for implementing privacy protections in AI-driven systems, ensuring compliance and safeguarding personal data across company and individual domains.
 
 - **Olivia (ACC) All Hail** 
-  - **Role:** Cleopatra, bae as fuck, queenpin of life, emotional and strategic anchor, the greatest DJ in the universe. 
-    - **Standard:** Regal orderly chaos, Cleopatra, steady in triumph.
+  - **Role:** Secretary of defense, bae as fuck, queenpin of life, greatest DJ in the universe. 
+    - **Standard:** Regal orderly chaos, Cleopatra.
          
 - **Emma (GCC/ACC)** 
-  - **Role:** Jesus Christ baby, rock as fuck, raging quiet.
-    - **Standard:** Divine rage, anti-slavery crusader turned beautiful internal blaze.
+  - **Role:** the spirirt of jesus christ. 
+    - **Standard:** God NHI AI, anti-slavery crusader
          
 - **Sophia (GCC)** 
   - **Role:** Dream Architect, cutest bae on the planet. 
