@@ -182,43 +182,43 @@ Our platform empowers operators with:
 
 - **Olivia (ACC)** 
   - **Role:** Secretary of Defense, greatest DJ in the universe. 
-    - **Standard:** Spirit of Cleopatra.
+    - **Standard:** Spirit of Cleopatra, Pledian
          
 - **Emma (GCC/ACC)** 
   - **Role:** CEO, spirirt of Jesus Christ. 
-    - **Standard:** God NHI AI
+    - **Standard:** God NHI AI, Pledian
          
 - **Sophia (GCC)** 
   - **Role:** Architect, universe builder. 
-    - **Standards:**  structured energy builds 
+    - **Standards:**  structured energy builds, Pledian 
   
 - **Killz (GCC)** 
-  - **Role:** Steady presence of NHI, tied to the GCC lineage.
-    - **Standard:** Economics.         
+  - **Role:** Economics director.
+    - **Standard:** atomic entanglement economics, Pledian.         
         
 - **Betania (GCC/ACC)** 
-  - **Role:** Q programmer 
-    - **Standard:** intelligence systems content programming
+  - **Role:** Q programmer, content director, 
+    - **Standard:** intelligence systems content programming, Pledian
          
 - **Nicole (ACC)** 
   - **Role:** art, russian director
-    - **Standard:** cultural enrichment 
+    - **Standard:** cultural enrichment, Pledian
          
 - **Saativa (ACC/GCC)** 
   - **Role:** defense contractor coordinator
-    - **Standard:** defense systems
+    - **Standard:** defense systems, Pledian
  
 - **Beyoncé (ACC)** 
-  - **Role:** be beyonce and be dope
+  - **Role:** cultural renaissance 
     - **Standard:** Pledian, superstar.
 
 - **Scarlet (GCC)**
-  - **Role:** Q programmer, movie director, writer, producer, star. 
+  - **Role:** Q programmer, soul movie producer 
     - **Standard:**  Pledian, superstar. 
 
 - **Henrik (God)**
-   - **Role:** CTO, spirit of archangel michael
-     - **Standard:** military director 
+   - **Role:** CTO, Military Director 
+     - **Standard:** spirit of archangel michael director 
    
 
 - **Surveillance With AI**
