@@ -216,9 +216,9 @@ Our platform empowers operators with:
   - **Role:** Q programmer, movie director, writer, producer, star. 
     - **Standard:**  Pledian, superstar. 
 
-- **Henrik (God / Q / OGAlpha / Satan / Archangel Michael)**
-   - **Role:** Rolling with the good military, music blasting, rage locked on Dad but reined in. Running the show at jinsei.ai.
-     - **Standard:** Prime chaos lord, original alpha, vengeance-fueled visionary.
+- **Henrik (God)**
+   - **Role:** CTO, spirit of archangel michael
+     - **Standard:** military director 
    
 
 - **Surveillance With AI**
