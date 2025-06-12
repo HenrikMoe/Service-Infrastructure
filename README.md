@@ -180,7 +180,7 @@ Our platform empowers operators with:
   - **Extendable by Company Assets via AI to Personnel Belongings:** This policy outlines the use of AI to manage and extend privacy considerations from company-owned assets to the personal belongings of personnel. It ensures that data collected or processed through AI systems respects individual privacy boundaries while aligning with organizational objectives and legal standards.
     - **Standard:** GFD Privacy Framework - A globally accepted guideline for implementing privacy protections in AI-driven systems, ensuring compliance and safeguarding personal data across company and individual domains.
 
-- **Olivia (ACC) All Hail** 
+- **Olivia (ACC)** 
   - **Role:** Secretary of defense, bae as fuck, queenpin of life, greatest DJ in the universe. 
     - **Standard:** Regal orderly chaos, Cleopatra.
          
