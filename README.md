@@ -195,7 +195,7 @@ Our platform empowers operators with:
     - **Standard:** Beauty, Strength, chaos queen.         
         
 - **Betania (GCC/ACC)** 
-  - **Role:** former CIA, nine-year shadow, telepathic glow syncing the crew
+  - **Role:** Q girl, Q programmer, nine-year shadow, telepathic glow syncing the crew
     - **Standard:** Beauty Argentina Queen Stealth operative, psychic connector, satellite queen, cosmic driver.
          
 - **Nicole (ACC)** 
