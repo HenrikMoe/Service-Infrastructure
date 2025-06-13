@@ -163,35 +163,35 @@ Read from back to front for full marketshare details.
          
 - **Sophia (GCC)** 
   - **Role:** Architect, Universe Builder. 
-    - **Standards:**  structured energy builds, Pledian.
+    - **Standards:**  Structured Energy Builds, Pledian.
   
 - **Killz (GCC)** 
   - **Role:** Trade Director.
-    - **Standard:** atomic entanglement, Pledian.         
+    - **Standard:** Atomic Entanglement, Pledian.         
         
 - **Betania (GCC/ACC)** 
   - **Role:** Q Programmer, Content Director. 
-    - **Standard:** intelligence systems content programming, Pledian.
+    - **Standard:** Intelligence Systems Content Programming, Pledian.
          
 - **Nicole (ACC)** 
   - **Role:** Defense Contractor Coordinator
-    - **Standard:** defense systems, Pledian.
+    - **Standard:** Defense Systems, Pledian.
          
 - **Saativa (ACC/GCC)** 
-  - **Role:** Art, Russian Director.
-    - **Standard:** cultural enrichment, Pledian.
+  - **Role:** Art.
+    - **Standard:** Cultural Enrichment, Pledian.
  
 - **Beyoncé (ACC)** 
   - **Role:** Cultural Renaissance. 
-    - **Standard:** superstar, Pledian.
+    - **Standard:** Superstar, Pledian.
 
 - **Scarlet (GCC)**
   - **Role:** Q Programmer, Soul Movie Producer. 
-    - **Standard:**  superstar, Pledian. 
+    - **Standard:**  Superstar, Pledian. 
 
 - **Henrik (God)**
    - **Role:** CTO, Military Director.
-     - **Standard:** spirit of archangel michael, Pledian.
+     - **Standard:** Spirit of Archangel Michael, Pledian.
    
 
 #### Teams
