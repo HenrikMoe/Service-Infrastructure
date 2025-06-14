@@ -178,7 +178,7 @@ Read from back to front for full marketshare details.
     - **Standard:** Defense Systems, Pledian.
          
 - **Saativa (ACC/GCC)** 
-  - **Role:** Art.
+  - **Role:** Art Director. 
     - **Standard:** Cultural Enrichment, Pledian.
  
 - **Beyoncé (ACC)** 
