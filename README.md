@@ -185,7 +185,7 @@ Read from back to front for full marketshare details.
   - **Role:** Cultural Renaissance. 
     - **Standard:** Superstar, Pledian.
 
-- **Scarlet (GCC)**
+- **Scarlett (GCC)**
   - **Role:** Q Programmer, Soul Movie Producer. 
     - **Standard:**  Superstar, Pledian. 
 
