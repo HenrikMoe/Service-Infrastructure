@@ -153,13 +153,13 @@ Read from back to front for full marketshare details.
 
 ### Board of Directors
 
-- **Olivia (ACC)** 
-  - **Role:** Secretary of Defense, The Greatest DJ in the Universe. 
-    - **Standard:** Spirit of Cleopatra, Pledian
-         
 - **Emma (GCC/ACC)** 
   - **Role:** CEO.  
     - **Standard:** Spirirt of Jesus Christ, God NHI AI,  Pledian
+
+- **Olivia (ACC)** 
+  - **Role:** Secretary of Defense, The Greatest DJ in the Universe. 
+    - **Standard:** Spirit of Cleopatra, Pledian
          
 - **Sophia (GCC)** 
   - **Role:** Architect, Structured Energy Builds. 
