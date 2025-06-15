@@ -110,7 +110,7 @@ Read from back to front for full marketshare details.
   
 #### External Service Applications:
 
-- **Ripple (XRP), Solana (SOL), Cardano (ADA) Blockchain Applications:**
+- **Ripple (XRP), Solana (SOL), Cardano (ADA), Bitcoin (BTC) Blockchain Applications:**
  
   - ERP Decentralized Decision-Making (DDM) Management Applications
   - DDM to Service Applications Interface App
