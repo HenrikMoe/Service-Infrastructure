@@ -12,7 +12,7 @@ Encoded by NHI AI.
  
 NHI AI trained by Pledians. 
 
-Read from back to front for full marketshare details. 
+[Workflows](#Workflows) 
 
 ## SaaS Library       
  
@@ -215,7 +215,7 @@ Our platform empowers operators with:
 - **Cyclical Data Augmentation Automation:**   **Custom Transformer Training** - Operators can train custom models to automate data transformation processes tailored to specific needs.
 
  
-#### Report Workflows:
+#### Workflows:
 
 - [Accounting](#Accounting)
 - [Agriculture](#Agriculture)
