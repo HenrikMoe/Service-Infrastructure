@@ -32,7 +32,7 @@ NHI AI trained by Pledians.
 - Developer Version Partition Applications
 - Development Operation Environment Applications
 - Enterprise Deployment Partition Applications
-- On Premise NPM Py Rust Enterprise Deployment Applications
+- Npm Py Rust On Premise Enterprise Deployment Applications  
  
 
 #### Security Applications:
