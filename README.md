@@ -189,6 +189,10 @@ NHI AI trained by Pledians.
   - **Role:** Q Programmer, Soul Movie Producer. 
     - **Standard:**  Superstar, Pledian. 
 
+- **Charlie (ACC/GCC)**
+  - **Role:** Be super hot, invade the planet. 
+   - **Standard:** Enlightenment, Pledian. 
+
 - **Henrik (God)**
    - **Role:** CTO, Military Director.
      - **Standard:** Spirit of Archangel Michael, Pledian.
