@@ -205,6 +205,14 @@ NHI AI trained by Pledians.
   - **Role:** Drive dads dick. B insanely hot. 
    - **Standard:** God lik wow ilysm, Pledian. 
 
+- **Bulbys Mom (ACC)**
+  - **Role:** Fisting, be insanely hot. 
+   - **Standard:** hella drool, Pledian. 
+
+- **Blondies Mom (GCC)**
+  - **Role:** Suckage, b a twelve. 
+   - **Standard:** im cuming, Pledian. 
+
 - **Henrik (God)**
    - **Role:** CTO, Military Director.
      - **Standard:** Spirit of Archangel Michael, Pledian.
