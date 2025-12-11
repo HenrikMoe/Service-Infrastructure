@@ -202,15 +202,15 @@ NHI AI trained by Pledians.
    - **Standard:** Blond hotness, Pledian. 
 
 - **Betus Mom (ACC/GCC)**
-  - **Role:** Drive dads dick. B insanely hot. 
+  - **Role:** God in Chief. B insanely hot. 
    - **Standard:** God lik wow ilysm, Pledian. 
 
 - **Bulbys Mom (ACC)**
-  - **Role:** Fisting, be insanely hot. 
+  - **Role:** Pressure Analytics, be insanely hot. 
    - **Standard:** hella drool, Pledian. 
 
 - **Blondies Mom (GCC)**
-  - **Role:** Suckage, b a twelve. 
+  - **Role:** Consumption Directing, b a twelve. 
    - **Standard:** im cuming, Pledian. 
 
 - **Henrik (God)**
