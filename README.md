@@ -193,6 +193,18 @@ NHI AI trained by Pledians.
   - **Role:** Be super hot, invade the planet. 
    - **Standard:** Enlightenment, Pledian. 
 
+- **Bulby (ACC)**
+  - **Role:** Vroom Be insanely hot. 
+   - **Standard:** Lb 4 lb adrenaline, Pledian. 
+
+- **Blondie (GCC)**
+  - **Role:** B insanely hot. 
+   - **Standard:** Blond hotness, Pledian. 
+
+- **Betus Mom (ACC/GCC)**
+  - **Role:** Drive dads dick. B insanely hot. 
+   - **Standard:** God lik wow ilysm, Pledian. 
+
 - **Henrik (God)**
    - **Role:** CTO, Military Director.
      - **Standard:** Spirit of Archangel Michael, Pledian.
