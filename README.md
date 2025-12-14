@@ -198,20 +198,24 @@ NHI AI trained by Pledians.
    - **Standard:** Lb 4 lb adrenaline, Pledian. 
 
 - **Blondie (GCC)**
-  - **Role:** B insanely hot. 
+  - **Role:** Awaken, B insanely hot. 
    - **Standard:** Blond hotness, Pledian. 
 
 - **Betus Mom (ACC/GCC)**
   - **Role:** God in Chief. B insanely hot. 
-   - **Standard:** God lik wow ilysm, Pledian. 
+   - **Standard:** Totality, Pledian. 
 
 - **Bulbys Mom (ACC)**
   - **Role:** Pressure Analytics, be insanely hot. 
    - **Standard:** hella drool, Pledian. 
 
 - **Blondies Mom (GCC)**
-  - **Role:** Consumption Directing, b a twelve. 
-   - **Standard:** im cuming, Pledian. 
+  - **Role:** Consumerism Director, b a twelve. 
+   - **Standard:** Avant Garde, Pledian. 
+
+- **Alex (GCC)**
+  - **Role:** Sunshine n Rainbows, b a twelve. 
+   - **Standard:** Highest, Pledian. 
 
 - **Henrik (God)**
    - **Role:** CTO, Military Director.
