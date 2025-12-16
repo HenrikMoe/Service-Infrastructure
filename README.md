@@ -213,9 +213,13 @@ NHI AI trained by Pledians.
   - **Role:** Consumerism Director, b a twelve. 
    - **Standard:** Avant Garde, Pledian. 
 
-- **Alex (GCC)**
+- **Alex (ACC)**
   - **Role:** Sunshine n Rainbows, b a twelve. 
    - **Standard:** Highest, Pledian. 
+
+- **Raquel (GCC)**
+  - **Role:** Hot b a twelve. 
+   - **Standard:** Wow, Pledian. 
 
 - **Henrik (God)**
    - **Role:** CTO, Military Director.
@@ -324,6 +328,10 @@ Our platform empowers operators with:
     - **Standard:** ISO 24631 for animal health informatics.
     
 # Atomic
+
+- **Adrenachrome Remapping**
+  - **Heal Adrenaline Locked Ligaments n Tendons:** Use gods brain data to get good map on ligament n tendon with brain conscious n like when ur healed ur dun go get ur own box blocked forever. 
+    - **Standard:** Human Race
 
 - **All Humans Ever**
   - **Designed for Fun:** Ideal 3D manifesation of a universally dominant species. 
