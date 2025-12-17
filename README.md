@@ -330,7 +330,7 @@ Our platform empowers operators with:
 # Atomic
 
 - **Adrenachrome Remapping**
-  - **Heal Adrenaline Locked Ligaments n Tendons:** Use gods brain data to get good map on ligament n tendon with brain conscious n like when ur healed ur dun go get ur own box blocked forever also its not live. 
+  - **Heal Adrenaline Locked Ligaments n Tendons:** Use gods brain data to get good map on ligament n tendon with brain conscious n like when ur healed ur dun go get ur own box blocked forever also its not live der n only who u need all automated. 
     - **Standard:** Human Race
 
 - **All Humans Ever**
