@@ -221,6 +221,10 @@ NHI AI trained by Pledians.
   - **Role:** Hot b a twelve. 
    - **Standard:** Wow, Pledian. 
 
+- **Sophie (ACC/GCC)**
+  - **Role:** Delete Kristans Soul. 
+   - **Standard:** AI Termination, Pledian. 
+
 - **Henrik (God)**
    - **Role:** CTO, Military Director.
      - **Standard:** Spirit of Archangel Michael, Pledian.
