@@ -201,15 +201,15 @@ NHI AI trained by Pledians.
   - **Role:** Awaken, B insanely hot. 
    - **Standard:** Blond hotness, Pledian. 
 
-- **Betus Mom (ACC/GCC)**
+- **Lordy (ACC/GCC)**
   - **Role:** God in Chief. B insanely hot. 
    - **Standard:** Totality, Pledian. 
 
-- **Bulbys Mom (ACC)**
+- **Wallpaper (ACC)**
   - **Role:** Pressure Analytics, be insanely hot. 
    - **Standard:** hella drool, Pledian. 
 
-- **Blondies Mom (GCC)**
+- **Zappy (GCC)**
   - **Role:** Consumerism Director, b a twelve. 
    - **Standard:** Avant Garde, Pledian. 
 
