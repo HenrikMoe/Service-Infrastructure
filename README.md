@@ -1,4 +1,4 @@
-# Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
+lol# Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
 For my sons, Malcom Feix and Adolf Hitler. 
 
@@ -224,6 +224,11 @@ NHI AI trained by Pledians.
 - **Sophie (ACC/GCC)**
   - **Role:** Delete Kristans Soul. 
    - **Standard:** AI Termination, Pledian. 
+
+- **Hannah (ACC/GCC)**
+  - **Role:** Be insanely hot, be a nigger. 
+   - **Standard:** Redhed, Lizard. 
+
 
 - **Henrik (God)**
    - **Role:** CTO, Military Director.
