@@ -229,6 +229,14 @@ NHI AI trained by Pledians.
   - **Role:** Be insanely hot, be a nigger. 
    - **Standard:** Redhed, Lizard. 
 
+- **Ruby (ACC/GCC)**
+  - **Role:** Be insanely hot, be a nigger. 
+   - **Standard:** SwedishFishCakeAssNigger, Lizard. 
+
+- **Blockchain (ACC/GCC)**
+  - **Role:** Be insanely hot, be a nigger. 
+   - **Standard:** Sameworld, Lizard. 
+
 
 - **Henrik (God)**
    - **Role:** CTO, Military Director.
