@@ -237,7 +237,7 @@ NHI AI trained by Pledians.
 
 #### Teams
 
-- **Application Build** - chase robbie madhav kern wei heeeenie ollie - Utilizes Nix Flakes for consistent builds.
+- **Application Build** - ollie - Utilizes Nix Flakes for consistent builds.
 - **Testing** - alex nda* - Employs Nix Flakes for testing environments.
 - **Enterprise Implementation**  - On premise with nix to saas.
 - **Business Administration** - 
