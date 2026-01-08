@@ -238,11 +238,6 @@ NHI AI trained by Pledians.
    - **Standard:** Sameworld, Lizard. 
 
 
-- **Henrik (God)**
-   - **Role:** CTO, Military Director.
-     - **Standard:** Spirit of Archangel Michael, Pledian.
-   
-
 #### Teams
 
 - **Application Build** - ollie - Utilizes Nix Flakes for consistent builds.
