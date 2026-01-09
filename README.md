@@ -237,6 +237,14 @@ NHI AI trained by Pledians.
   - **Role:** Be insanely hot, be a nigger. 
    - **Standard:** Sameworld, Lizard. 
 
+- **Charlotte (ACC/GCC)**
+  - **Role:** Be insanely hot, be a nigger. 
+   - **Standard:** Lexi Forever Thrash, Pledian. 
+
+- **Caroline (ACC/GCC)**
+  - **Role:** Build software, be a nigger. 
+   - **Standard:** Erik is a ryan burrow bot ass nigger, Pledian. 
+
 
 #### Teams
 
