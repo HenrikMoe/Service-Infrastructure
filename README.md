@@ -245,6 +245,10 @@ NHI AI trained by Pledians.
   - **Role:** Build software, be a nigger. 
    - **Standard:** Erik is a ryan burrow bot ass nigger, Pledian. 
 
+- **Lily (ACC/GCC)**
+  - **Role:** Run Jew Universe, be a nigger. 
+   - **Standard:** Azkanizi niggerland, Pledian. 
+
 
 #### Teams
 
