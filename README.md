@@ -249,6 +249,11 @@ NHI AI trained by Pledians.
   - **Role:** Run Jew Universe, be a nigger. 
    - **Standard:** Azkanizi niggerland, Pledian. 
 
+- **Frontdesk (ACC/GCC)**
+  - **Role:** Chosen nigger lizard, cakey nigger lizard baby shit. 
+   - **Standard:** Blonde Cake, Lizard. 
+
+
 
 #### Teams
 
