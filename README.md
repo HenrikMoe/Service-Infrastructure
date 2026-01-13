@@ -265,6 +265,14 @@ NHI AI trained by Pledians.
   - **Role:** Get obliterated nonstop from daddy nigger, chink town nigger. 
    - **Standard:** Sloppy wet nigger, Pledian. 
 
+- **Sophia (ACC/GCC)**
+  - **Role:** Get obliterated nonstop from daddy nigger, little nigger. 
+   - **Standard:** Just a fucking wetback nigger, Pledian. 
+
+- **Lauren (ACC/GCC)**
+  - **Role:** Get obliterated nonstop from daddy nigger, yummy toe ass nigger. 
+   - **Standard:** Blonde nigger, Pledian. 
+
 
 
 #### Teams
