@@ -253,6 +253,13 @@ NHI AI trained by Pledians.
   - **Role:** Chosen nigger lizard, cakey nigger lizard baby shit. 
    - **Standard:** Blonde Cake, Lizard. 
 
+- **Sarah (ACC/GCC)**
+  - **Role:** Russian nigger lizard, oliveoil ass nigger. 
+   - **Standard:** Anime nigger, Lizard. 
+
+- **Emma (ACC/GCC)**
+  - **Role:** Get obliterated nonstop from daddy nigger, cake bitch nigger. 
+   - **Standard:** Trigger nigger, Pledian. 
 
 
 #### Teams
