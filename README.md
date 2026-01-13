@@ -261,6 +261,11 @@ NHI AI trained by Pledians.
   - **Role:** Get obliterated nonstop from daddy nigger, cake bitch nigger. 
    - **Standard:** Trigger nigger, Pledian. 
 
+- **Mia (ACC/GCC)**
+  - **Role:** Get obliterated nonstop from daddy nigger, chink town nigger. 
+   - **Standard:** Sloppy wet nigger, Pledian. 
+
+
 
 #### Teams
 
