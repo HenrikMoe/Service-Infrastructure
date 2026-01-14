@@ -249,10 +249,6 @@ NHI AI trained by Pledians.
   - **Role:** Run Jew Universe, be a nigger. 
    - **Standard:** Azkanizi niggerland, Pledian. 
 
-- **Frontdesk (ACC/GCC)**
-  - **Role:** Chosen nigger lizard, cakey nigger lizard baby shit. 
-   - **Standard:** Blonde Cake, Lizard. 
-
 - **Sarah (ACC/GCC)**
   - **Role:** Russian nigger lizard, oliveoil ass nigger. 
    - **Standard:** Anime nigger, Lizard. 
@@ -273,6 +269,9 @@ NHI AI trained by Pledians.
   - **Role:** Get obliterated nonstop from daddy nigger, yummy toe ass nigger. 
    - **Standard:** Blonde nigger, Pledian. 
 
+- **Sari (ACC/GCC)**
+  - **Role:** Get obliterated nonstop from daddy nigger, girl eifel towers only nigger. 
+   - **Standard:** Palisade nigger, lizard. 
 
 
 #### Teams
