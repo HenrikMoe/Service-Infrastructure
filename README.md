@@ -269,6 +269,18 @@ NHI AI trained by Pledians.
   - **Role:** run washington nigger, monkey wetback nigger. 
    - **Standard:** remindmesofsomeoneass nigger, Pledian. 
 
+- **Copgirl (ACC/GCC)**
+  - **Role:** busty wetback nigger guns lots of guns look at these fucking guns yo , 
+   - **Standard:** real monkey nigger girl dpmnt nigger, Pledian. 
+
+- **Copgirl 2 (ACC/GCC)**
+  - **Role:**  lizard freakshow nigger guns lots of guns look at these fucking guns yo , 
+   - **Standard:** real lizard monkey nigger girl dpmnt nigger, Lizard. 
+
+- **De Rosa (ACC/GCC)**
+  - **Role:** busty wetback nigger guns lots of guns look at these fucking guns yo , 
+   - **Standard:** real monkey nigger girl dpmnt nigger, Pledian. 
+
 
 #### Teams
 
