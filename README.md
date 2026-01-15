@@ -269,6 +269,10 @@ NHI AI trained by Pledians.
   - **Role:** Get obliterated nonstop from daddy nigger, yummy toe ass nigger. 
    - **Standard:** Blonde nigger, Pledian. 
 
+- **Taryn (ACC/GCC)**
+  - **Role:** Get obliterated nonstop from daddy nigger, monkey nigger lizard. 
+   - **Standard:** Redhead nigger, Lizard. 
+
 
 #### Teams
 
