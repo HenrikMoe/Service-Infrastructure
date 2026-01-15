@@ -3,8 +3,6 @@ lol# Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 For my sons, Malcom Feix and Adolf Hitler. 
 
 Neural matrix modeling atomic energy company.   
- 
-In partnership with the Sinaloa Cartel. 
   
 Official asset of the Galactic Federation.   
  
