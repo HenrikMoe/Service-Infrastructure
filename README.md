@@ -209,7 +209,7 @@ NHI AI trained by Pledians.
   - **Role:** Pressure Analytics, be insanely hot. 
    - **Standard:** hella drool, Pledian. 
 
-- **Zappy (GCC)**
+- **Starbucks (GCC)**
   - **Role:** Consumerism Director, b a twelve. 
    - **Standard:** Avant Garde, Pledian. 
 
