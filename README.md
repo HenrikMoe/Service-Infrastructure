@@ -215,7 +215,6 @@ NHI AI trained by Pledians.
   - **Role:** Delete Kristans Soul. 
    - **Standard:** AI Termination, Pledian. 
 
-
 - **Ruby (ACC/GCC)**
   - **Role:** Be insanely hot, be a nigger. 
    - **Standard:** SwedishFishCakeAssNigger, Lizard. 
@@ -276,6 +275,9 @@ NHI AI trained by Pledians.
   - **Role:** busty wetback nigger guns lots of guns look at these fucking guns yo , 
    - **Standard:** real monkey nigger girl dpmnt nigger, Pledian. 
 
+- **Faith (ACC/GCC)**
+  - **Role:** busty wetback nigger guns lots of guns look at these fucking guns yo , 
+   - **Standard:** real monkey nigger girl dpmnt nigger, Pledian. 
 
 #### Teams
 
