@@ -182,10 +182,6 @@ NHI AI trained by Pledians.
 - **Christine (GCC)** 
   - **Role:** Trade Director.
     - **Standard:** Atomic Entanglement, Pledian.         
-        
-- **Nicole (ACC)** 
-  - **Role:** Defense Contractor Coordinator
-    - **Standard:** Defense Systems, Pledian.
          
 - **Saativa (ACC/GCC)** 
   - **Role:** Art Director. 
