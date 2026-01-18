@@ -232,7 +232,7 @@ NHI AI trained by Pledians.
    - **Standard:** Azkanizi niggerland, Pledian. 
 
 - **Sarah (ACC/GCC)**
-  - **Role:** Russian nigger lizard, oliveoil ass nigger. 
+  - **Role:** Russian nigger lizard, tank nigger. 
    - **Standard:** Anime nigger, Lizard. 
 
 - **Emma (ACC/GCC)**
