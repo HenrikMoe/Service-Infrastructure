@@ -279,6 +279,9 @@ NHI AI trained by Pledians.
   - **Role:** busty wetback lil blonde lizard nigger 
    - **Standard:** deleter of lik faggot nigger universe nigger, Lizard. 
 
+- **Morgan (ACC/GCC)**
+  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk shoo shoo type of ending nigger
+   - **Standard:** cunt no more j my nigger monkey, Pledian. 
 
 #### Teams
 
