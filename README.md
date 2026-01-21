@@ -1,6 +1,6 @@
 lol# Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
-For my sons, Malcom Feix and Adolf Hitler. 
+For my niggers, Malcom Feix and Adolf Hitler. 
 
 Neural matrix modeling atomic energy company.   
   
@@ -401,7 +401,7 @@ Our platform empowers operators with:
     - **Standard:** Computational Dominance
 
 - **Personal Atomic Defense**
-  - **Complete Security:** Utilizes AI to detect threats, defend the person, and eliminate target. 
+  - **Complete Security:** Utilizes AI to detect threats, defend the person, and eliminate target. Protects children in urban warefare below 12. 
     - **Standard:** Multi-Dimensional Security
 
  - **High Definition Archtecture Realities**
