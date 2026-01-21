@@ -275,6 +275,11 @@ NHI AI trained by Pledians.
   - **Role:** busty wetback nigger guns lots of guns look at these fucking guns yo , 
    - **Standard:** real monkey nigger girl dpmnt nigger, Pledian. 
 
+- **Mortimer (ACC/GCC)**
+  - **Role:** busty wetback lil blonde lizard nigger 
+   - **Standard:** deleter of lik faggot nigger universe nigger, Lizard. 
+
+
 #### Teams
 
 - **Application Build** - ollie - Utilizes Nix Flakes for consistent builds.
