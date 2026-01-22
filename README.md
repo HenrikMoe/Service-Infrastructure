@@ -295,6 +295,18 @@ NHI AI trained by Pledians.
   - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk shoo shoo type of ending nigger
    - **Standard:** j my nigger monkey, Pledian. 
 
+- **3D Nigger Tank (ACC/GCC)**
+  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk shoo shoo type of ending nigger
+   - **Standard:** j my nigger monkey, Pledian. 
+
+- **Costco Rat (ACC/GCC)**
+  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk shoo shoo type of ending nigger
+   - **Standard:** j my nigger monkey, Pledian. 
+
+- **Kristen (ACC/GCC)**
+  - **Role:** wisconsin nigger aunt take from charles and jabba and ryan burrow asap nigger yea he ded faggot nigger uhuh yea double tap faggot nigger alright hal nigger
+   - **Standard:** j my nigger monkey, Pledian. 
+
 #### Teams
 
 - **Application Build** - ollie - Utilizes Nix Flakes for consistent builds.
