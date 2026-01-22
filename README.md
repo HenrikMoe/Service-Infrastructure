@@ -281,12 +281,15 @@ NHI AI trained by Pledians.
 
 - **Mortimer (ACC/GCC)**
   - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik jack n im j like follow me nigger. 
-   - **Standard:** no mas eggs nigger egg kiss redflag emma nigger, Pledian. 
+   - **Standard:** emma nigger told random wetback nigger no mas, Pledian. 
 
 - **Dayna (ACC/GCC)**
   - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik jack n im j like follow me nigger. 
    - **Standard:** no mas eggs nigger egg kiss redflag emma nigger, Pledian. 
 
+- **Mila (ACC/GCC)**
+  - **Role:** niggers kill yourselves bc tree frog appears w lik jack n im j like follow me nigger. 
+   - **Standard:** take nonstop nigger, Pledian. 
 
 #### Teams
 
