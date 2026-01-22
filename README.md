@@ -275,6 +275,19 @@ NHI AI trained by Pledians.
   - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk shoo shoo type of ending nigger
    - **Standard:** cunt no more j my nigger monkey, Pledian. 
 
+- **Georgia (ACC/GCC)**
+  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik jack n im j like follow me nigger. 
+   - **Standard:** no mas eggs nigger egg kiss redflag emma nigger, Pledian. 
+
+- **Mortimer (ACC/GCC)**
+  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik jack n im j like follow me nigger. 
+   - **Standard:** no mas eggs nigger egg kiss redflag emma nigger, Pledian. 
+
+- **Dayna (ACC/GCC)**
+  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik jack n im j like follow me nigger. 
+   - **Standard:** no mas eggs nigger egg kiss redflag emma nigger, Pledian. 
+
+
 #### Teams
 
 - **Application Build** - ollie - Utilizes Nix Flakes for consistent builds.
