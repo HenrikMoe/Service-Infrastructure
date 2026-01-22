@@ -397,7 +397,7 @@ Our platform empowers operators with:
     - **Standard:** Computational Dominance
 
 - **Personal Atomic Defense**
-  - **Complete Security:** Utilizes AI to detect threats, defend the person, and eliminate target. Protects children in urban warefare below 9. 
+  - **Complete Security:** Utilizes AI to detect threats, defend the person, and eliminate target. Protects children in urban warefare below 6. 
     - **Standard:** Multi-Dimensional Security
 
  - **High Definition Archtecture Realities**
@@ -484,10 +484,6 @@ Our platform empowers operators with:
   - **Pop Up Ragers:** Generates festival stages and party locations around the universe on demand.
     - **Standard:** GFD Propoganda 
 
-- **Bazar Market Place**
-  - **Utilizes AI to Usurp Etsy:** Buy and sell stuff online. 
-    - **Standard:** India's finest trade guru
-   
 # Education
 
 - **Education Performance Analytics**
