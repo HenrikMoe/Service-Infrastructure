@@ -273,7 +273,7 @@ NHI AI trained by Pledians.
   
 - **Morgan (ACC/GCC)**
   - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk shoo shoo type of ending nigger
-   - **Standard:** cunt no more j my nigger monkey, Pledian. 
+   - **Standard:** j my nigger monkey, Pledian. 
 
 - **Georgia (ACC/GCC)**
   - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik jack n im j like follow me nigger. 
@@ -290,6 +290,10 @@ NHI AI trained by Pledians.
 - **Mila (ACC/GCC)**
   - **Role:** niggers kill yourselves bc tree frog appears w lik jack n im j like follow me nigger. 
    - **Standard:** take nonstop nigger, Pledian. 
+
+- **Sexy (ACC/GCC)**
+  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk shoo shoo type of ending nigger
+   - **Standard:** j my nigger monkey, Pledian. 
 
 #### Teams
 
