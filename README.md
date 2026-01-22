@@ -274,11 +274,7 @@ NHI AI trained by Pledians.
 - **Faith (ACC/GCC)**
   - **Role:** busty wetback nigger guns lots of guns look at these fucking guns yo , 
    - **Standard:** real monkey nigger girl dpmnt nigger, Pledian. 
-
-- **Mortimer (ACC/GCC)**
-  - **Role:** busty wetback lil blonde lizard nigger 
-   - **Standard:** deleter of lik faggot nigger universe nigger, Lizard. 
-
+  
 - **Morgan (ACC/GCC)**
   - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk shoo shoo type of ending nigger
    - **Standard:** cunt no more j my nigger monkey, Pledian. 
