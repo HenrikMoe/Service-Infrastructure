@@ -211,10 +211,6 @@ NHI AI trained by Pledians.
   - **Role:** Delete Kristans Soul. 
    - **Standard:** AI Termination, Pledian. 
 
-- **Ruby (ACC/GCC)**
-  - **Role:** Be insanely hot, be a nigger. 
-   - **Standard:** SwedishFishCakeAssNigger, Lizard. 
-
 - **Blockchain (ACC/GCC)**
   - **Role:** Be insanely hot, be a nigger. 
    - **Standard:** Sameworld, Lizard. 
