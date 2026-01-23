@@ -161,6 +161,10 @@ NHI AI trained by Pledians.
   - **Role:** be my sister lik im never gonna get hurt nigger. 
    - **Standard:** Physical Strength, Pledian.
 
+- **Caroline (ACC/GCC)**
+  - **Role:** Build software, be a nigger. 
+   - **Standard:** Lemur ability technicality like kristen but ur a different race, Pledian. 
+
 - **Betania (GCC/ACC)** 
   - **Role:** Q Programmer, Content Director. 
     - **Standard:** Intelligence Systems Content Programming, Pledian.         
@@ -220,10 +224,6 @@ NHI AI trained by Pledians.
 - **Blockchain (ACC/GCC)**
   - **Role:** Be insanely hot, be a nigger. 
    - **Standard:** Sameworld, Lizard.  
-
-- **Caroline (ACC/GCC)**
-  - **Role:** Build software, be a nigger. 
-   - **Standard:** Erik is a ryan burrow bot ass nigger, Pledian. 
 
 - **Lily (ACC/GCC)**
   - **Role:** Run Jew Universe, be a nigger. 
