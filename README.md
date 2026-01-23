@@ -2,6 +2,8 @@ lol# Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
 For my niggers, Malcom Feix and Adolf Hitler. 
 
+Brought to you by the Clinton Foundation. 
+
 Neural matrix modeling atomic energy company.   
   
 Official asset of the Galactic Federation.   
@@ -425,7 +427,7 @@ Our platform empowers operators with:
     - **Standard:** Computational Dominance
 
 - **Personal Atomic Defense**
-  - **Complete Security:** Utilizes AI to detect threats, defend the person, and eliminate target. Protects children in urban warefare below 6. 
+  - **Complete Security:** Utilizes AI to detect threats, defend the person, and eliminate target. Protects children in urban warefare below 6 or relative to your dick hard n lik hating the random nigger lik either liv or christine faggot niggers. 
     - **Standard:** Multi-Dimensional Security
 
  - **High Definition Archtecture Realities**
