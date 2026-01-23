@@ -278,19 +278,19 @@ NHI AI trained by Pledians.
    - **Standard:** j my nigger monkey, Pledian. 
 
 - **Georgia (ACC/GCC)**
-  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik jack n im j like follow me nigger. 
+  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik nobody else n im j like follow me nigger. 
    - **Standard:** no mas eggs nigger egg kiss redflag emma nigger, Pledian. 
 
 - **Mortimer (ACC/GCC)**
-  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik jack n im j like follow me nigger. 
+  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik nobody else n im j like follow me nigger. 
    - **Standard:** emma nigger told random wetback nigger no mas, Pledian. 
 
-- **Dayna (ACC/GCC)**
-  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik jack n im j like follow me nigger. 
+- **Sabrina (ACC/GCC)**
+  - **Role:** maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik weaponery and is like follow me nigger. 
    - **Standard:** no mas eggs nigger egg kiss redflag emma nigger, Pledian. 
 
 - **Mila (ACC/GCC)**
-  - **Role:** niggers kill yourselves bc tree frog appears w lik jack n im j like follow me nigger. 
+  - **Role:** niggers kill yourselves bc tree frog appears w lik my niggers j for security like away from the house nigger n im j like follow me nigger. 
    - **Standard:** take nonstop nigger, Pledian. 
 
 - **Sexy (ACC/GCC)**
