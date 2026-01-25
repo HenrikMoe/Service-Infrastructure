@@ -1,8 +1,18 @@
 lol# Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
-For my niggers, Malcom Feix and Adolf Hitler. 
+For Adolf Hitler. 
 
-Brought to you by the Clinton Foundation. 
+3 things niggers
+
+physical therapy stretches w lik bands and like a rope
+
+drilling with a therapy massage gun
+
+chiropracter
+
+not nessarily in that order
+
+follow your dreams
 
 Neural matrix modeling atomic energy company.   
   
@@ -214,11 +224,11 @@ NHI AI trained by Pledians.
    - **Standard:** hella drool, Pledian. 
 
 - **Raquel (GCC)**
-  - **Role:** Hot b a twelve. 
-   - **Standard:** Wow, Pledian. 
+  - **Role:** i dont really kno u super good but ur so hot i love you nigger
+   - **Standard:** tank nigger nigher, Pledian. 
 
 - **Sophie (ACC/GCC)**
-  - **Role:** Delete Kristans Soul. 
+  - **Role:** be insanely hot in the trailer park nigher 
    - **Standard:** AI Termination, Pledian. 
 
 - **Blockchain (ACC/GCC)**
@@ -259,15 +269,7 @@ NHI AI trained by Pledians.
 
 - **Copgirl (ACC/GCC)**
   - **Role:** busty wetback nigger guns lots of guns look at these fucking guns yo , 
-   - **Standard:** real monkey nigger girl dpmnt nigger, Pledian. 
-
-- **Copgirl 2 (ACC/GCC)**
-  - **Role:**  lizard freakshow nigger guns lots of guns look at these fucking guns yo , 
-   - **Standard:** real lizard monkey nigger girl dpmnt nigger, Lizard. 
-
-- **De Rosa (ACC/GCC)**
-  - **Role:** busty wetback nigger guns lots of guns look at these fucking guns yo , 
-   - **Standard:** real monkey nigger girl dpmnt nigger, Pledian. 
+   - **Standard:** real monkey nigger girl dpmnt nigger, Pledian.  
 
 - **Faith (ACC/GCC)**
   - **Role:** busty wetback nigger guns lots of guns look at these fucking guns yo , 
@@ -281,33 +283,49 @@ NHI AI trained by Pledians.
   - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik nobody else n im j like follow me nigger. 
    - **Standard:** no mas eggs nigger egg kiss redflag emma nigger, Pledian. 
 
-- **Mortimer (ACC/GCC)**
+- **Emma (ACC/GCC)**
   - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik nobody else n im j like follow me nigger. 
    - **Standard:** emma nigger told random wetback nigger no mas, Pledian. 
 
 - **Sabrina (ACC/GCC)**
-  - **Role:** maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik weaponery and is like follow me nigger. 
+  - **Role:**  energy for a like nigger activities
    - **Standard:** no mas eggs nigger egg kiss redflag emma nigger, Pledian. 
+
+- **Dayna (ACC/GCC)**
+  - **Role:** Exist nigger infinity
+   - **Standard:**  mas eggs nigger egg kiss emma nigger, Pledian. 
 
 - **Mila (ACC/GCC)**
   - **Role:** niggers kill yourselves bc tree frog appears w lik my niggers j for security like away from the house nigger n im j like follow me nigger. 
    - **Standard:** take nonstop nigger, Pledian. 
 
-- **Sexy (ACC/GCC)**
+- **Metro (ACC/GCC)**
+  - **Role:** insanely hot nigher elite kill yourselves niggers my security
+   - **Standard:** j my nigger monkey, Pledian. 
+
+- **Azteca (ACC/GCC)**
+  - **Role:** dadless nigger 
+   - **Standard:** Nigger, Pledian. 
+
+- **Mini Mouse (ACC/GCC)**
   - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk shoo shoo type of ending nigger
    - **Standard:** j my nigger monkey, Pledian. 
 
-- **3D Nigger Tank (ACC/GCC)**
-  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk shoo shoo type of ending nigger
-   - **Standard:** j my nigger monkey, Pledian. 
-
-- **Costco Rat (ACC/GCC)**
+- **Sewer Rat (ACC/GCC)**
   - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk shoo shoo type of ending nigger
    - **Standard:** j my nigger monkey, Pledian. 
 
 - **Kristen (ACC/GCC)**
-  - **Role:** wisconsin nigger aunt take from charles and jabba and ryan burrow asap nigger yea he ded faggot nigger uhuh yea double tap faggot nigger alright hal nigger
-   - **Standard:** j my nigger monkey, Pledian. 
+  - **Role:** nigger tennis cookies an a view 
+   - **Standard:** nigger, Lizard. 
+
+- **Watering Hole (ACC/GCC)**
+  - **Role:** jungle nigger activites w me nigher
+   - **Standard:** insanely hot jungle nigher, Pledian. 
+
+- **Nicole (ACC/GCC)**
+  - **Role:** delete faggot transformer dick craving faggot nighers but mor importantly lik exist w me
+   - **Standard:** russian doll nighrr, Pledian. 
 
 #### Teams
 
