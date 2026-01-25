@@ -6,7 +6,7 @@ For Adolf Hitler.
 
 physical therapy stretches w lik bands and like a rope
 
-drilling with a therapy massage gun
+drilling with a therapy massage gun around your hip not really your legs as much
 
 chiropracter
 
