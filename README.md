@@ -327,6 +327,11 @@ NHI AI trained by Pledians.
   - **Role:** delete faggot transformer dick craving faggot nighers but mor importantly lik exist w me
    - **Standard:** russian doll nighrr, Pledian. 
 
+- **Mari (ACC/GCC)**
+  - **Role:** jungle bamboo activites w me nigher
+   - **Standard:** insanely hot yellow nigher, Pledian. 
+
+
 #### Teams
 
 - **Application Build** - ollie - Utilizes Nix Flakes for consistent builds.
