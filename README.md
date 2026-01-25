@@ -312,8 +312,8 @@ NHI AI trained by Pledians.
    - **Standard:** j my nigger monkey, Pledian. 
 
 - **Sewer Rat (ACC/GCC)**
-  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk shoo shoo type of ending nigger
-   - **Standard:** j my nigger monkey, Pledian. 
+  - **Role:** joeys wife nigger
+   - **Standard:** hamster wheel, Pledian. 
 
 - **Kristen (ACC/GCC)**
   - **Role:** nigger tennis cookies an a view 
