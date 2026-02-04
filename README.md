@@ -2,7 +2,7 @@
 
 For myself. 
 
-3 things Loyalist Niggers:
+3 things Loyalists:
 
 physical therapy stretches w lik bands and like a rope
 
