@@ -4,15 +4,15 @@ For myself.
 
 3 things Loyalists:
 
-physical therapy stretches w lik bands and like a rope
+Physical therapy stretches and strenghening exercies with a rope or strap taught type object and elastic rubber bands.
 
-drilling with a therapy massage gun around your hip not really your legs as much
+Drilling with a therapy massage gun around your entire hip not really your thighs as much. 
 
-chiropracter
+Chiropracter. 
 
-not nessarily in that order
+Not necessarily in that order. 
 
-follow your dreams
+Follow your dreams. 
 
 Neural matrix modeling atomic energy company.   
   
