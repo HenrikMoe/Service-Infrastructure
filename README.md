@@ -204,7 +204,7 @@ NHI AI trained by Pledians.
     - **Standard:** Passionate Sand Thrower, Pledian.
 
 - **Lordy (ACC/GCC)**
-  - **Role:** Godess in Chief of Interactable Universe.
+  - **Role:** Godess in Chief of 3D Interactable Universe.
    - **Standard:** Totality, Pledian. 
 
 - **Wallpaper (ACC)**
