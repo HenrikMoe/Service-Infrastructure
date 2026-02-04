@@ -299,6 +299,11 @@ NHI AI trained by Pledians.
   - **Role:** .
    - **Standard:** , Pledian. 
 
+- **Lexi (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+
 #### Teams
 
 - **Application Build** - ollie - Utilizes Nix Flakes for consistent builds.
