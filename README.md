@@ -295,6 +295,9 @@ NHI AI trained by Pledians.
   - **Role:** .
    - **Standard:** , Pledian. 
 
+- **Ari (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
 #### Teams
 
