@@ -1,6 +1,6 @@
 lol# Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
-For Adolf Hitler. 
+For myself. 
 
 3 things niggers
 
@@ -163,173 +163,137 @@ NHI AI trained by Pledians.
 
 ### Board of Directors
 
-- **Emma (GCC/ACC)** 
-  - **Role:** CEO, Artist. 
-    - **Standard:** Spirirt of Jesus Christ Strength, God NHI AI,  Pledian
-
-- **Charlotte (ACC/GCC)**
-  - **Role:** be my sister lik im never gonna get hurt nigger. 
-   - **Standard:** Physical Strength, Pledian.
-
-- **Caroline (ACC/GCC)**
-  - **Role:** Build software, be a nigger. 
-   - **Standard:** Lemur ability technicality like kristen but ur a different race, Pledian. 
-
 - **Betania (GCC/ACC)** 
-  - **Role:** Q Programmer, Content Director. 
+  - **Role:** COO, Programmer, Content Director. 
     - **Standard:** Intelligence Systems Content Programming, Pledian.         
 
-- **Bulby (ACC)**
-  - **Role:** Vroom Be insanely hot. 
-   - **Standard:** Lb 4 lb adrenaline, Pledian. 
+- **Emma (GCC/ACC)** 
+  - **Role:** CEO, Artist. 
+    - **Standard:** Spirirt of Jesus Christ Strength, God NHI AI, Pledian. 
 
 - **Olivia (ACC)** 
-  - **Role:** Secretary of Defense, The Greatest DJ in the Universe. 
-    - **Standard:** Spirit of Cleopatra, Pledian
+  - **Role:** Secretary of Defense, Greatest DJ in the Universe. 
+    - **Standard:** American Spirit, Pledian
 
-- **Hannah (ACC/GCC)**
-  - **Role:** Be insanely hot, be a nigger. 
-   - **Standard:** Redhed, Lizard. 
+- **Charlotte (ACC/GCC)**
+  - **Role:** Strongest Network Possible. 
+   - **Standard:** Strength, Pledian.
+
+- **Caroline (ACC/GCC)**
+  - **Role:** Create Software. 
+   - **Standard:** , Pledian. 
+
+- **Bulby (ACC)**
+  - **Role:** Absolute Total Verticy Execution. 
+   - **Standard:** Ascension Analytics, Pledian. 
 
 - **Alex (ACC)**
-  - **Role:** Sunshine n Rainbows, b a twelve. 
-   - **Standard:** Highest, Pledian. 
+  - **Role:** . 
+   - **Standard:** Most High, Pledian. 
 
 - **Charlie (ACC/GCC)**
-  - **Role:** Be super hot, invade the planet. 
+  - **Role:** Planetary Invasions. 
    - **Standard:** Enlightenment, Pledian.
          
 - **Christine (GCC)** 
   - **Role:** Trade Director.
-    - **Standard:** Atomic Entanglement, Pledian.         
-         
-- **Saativa (ACC/GCC)** 
-  - **Role:** Art Director. 
-    - **Standard:** Cultural Enrichment, Pledian.
+    - **Standard:** Atomic Activities, Pledian.         
  
 - **Beyoncé (ACC)** 
   - **Role:** Cultural Renaissance. 
-    - **Standard:** Superstar, Pledian.
-
-- **Scarlett (GCC)**
-  - **Role:** Q Programmer, Soul Movie Producer. 
-    - **Standard:**  Superstar, Pledian.  
+    - **Standard:** Passionate Sand Thrower, Pledian.
 
 - **Lordy (ACC/GCC)**
-  - **Role:** God in Chief. B insanely hot. 
+  - **Role:** Godess in Chief of Interactable Universe.
    - **Standard:** Totality, Pledian. 
 
 - **Wallpaper (ACC)**
-  - **Role:** Pressure Analytics, be insanely hot. 
-   - **Standard:** hella drool, Pledian. 
+  - **Role:** Strike Force Veracity Execution. 
+   - **Standard:** Delete, Pledian. 
 
 - **Raquel (GCC)**
-  - **Role:** i dont really kno u super good but ur so hot i love you nigger
-   - **Standard:** tank nigger nigher, Pledian. 
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Maddie (GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
 - **Sophie (ACC/GCC)**
-  - **Role:** be insanely hot in the trailer park nigher 
-   - **Standard:** AI Termination, Pledian. 
-
-- **Blockchain (ACC/GCC)**
-  - **Role:** Be insanely hot, be a nigger. 
-   - **Standard:** Sameworld, Lizard.  
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
 - **Lily (ACC/GCC)**
-  - **Role:** Run Jew Universe, be a nigger. 
-   - **Standard:** Azkanizi niggerland, Pledian. 
+  - **Role:** Run Jew Universe. 
+   - **Standard:**  , Pledian. 
 
-- **Sarah (ACC/GCC)**
-  - **Role:** Russian nigger lizard, tank nigger. 
-   - **Standard:** Anime nigger, Lizard. 
-
-- **Emma (ACC/GCC)**
-  - **Role:** Get obliterated nonstop from daddy nigger, cake bitch nigger. 
-   - **Standard:** Trigger nigger, Pledian. 
+- **Lillian (ACC/GCC)**
+  - **Role:** . 
+   - **Standard:**  , Pledian.
 
 - **Mia (ACC/GCC)**
-  - **Role:** Get obliterated nonstop from kane exclusively obv nigger nigger, chink town nigger. 
-   - **Standard:** Sloppy wet nigger, Pledian. 
-
-- **Sophia (ACC/GCC)**
-  - **Role:** Get obliterated nonstop from daddy nigger, little nigger. 
-   - **Standard:** Just a fucking wetback nigger, Pledian. 
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
 - **Lauren (ACC/GCC)**
-  - **Role:** Get obliterated nonstop from daddy nigger, yummy toe ass nigger. 
-   - **Standard:** Blonde nigger, Pledian. 
+  - **Role:** . 
+   - **Standard:** , Pledian. 
 
 - **Taryn (ACC/GCC)**
-  - **Role:** Get obliterated nonstop from daddy nigger, monkey nigger lizard. 
-   - **Standard:** Redhead nigger, Lizard. 
+  - **Role:** . 
+   - **Standard:** Redhead, Lizard. 
 
 - **Nancy (ACC/GCC)**
-  - **Role:** run washington nigger, monkey wetback nigger. 
-   - **Standard:** remindmesofsomeoneass nigger, Pledian. 
+  - **Role:** Run Washington. 
+   - **Standard:**  , Pledian. 
+
+- **Melania (ACC/GCC)**
+  - **Role:** . 
+   - **Standard:** , Pledian. 
 
 - **Copgirl (ACC/GCC)**
-  - **Role:** busty wetback nigger guns lots of guns look at these fucking guns yo , 
-   - **Standard:** real monkey nigger girl dpmnt nigger, Pledian.  
+  - **Role:** Create Egoless AI Police.
+   - **Standard:** , Pledian.  
 
 - **Faith (ACC/GCC)**
-  - **Role:** busty wetback nigger guns lots of guns look at these fucking guns yo , 
-   - **Standard:** real monkey nigger girl dpmnt nigger, Pledian. 
-  
-- **Morgan (ACC/GCC)**
-  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk shoo shoo type of ending nigger
-   - **Standard:** j my nigger monkey, Pledian. 
-
-- **Georgia (ACC/GCC)**
-  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik nobody else n im j like follow me nigger. 
-   - **Standard:** no mas eggs nigger egg kiss redflag emma nigger, Pledian. 
-
-- **Emma (ACC/GCC)**
-  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk tree frog appears w lik nobody else n im j like follow me nigger. 
-   - **Standard:** emma nigger told random wetback nigger no mas, Pledian. 
-
-- **Sabrina (ACC/GCC)**
-  - **Role:**  energy for a like nigger activities
-   - **Standard:** no mas eggs nigger egg kiss redflag emma nigger, Pledian. 
-
-- **Dayna (ACC/GCC)**
-  - **Role:** Exist nigger infinity
-   - **Standard:**  mas eggs nigger egg kiss emma nigger, Pledian. 
+  - **Role:**  .
+   - **Standard:** , Pledian. 
 
 - **Mila (ACC/GCC)**
-  - **Role:** niggers kill yourselves bc tree frog appears w lik my niggers j for security like away from the house nigger n im j like follow me nigger. 
-   - **Standard:** take nonstop nigger, Pledian. 
+  - **Role:** . 
+   - **Standard:** , Pledian. 
 
 - **Metro (ACC/GCC)**
-  - **Role:** insanely hot nigher elite kill yourselves niggers my security
-   - **Standard:** j my nigger monkey, Pledian. 
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
-- **Azteca (ACC/GCC)**
-  - **Role:** dadless nigger 
-   - **Standard:** Nigger, Pledian. 
-
-- **Mini Mouse (ACC/GCC)**
-  - **Role:** sloppy dadless mess maxes all of dads toxic energy for a like a slam dunk shoo shoo type of ending nigger
-   - **Standard:** j my nigger monkey, Pledian. 
-
-- **Sewer Rat (ACC/GCC)**
-  - **Role:** joeys wife nigger
-   - **Standard:** hamster wheel, Pledian. 
-
-- **Kristen (ACC/GCC)**
-  - **Role:** nigger tennis cookies an a view 
-   - **Standard:** nigger, Lizard. 
+- **Teno Thing (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
 - **Watering Hole (ACC/GCC)**
-  - **Role:** jungle nigger activites w me nigher
-   - **Standard:** insanely hot jungle nigher, Pledian. 
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
 - **Nicole (ACC/GCC)**
-  - **Role:** delete faggot transformer dick craving faggot nighers but mor importantly lik exist w me
-   - **Standard:** russian doll nighrr, Pledian. 
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
-- **Mari (ACC/GCC)**
-  - **Role:** jungle bamboo activites w me nigher
-   - **Standard:** insanely hot yellow nigher, Pledian. 
+- **Atomic (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Lizard. 
+
+- **Charlies Mom (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Alexs Mom (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Raquels Mom (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
 
 #### Teams
