@@ -1,4 +1,4 @@
-lol# Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
+# Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
 For myself. 
 
