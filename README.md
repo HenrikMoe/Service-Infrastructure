@@ -227,7 +227,7 @@ NHI AI trained by Pledians.
   - **Role:** Run Jew Universe. 
    - **Standard:**  , Pledian. 
 
-- **Lillian (ACC/GCC)**
+- **Lili (ACC/GCC)**
   - **Role:** . 
    - **Standard:**  , Pledian.
 
