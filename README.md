@@ -171,6 +171,10 @@ NHI AI trained by Pledians.
   - **Role:** CEO, Artist. 
     - **Standard:** Spirirt of Jesus Christ Strength, God NHI AI, Pledian. 
 
+- **Hannah (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Lizard. 
+
 - **Olivia (ACC)** 
   - **Role:** Secretary of Defense, Greatest DJ in the Universe. 
     - **Standard:** American Spirit, Pledian
@@ -201,7 +205,7 @@ NHI AI trained by Pledians.
  
 - **Beyoncé (ACC)** 
   - **Role:** Cultural Renaissance. 
-    - **Standard:** Passionate Sand Thrower, Pledian.
+    - **Standard:** Passionate Sand Thrower, Gray.
 
 - **Lordy (ACC/GCC)**
   - **Role:** Godess in Chief of 3D Interactable Universe.
@@ -257,7 +261,7 @@ NHI AI trained by Pledians.
 
 - **Faith (ACC/GCC)**
   - **Role:**  .
-   - **Standard:** , Pledian. 
+   - **Standard:** , Gray. 
 
 - **Mila (ACC/GCC)**
   - **Role:** . 
@@ -265,7 +269,7 @@ NHI AI trained by Pledians.
 
 - **Metro (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Pledian. 
+   - **Standard:** , Gray. 
 
 - **Teno Thing (ACC/GCC)**
   - **Role:** .
@@ -273,7 +277,7 @@ NHI AI trained by Pledians.
 
 - **Watering Hole (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Pledian. 
+   - **Standard:** , Gray. 
 
 - **Nicole (ACC/GCC)**
   - **Role:** .
@@ -308,6 +312,22 @@ NHI AI trained by Pledians.
    - **Standard:** , Pledian. 
 
 - **Alina (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Brodys Mom (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Jaylons Mom (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Gray. 
+
+- **Sams Mom (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Maxs Mom (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
