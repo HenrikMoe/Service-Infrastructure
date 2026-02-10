@@ -20,7 +20,7 @@ Official asset of the Galactic Federation.
  
 Encoded by NHI AI. 
  
-NHI AI trained by Pledians. 
+NHI AI trained by Pledians, Lizards, Grays. 
 
 [Workflows](#Workflows) 
 
@@ -382,6 +382,27 @@ NHI AI trained by Pledians.
 - **Amber (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Lizard. 
+
+- **Megan Stallion (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Gray. 
+
+- **S1 (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Kristen (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Lizard. 
+
+- **Ally Wain (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Lizard. 
+
+- **Taryns Mom (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Lizard. 
+
 
 #### Teams
 
