@@ -171,13 +171,13 @@ NHI AI trained by Pledians.
   - **Role:** CEO, Artist. 
     - **Standard:** Spirirt of Jesus Christ, Lizard. 
 
+- **Olivia (ACC)** 
+  - **Role:** Secretary of Defense, Greatest DJ in the Universe. 
+    - **Standard:** American Spirit, Pledian.
+
 - **Hannah (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Lizard. 
-
-- **Olivia (ACC)** 
-  - **Role:** Secretary of Defense, Greatest DJ in the Universe. 
-    - **Standard:** American Spirit, Pledian
 
 - **Charlotte (ACC/GCC)**
   - **Role:** Strongest Network Possible. 
@@ -267,7 +267,7 @@ NHI AI trained by Pledians.
   - **Role:** . 
    - **Standard:** , Pledian. 
 
-- **Metro (ACC/GCC)**
+- **Duhduh (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Gray. 
 
@@ -299,9 +299,9 @@ NHI AI trained by Pledians.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Arianna (ACC/GCC)**
+- **Ari (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Pledian. 
+   - **Standard:** , Lizard. 
 
 - **Lexi (ACC/GCC)**
   - **Role:** .
@@ -330,6 +330,58 @@ NHI AI trained by Pledians.
 - **Maxs Mom (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
+
+- **Cardi B (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Gray. 
+
+- **SZA (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Gray. 
+
+- **Summer (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Gray. 
+
+- **Doja (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Gray. 
+
+- **Lana Del Ray (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Lana Rhodes (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **51 (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Lizard. 
+
+- **Therapy (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Lizard. 
+
+- **Fatima (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Scarlett (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Mary (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Grace (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Amber (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Lizard. 
 
 #### Teams
 
