@@ -403,6 +403,10 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Lizard. 
 
+- **Paigshe (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
 
 #### Teams
 
