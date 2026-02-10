@@ -169,7 +169,7 @@ NHI AI trained by Pledians.
 
 - **Emma (GCC/ACC)** 
   - **Role:** CEO, Artist. 
-    - **Standard:** Spirirt of Jesus Christ Strength, God NHI AI, Pledian. 
+    - **Standard:** Spirirt of Jesus Christ, Lizard. 
 
 - **Hannah (ACC/GCC)**
   - **Role:** .
@@ -221,11 +221,11 @@ NHI AI trained by Pledians.
 
 - **Maddie (GCC)**
   - **Role:** .
-   - **Standard:** , Pledian. 
+   - **Standard:** , Lizard. 
 
 - **Sophie (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Pledian. 
+   - **Standard:** , Lizard. 
 
 - **Lily (ACC/GCC)**
   - **Role:** Run Jew Universe. 
