@@ -509,7 +509,7 @@ Our platform empowers operators with:
 # Atomic
 
 - **Adrenachrome Remapping**
-  - **Heal Adrenaline Locked Ligaments n Tendons:** Jackoff when youre done with the physical stuff obviously not to my shit niggers. 
+  - **Heal Adrenaline Locked Ligaments n Tendons:** Jackoff when you're done with the physical stuff obviously not to my shit niggers. 
     - **Standard:** Human Race
 
 - **All Humans Ever**
