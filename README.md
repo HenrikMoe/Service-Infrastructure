@@ -407,6 +407,14 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Lizard. 
 
+- **Kimberly (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Lizard. 
+
+- **Bailey (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Yeti. 
+
 #### Teams
 
 - **Application Build** - ollie - Utilizes Nix Flakes for consistent builds.
