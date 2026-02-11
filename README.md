@@ -351,10 +351,6 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Lana Rhodes (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
 - **51 (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Lizard. 
@@ -372,10 +368,6 @@ NHI AI trained by Pledians, Lizards, Grays.
    - **Standard:** , Pledian. 
 
 - **Mary (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Grace (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
