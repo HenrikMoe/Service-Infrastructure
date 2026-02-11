@@ -34,7 +34,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 - 7.2kwH/day @ Max Load 
 - NixOS ISO
 - Space Force Partnership Hardware:
-  - Airware Schumann Rezonancia Tracking Hardware: Crust to Atmosphere, Human Electro-Magnetic Brainwave Data Collection Hardware
+  - Airware Schumann Rezonancia Tracking Hardware: Crust to Atmosphere, Human Electro-Magnetic Adrenaline Brainwave Data Collection Hardware
   - Constellation Satellite to Galactic Federation Citizen Electro-Magnetic Brainwave Frequency Alignment Tracking Hardware (Alpha, Theta, Delta, Beta, Ground Current Conducting (GCC), Air Current Conducting (ACC)) (See Report Workflows)
 
 #### Development Provisions Applications: 
