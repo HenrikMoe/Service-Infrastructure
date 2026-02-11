@@ -419,6 +419,11 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
+- **Boranges Mom (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Lizard. 
+
+
 #### Teams
 
 - **Application Build** - ollie - Utilizes Nix Flakes for consistent builds.
