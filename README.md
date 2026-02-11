@@ -407,6 +407,9 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
+- **Princessa (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
 #### Teams
 
