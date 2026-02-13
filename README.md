@@ -427,6 +427,21 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Lizard. 
 
+- **Michelle (ACC/GCC)**
+  - **Role:** Tech Specialist.
+   - **Standard:** , Lizard. 
+
+- **Diana (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian.
+
+- **Chris's Sister (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+
+
+
 
 #### Teams
 
