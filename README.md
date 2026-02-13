@@ -387,7 +387,7 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Lizard. 
 
-- **Allison Wain (ACC/GCC)**
+- **Allison (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Lizard. 
 
