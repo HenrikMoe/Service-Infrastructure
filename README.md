@@ -439,6 +439,10 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
+- **Liz Power (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Lizard. 
+
 
 #### Teams
 
