@@ -552,6 +552,14 @@ Our platform empowers operators with:
   - **Designed for Fun:** Ideal 3D manifesation of a universally dominant species. 
     - **Standard:** Human Race
 
+- **Gay Reproduction**
+  - **Children of Gays:** DNA appropriately random of gay couples. 
+    - **Standard:** Human Race
+
+- **Techs Automated**
+  - **Automates Tactical Tech Terminations of Displosable Assets:** Automated tech planning for tactical hits. 
+    - **Standard:** GFD Asset Termination
+
 - **Quantum Financial System**
   - **Atomic Trade:** Tracks financial details of a person or entity with their atomic energy signatures. 
     - **Standard:** Quantum Financial System
