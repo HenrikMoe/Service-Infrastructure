@@ -451,6 +451,10 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Gray. 
 
+- **Random NatGeo Pleed (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
 
 #### Teams
 
