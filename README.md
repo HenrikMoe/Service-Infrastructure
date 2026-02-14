@@ -447,6 +447,11 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Yeti. 
 
+- **PinkPanthress (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Gray. 
+
+
 #### Teams
 
 - **Application Build** - ollie - Utilizes Nix Flakes for consistent builds.
