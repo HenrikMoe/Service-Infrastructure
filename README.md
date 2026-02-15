@@ -455,6 +455,17 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
+- **Chandler (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Yeti. 
+
+- **Lindsey (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Lizard. 
+
+- **Miley (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
 #### Teams
 
