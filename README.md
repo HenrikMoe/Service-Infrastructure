@@ -463,7 +463,11 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Lizard. 
 
-- **Miley (ACC/GCC)**
+- **Saativa (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Yeti. 
+
+- **Morgan (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
