@@ -379,7 +379,7 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Gray. 
 
-- **S1 (ACC/GCC)**
+- **Seviche (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
@@ -568,6 +568,11 @@ Our platform empowers operators with:
 - **Gay Reproduction**
   - **Children of Gays:** DNA appropriately random of gay couples. 
     - **Standard:** Human Race
+
+- **Atomic Birth Control**
+  - **Life Spark Canceler:** Prevents egg fertilization. 
+    - **Standard:** Human Race
+
 
 - **Techs Automated**
   - **Automates Tactical Tech Terminations of Displosable Assets:** Automated tech planning for tactical hits. 
