@@ -460,12 +460,16 @@ NHI AI trained by Pledians, Lizards, Grays.
    - **Standard:** , Pledian. 
 
 - **Rose (ACC/GCC)**
-  - **Role:** ay fuck adolf.
+  - **Role:** .
    - **Standard:** , Pledian. 
 
 - **Total (ACC/GCC)**
-  - **Role:** ay fuck adolf.
+  - **Role:** .
    - **Standard:** , Grays. 
+
+- **Mini (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
 #### Teams
 
