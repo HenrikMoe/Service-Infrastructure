@@ -471,6 +471,10 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
+- **Rose (ACC/GCC)**
+  - **Role:** ay fuck adolf.
+   - **Standard:** , Pledian. 
+
 #### Teams
 
 - **Application Build** - ollie - Utilizes Nix Flakes for consistent builds.
