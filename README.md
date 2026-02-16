@@ -259,10 +259,6 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** Create Egoless AI Police.
    - **Standard:** , Pledian.  
 
-- **Faith (ACC/GCC)**
-  - **Role:**  .
-   - **Standard:** , Gray. 
-
 - **Mila (ACC/GCC)**
   - **Role:** . 
    - **Standard:** , Pledian. 
