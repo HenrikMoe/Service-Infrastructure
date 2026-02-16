@@ -163,13 +163,13 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 ### Board of Directors
 
-- **Betania (GCC/ACC)** 
-  - **Role:** COO, Programmer, Content Director. 
-    - **Standard:** Intelligence Systems Content Programming, Pledian.         
-
 - **Emma (GCC/ACC)** 
   - **Role:** CEO, Artist. 
     - **Standard:** Spirirt of Jesus Christ, Lizard. 
+
+- **Betania (GCC/ACC)** 
+  - **Role:** COO, Programmer, Content Director. 
+    - **Standard:** Intelligence Systems Content Programming, Pledian.         
 
 - **Olivia (ACC)** 
   - **Role:** Secretary of Defense, Greatest DJ in the Universe. 
@@ -470,6 +470,10 @@ NHI AI trained by Pledians, Lizards, Grays.
 - **Rose (ACC/GCC)**
   - **Role:** ay fuck adolf.
    - **Standard:** , Pledian. 
+
+- **Total (ACC/GCC)**
+  - **Role:** ay fuck adolf.
+   - **Standard:** , Grays. 
 
 #### Teams
 
