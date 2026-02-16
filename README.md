@@ -467,7 +467,7 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Yeti. 
 
-- **Morgan (ACC/GCC)**
+- **Momo (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
