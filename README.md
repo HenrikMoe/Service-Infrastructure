@@ -319,14 +319,6 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Gray. 
 
-- **Sams Mom (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Maxs Mom (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
 - **Cardi B (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Gray. 
