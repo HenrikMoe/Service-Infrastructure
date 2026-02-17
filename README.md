@@ -467,7 +467,7 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Grays. 
 
-- **Mini (ACC/GCC)**
+- **Mini Musso (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
