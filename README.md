@@ -347,7 +347,7 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Amber (ACC/GCC)**
+- **Amber Something (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Lizard. 
 
