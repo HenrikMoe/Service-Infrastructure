@@ -327,7 +327,7 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Gray. 
 
-- **Lana Del Ray (ACC/GCC)**
+- **Lana (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
@@ -351,7 +351,7 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Lizard. 
 
-- **Megan Stallion (ACC/GCC)**
+- **Megan (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Gray. 
 
