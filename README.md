@@ -267,31 +267,11 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Gray. 
 
-- **Teno Thing (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
 - **Watering Hole (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Gray. 
 
 - **Nicole (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Atomic (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Lizard. 
-
-- **Charlies Mom (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Alex's Mom (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Raquel's Mom (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
@@ -308,10 +288,6 @@ NHI AI trained by Pledians, Lizards, Grays.
    - **Standard:** , Pledian. 
 
 - **Alina (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Brody's Mom (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
@@ -347,10 +323,6 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Amber Something (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Lizard. 
-
 - **Megan (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Gray. 
@@ -367,37 +339,13 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Lizard. 
 
-- **Taryn's Mom (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Lizard. 
-
-- **Princessa (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
 - **Madeline (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Lizard. 
 
-- **Kimberly (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Lizard. 
-
-- **Bailey (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Yeti. 
-
 - **Denise (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
-
-- **Borange's Mom (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Lizard. 
-
-- **Robin (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Lizard. 
 
 - **Diana (ACC/GCC)**
   - **Role:** .
@@ -410,10 +358,6 @@ NHI AI trained by Pledians, Lizards, Grays.
 - **Liz Power (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Lizard. 
-
-- **Bailey's Mom (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Yeti. 
 
 - **PinkPanthress (ACC/GCC)**
   - **Role:** .
@@ -431,10 +375,6 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Yeti. 
 
-- **Momo (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
 - **Rose (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
@@ -442,10 +382,6 @@ NHI AI trained by Pledians, Lizards, Grays.
 - **Total (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Grays. 
-
-- **Mini Musso (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
 
 - **Faith (ACC/GCC)**
   - **Role:** .
