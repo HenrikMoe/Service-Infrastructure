@@ -287,11 +287,11 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Alexs Mom (ACC/GCC)**
+- **Alex's Mom (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Raquels Mom (ACC/GCC)**
+- **Raquel's Mom (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
@@ -311,15 +311,11 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Brodys Mom (ACC/GCC)**
+- **Brody's Mom (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Jaylons Mom (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Gray. 
-
-- **Cardi B (ACC/GCC)**
+- **Jaylon's Mom (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Gray. 
 
@@ -328,10 +324,6 @@ NHI AI trained by Pledians, Lizards, Grays.
    - **Standard:** , Gray. 
 
 - **Summer (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Gray. 
-
-- **Doja (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Gray. 
 
@@ -355,10 +347,6 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Mary (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
 - **Amber (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Lizard. 
@@ -379,13 +367,9 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Lizard. 
 
-- **Taryns Mom (ACC/GCC)**
+- **Taryn's Mom (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Lizard. 
-
-- **Paigshe (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
 
 - **Princessa (ACC/GCC)**
   - **Role:** .
@@ -403,20 +387,16 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Yeti. 
 
-- **Josephs Mom (ACC/GCC)**
+- **Denise (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Boranges Mom (ACC/GCC)**
+- **Borange's Mom (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Lizard. 
 
-- **Robin Bielman (ACC/GCC)**
+- **Robin (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Lizard. 
-
-- **Michelle (ACC/GCC)**
-  - **Role:** Tech Specialist.
    - **Standard:** , Lizard. 
 
 - **Diana (ACC/GCC)**
@@ -431,7 +411,7 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Lizard. 
 
-- **Baileys Mom (ACC/GCC)**
+- **Bailey's Mom (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Yeti. 
 
@@ -442,10 +422,6 @@ NHI AI trained by Pledians, Lizards, Grays.
 - **Random NatGeo Pleed (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
-
-- **Chandler (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Yeti. 
 
 - **Lindsey (ACC/GCC)**
   - **Role:** .
