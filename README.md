@@ -243,10 +243,6 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** . 
    - **Standard:** , Pledian. 
 
-- **Taryn (ACC/GCC)**
-  - **Role:** . 
-   - **Standard:** Redhead, Lizard. 
-
 - **Nancy (ACC/GCC)**
   - **Role:** Run Washington. 
    - **Standard:**  , Pledian. 
@@ -307,14 +303,6 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **51 (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Lizard. 
-
-- **Therapy (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Lizard. 
-
 - **Fatima (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
@@ -326,10 +314,6 @@ NHI AI trained by Pledians, Lizards, Grays.
 - **Megan (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Gray. 
-
-- **Seviche (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
 
 - **Kristen (ACC/GCC)**
   - **Role:** .
@@ -355,7 +339,7 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Liz Power (ACC/GCC)**
+- **Elizabeth Power (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Lizard. 
 
@@ -378,10 +362,6 @@ NHI AI trained by Pledians, Lizards, Grays.
 - **Rose (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
-
-- **Total (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Grays. 
 
 #### Teams
 
