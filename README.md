@@ -307,8 +307,8 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Scarlett (ACC/GCC)**
-  - **Role:** .
+- **Scarlet (ACC/GCC)**
+  - **Role:** Soul Movie Producing.
    - **Standard:** , Pledian. 
 
 - **Megan (ACC/GCC)**
