@@ -241,7 +241,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Mia (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Pledian. 
+   - **Standard:** , Pledian. Top Scale: Strong. 
 
 - **Lauren (ACC/GCC)**
   - **Role:** . 
