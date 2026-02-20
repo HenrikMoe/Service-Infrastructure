@@ -245,7 +245,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Lauren (ACC/GCC)**
   - **Role:** . 
-   - **Standard:** , Pledian. 
+   - **Standard:** , Pledian. Top Scale: Wild. 
 
 - **Nancy (ACC/GCC)**
   - **Role:** Run Washington. 
