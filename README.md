@@ -323,10 +323,6 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Lizard. 
 
-- **Madeline (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Lizard. 
-
 - **Denise (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
