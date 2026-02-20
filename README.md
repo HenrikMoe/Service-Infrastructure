@@ -374,7 +374,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 #### Teams
 
-- **Application Build** - ollie, hillary (strength legacy) - Utilizes Nix Flakes for consistent builds.
+- **Application Build** - ollie, hillary (strength legacy systems), teno mini (wild legacy systems) - Utilizes Nix Flakes for consistent builds.
 - **Testing** - Employs Nix Flakes for testing environments.
 - **Enterprise Implementation**  - On premise with nix to saas.
 - **Business Administration** - 
