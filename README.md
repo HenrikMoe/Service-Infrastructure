@@ -192,8 +192,8 @@ NHI AI trained by Pledians, Lizards, Grays.
    - **Standard:** , Pledian. Top Scale: Wild. 
 
 - **Bulby (ACC)**
-  - **Role:** Absolute Total Verticy Execution. 
-   - **Standard:** Ascension Analytics, Pledian. 
+  - **Role:** Total Verticy Execution. 
+   - **Standard:** Ascension Analytics, Pledian. Top Scale: Strength. 
 
 - **Alex (ACC)**
   - **Role:** . 
