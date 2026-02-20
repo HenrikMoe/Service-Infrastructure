@@ -237,7 +237,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Lili (ACC/GCC)**
   - **Role:** . 
-   - **Standard:**  , Pledian.
+   - **Standard:**  , Pledian. Top Scale: Tragic. 
 
 - **Mia (ACC/GCC)**
   - **Role:** .
