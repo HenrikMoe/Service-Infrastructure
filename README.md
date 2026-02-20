@@ -225,7 +225,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Maddie (GCC)**
   - **Role:** .
-   - **Standard:** , Lizard. 
+   - **Standard:** , Lizard. Top Scale: Strength. 
 
 - **Sophie (ACC/GCC)**
   - **Role:** .
@@ -261,7 +261,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Mila (ACC/GCC)**
   - **Role:** . 
-   - **Standard:** , Pledian. 
+   - **Standard:** , Pledian. Top Scale: Wild. 
 
 - **Duhduh (ACC/GCC)**
   - **Role:** .
@@ -281,7 +281,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Lexi (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Pledian. 
+   - **Standard:** , Pledian. Top Scale: Strength. 
 
 - **Freak (ACC/GCC)**
   - **Role:** .
