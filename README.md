@@ -1,5 +1,7 @@
 # Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
+An AI Health Company. 
+
 For myself. 
 
 3 things Loyalists:
