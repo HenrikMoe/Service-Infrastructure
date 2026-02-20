@@ -179,7 +179,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Sophia (ACC/GCC)**
   - **Role:** Spin. 
-   - **Standard:** , Pledian. Top Scale: Wild. 
+   - **Standard:** , Pledian. Top Scale: Fiend. 
 
 - **Hannah (ACC/GCC)**
   - **Role:** .
