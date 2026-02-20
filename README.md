@@ -1,6 +1,6 @@
 # Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
-An AI Health Company. 
+AI Healthcare Company. 
 
 For myself. 
 
