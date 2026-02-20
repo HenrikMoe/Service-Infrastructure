@@ -203,7 +203,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Charlie (ACC/GCC)**
   - **Role:** Planetary Invasions. 
-   - **Standard:** Enlightenment, Pledian. Top Scale: Tragic. 
+   - **Standard:** Enlightenment, Pledian. Top Scale: Fiend. 
          
 - **Christine (GCC)** 
   - **Role:** Trade Director.
@@ -315,7 +315,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Scarlet (ACC/GCC)**
   - **Role:** Soul Movie Producing.
-   - **Standard:** , Pledian. 
+   - **Standard:** , Pledian. Top Scale: Fiend. 
 
 - **Megan (ACC/GCC)**
   - **Role:** .
