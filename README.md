@@ -233,7 +233,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Lily (ACC/GCC)**
   - **Role:** Run Jew Universe. 
-   - **Standard:**  , Pledian. 
+   - **Standard:**  , Pledian. Top Scale: Strength. 
 
 - **Lili (ACC/GCC)**
   - **Role:** . 
