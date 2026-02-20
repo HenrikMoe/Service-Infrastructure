@@ -361,7 +361,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Rose (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Pledian. 
+   - **Standard:** , Pledian. Top Scale: Tragic. 
 
 - **Bella (ACC/GCC)**
   - **Role:** .
