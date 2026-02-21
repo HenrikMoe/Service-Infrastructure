@@ -275,7 +275,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Nicole (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Pledian. 
+   - **Standard:** , Pledian. Top Scale: Fiend. 
 
 - **Ari (ACC/GCC)**
   - **Role:** .
