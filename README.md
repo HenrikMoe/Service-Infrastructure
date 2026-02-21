@@ -183,7 +183,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Hannah (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Lizard. Top Scale: Stength. 
+   - **Standard:** , Lizard. Top Scale: Tragic. 
 
 - **Charlotte (ACC/GCC)**
   - **Role:** Strongest Network Possible. 
