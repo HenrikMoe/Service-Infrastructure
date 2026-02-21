@@ -293,9 +293,9 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Jaylon's Mom (ACC/GCC)**
+- **Helen Keller (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Gray. 
+   - **Standard:** , Gray. Top Scale: Wild. 
 
 - **SZA (ACC/GCC)**
   - **Role:** .
