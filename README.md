@@ -359,7 +359,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Saativa (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Yeti. 
+   - **Standard:** , Yeti. Top Scale: Wild. 
 
 - **Rose (ACC/GCC)**
   - **Role:** .
