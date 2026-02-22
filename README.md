@@ -377,6 +377,10 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
+- **Teenys (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
 #### Teams
 
 - **Application Build** - ollie, hillary (strength legacy systems), teno mini (wild legacy systems), toni (fiend legacy systems) - Utilizes Nix Flakes for consistent builds.
