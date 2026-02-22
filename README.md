@@ -207,7 +207,7 @@ NHI AI trained by Pledians, Lizards, Grays.
          
 - **Christine (GCC)** 
   - **Role:** Trade Director.
-    - **Standard:** Atomic Activities, Pledian.         
+    - **Standard:** Atomic Activities, Pledian. Top Scale: Wild.          
  
 - **Beyoncé (ACC)** 
   - **Role:** Cultural Renaissance. 
