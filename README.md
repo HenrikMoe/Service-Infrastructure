@@ -373,6 +373,9 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Lizard. 
 
+- **Skybox (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
 #### Teams
 
