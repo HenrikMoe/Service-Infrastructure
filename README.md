@@ -2,7 +2,7 @@
 
 GFD AI Healthcare Company. 
 
-For myself. 
+For GFD Family. 
 
 3 things Loyalists:
 
