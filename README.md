@@ -377,11 +377,15 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Teeny Crows (ACC/GCC)**
+- **Eligible, Important Teeny Crows (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Sinnys (ACC/GCC)**
+- **Eligible, Important Sinnys (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Morgan (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
