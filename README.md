@@ -293,7 +293,7 @@ NHI AI trained by Pledians, Lizards, Grays.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Helen Keller (ACC/GCC)**
+- **Captain H (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Gray. Top Scale: Wild. 
 
