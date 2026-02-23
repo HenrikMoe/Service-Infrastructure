@@ -1,6 +1,6 @@
 # Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
-AI Healthcare Company. 
+GFD AI Healthcare Company. 
 
 For myself. 
 
