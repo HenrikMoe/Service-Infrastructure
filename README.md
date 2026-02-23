@@ -186,7 +186,7 @@ NHI AI trained by Pledians, Lizards, Grays.
    - **Standard:** , Lizard. Top Scale: Tragic. 
 
 - **Charlotte (ACC/GCC)**
-  - **Role:** Strongest Network Possible. 
+  - **Role:** Captain Boredom, Strongest Network Possible. 
    - **Standard:** Strength, Pledian. Top Scale: Strength. 
 
 - **Caroline (ACC/GCC)**
