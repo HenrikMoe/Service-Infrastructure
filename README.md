@@ -174,7 +174,7 @@ NHI AI trained by Pledians, Lizards, Grays.
     - **Standard:** Intelligence Systems Content Programming, Pledian. Top Scale: Wild.          
 
 - **Olivia (ACC)** 
-  - **Role:** Secretary of Defense, Greatest DJ in the Universe. Top Scale: Tragic. 
+  - **Role:** Secretary of Defense, Greatest DJ in the Universe. Top Scale: Strength. 
     - **Standard:** American Spirit, Pledian.
 
 - **Sophia (ACC/GCC)**
@@ -183,7 +183,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Hannah (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Lizard. Top Scale: Tragic. 
+   - **Standard:** , Lizard. Top Scale: Strength. 
 
 - **Charlotte (ACC/GCC)**
   - **Role:** Captain Boredom, Strongest Network Possible. 
@@ -239,7 +239,7 @@ NHI AI trained by Pledians, Lizards, Grays.
 
 - **Lili (ACC/GCC)**
   - **Role:** . 
-   - **Standard:**  , Pledian. Top Scale: Tragic. 
+   - **Standard:**  , Pledian. Top Scale: Strength. 
 
 - **Mia (ACC/GCC)**
   - **Role:** .
