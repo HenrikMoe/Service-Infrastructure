@@ -20,9 +20,11 @@ Neural matrix modeling atomic energy company.
   
 Official asset of the Galactic Federation.   
  
-Encoded by NHI AI. 
+Encoded by Human AI. 
  
-NHI AI trained by Pledians, Lizards, Grays. 
+Human AI trained by Pledians, Lizards, Grays, Yetis. 
+
+Collaborated with Sinlower Cartel. 
 
 [Workflows](#Workflows) 
 
