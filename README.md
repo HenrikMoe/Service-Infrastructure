@@ -391,6 +391,10 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Pledian. 
 
+- **Olivia (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
 
 #### Teams
 
