@@ -395,6 +395,9 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Pledian. 
 
+- **Bailey (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Yeti. Top Scale: Wild. 
 
 #### Teams
 
