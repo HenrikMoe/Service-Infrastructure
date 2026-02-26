@@ -391,13 +391,14 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Olivia (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
 - **Bailey (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Yeti. Top Scale: Wild. 
+
+- **Golf (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
 
 #### Teams
 
