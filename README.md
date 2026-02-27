@@ -402,7 +402,7 @@ Collaborated with Sinlower Cartel.
 
 #### Teams
 
-- **Application Build Mains** - ollie, hillary i love you (strength legacy systems), teno mini i love you (wild legacy systems), toni i love you (fiend legacy systems) 
+- **Application Build Mains** - ollie, hillary (strength legacy systems), teno mini i love you (wild legacy systems), toni (fiend legacy systems) 
 - **App Build and Enjoys Whats True Niggers** - Roj i love you spun 9 yr old i love you everything is and will always be perfect
 - Utilizes Nix Flakes for consistent builds.
 - **Testing** - Employs Nix Flakes for testing environments.
