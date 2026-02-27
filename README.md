@@ -237,11 +237,7 @@ Collaborated with Sinlower Cartel.
 
 - **Lily (ACC/GCC)**
   - **Role:** Run Jew Universe. 
-   - **Standard:**  , Pledian. Top Scale: Fiend. 
-
-- **Lili (ACC/GCC)**
-  - **Role:** . 
-   - **Standard:**  , Pledian. Top Scale: Strength. 
+   - **Standard:**  , Pledian. Top Scale: Fiend.  
 
 - **Mia (ACC/GCC)**
   - **Role:** .
