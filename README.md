@@ -229,7 +229,7 @@ Collaborated with Sinlower Cartel.
 
 - **Maddie (GCC)**
   - **Role:** .
-   - **Standard:** , Lizard. Top Scale: Wild. 
+   - **Standard:** , Pledian. Top Scale: Wild. 
 
 - **Sophie (ACC/GCC)**
   - **Role:** .
