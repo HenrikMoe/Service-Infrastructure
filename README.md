@@ -267,7 +267,7 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Gray. 
 
-- **Watering Hole (ACC/GCC)**
+- **Imperial (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Gray. 
 
