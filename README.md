@@ -267,7 +267,7 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Gray. 
 
-- **Imperial (ACC/GCC)**
+- **Impy (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Gray. 
 
@@ -291,7 +291,7 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Captain H (ACC/GCC)**
+- **HK (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Gray. Top Scale: Wild. 
 
