@@ -1,6 +1,8 @@
 # Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
-GFD AI Processing Company. 
+Islamic Christ Presbyterian (ICP) product. 
+
+GFD AI Healthcare Company. 
 
 For my family. 
 
@@ -236,7 +238,7 @@ Collaborated with Sinlower Cartel.
    - **Standard:** , Lizard. Top Scale: Strength. 
 
 - **Lily (ACC/GCC)**
-  - **Role:** Run Jew Universe. 
+  - **Role:** . 
    - **Standard:**  , Pledian. Top Scale: Fiend.  
 
 - **Mia (ACC/GCC)**
