@@ -321,9 +321,6 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Gray. 
 
-- **Kristen (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Lizard. 
 
 - **Allison (ACC/GCC)**
   - **Role:** .
