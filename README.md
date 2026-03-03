@@ -269,7 +269,7 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Gray. 
 
-- **Impy (ACC/GCC)**
+- **Watering Hole (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Gray. 
 
@@ -377,11 +377,11 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Eligible, Important Teeny Crows (ACC/GCC)**
+- **Eligible, Important, Teenys (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Eligible, Important Sinnys (ACC/GCC)**
+- **Eligible, Important, Putas (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
 
