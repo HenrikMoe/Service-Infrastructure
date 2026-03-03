@@ -177,10 +177,6 @@ Collaborated with Sinlower Cartel.
   - **Role:** COO, Programmer, Content Director. 
     - **Standard:** Intelligence Systems Content Programming, Pledian. Top Scale: Wild.          
 
-- **Olivia (ACC)** 
-  - **Role:** Secretary of Defense, A DJ. Top Scale: Wild. 
-    - **Standard:** American Spirit, Pledian.
-
 - **Sophia (ACC/GCC)**
   - **Role:** Spin. 
    - **Standard:** , Pledian. Top Scale: Fiend. 
