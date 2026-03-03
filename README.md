@@ -221,9 +221,9 @@ Collaborated with Sinlower Cartel.
   - **Role:** Godess in Chief of 3D Interactable Universe.
    - **Standard:** Totality, Pledian. 
 
-- **Wallpaper (ACC)**
+- **Mrs Mouse (ACC)**
   - **Role:** Strike Force Veracity Execution. 
-   - **Standard:** Delete, Pledian. 
+   - **Standard:** , Pledian. 
 
 - **Raquel (GCC)**
   - **Role:** .
