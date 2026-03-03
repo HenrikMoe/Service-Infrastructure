@@ -177,6 +177,10 @@ Collaborated with Sinlower Cartel.
   - **Role:** COO, Programmer, Content Director. 
     - **Standard:** Intelligence Systems Content Programming, Pledian. Top Scale: Wild.          
 
+- **Olivia (GCC/ACC)** 
+  - **Role:** . 
+    - **Standard:** , Pledian. Top Scale: Strength.          
+
 - **Sophia (ACC/GCC)**
   - **Role:** Spin. 
    - **Standard:** , Pledian. Top Scale: Fiend. 
