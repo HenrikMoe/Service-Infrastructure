@@ -178,7 +178,7 @@ Collaborated with Sinlower Cartel.
     - **Standard:** Intelligence Systems Content Programming, Pledian. Top Scale: Wild.          
 
 - **Olivia (ACC)** 
-  - **Role:** Secretary of Defense, Greatest DJ in the Universe. Top Scale: Wild. 
+  - **Role:** Secretary of Defense, A DJ. Top Scale: Wild. 
     - **Standard:** American Spirit, Pledian.
 
 - **Sophia (ACC/GCC)**
