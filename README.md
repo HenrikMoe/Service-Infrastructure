@@ -182,7 +182,7 @@ Collaborated with Sinlower Cartel.
     - **Standard:** , Pledian. Top Scale: Strength.          
 
 - **Sophia (ACC/GCC)**
-  - **Role:** Spin. 
+  - **Role:** Exist. 
    - **Standard:** , Pledian. Top Scale: Fiend. 
 
 - **Hannah (ACC/GCC)**
