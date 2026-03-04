@@ -174,8 +174,8 @@ Collaborated with Sinlower Cartel.
     - **Standard:** Spirirt of Jesus Christ, Lizard. 
 
 - **Betania (GCC/ACC)** 
-  - **Role:** COO, Programmer, Content Director. 
-    - **Standard:** Intelligence Systems Content Programming, Pledian.         
+  - **Role:** COO, Veracity Management, Content Director. 
+    - **Standard:** Intelligence Systems, Pledian.         
 
 - **Olivia (GCC/ACC)** 
   - **Role:** Secretary of Defense, DJ. 
@@ -190,7 +190,7 @@ Collaborated with Sinlower Cartel.
    - **Standard:** , Lizard.  
 
 - **Charlotte (ACC/GCC)**
-  - **Role:** Captain Boredom, Strongest Network Possible. 
+  - **Role:** Captain Boredom. 
    - **Standard:** Strength, Pledian. 
 
 - **Caroline (ACC/GCC)**
@@ -222,7 +222,7 @@ Collaborated with Sinlower Cartel.
    - **Standard:** Totality, Pledian. 
 
 - **Mrs Mouse (ACC)**
-  - **Role:** Strike Force Veracity Execution. 
+  - **Role:** . 
    - **Standard:** , Pledian. 
 
 - **Raquel (GCC)**
@@ -230,7 +230,7 @@ Collaborated with Sinlower Cartel.
    - **Standard:** , Pledian. 
 
 - **Maddie (GCC)**
-  - **Role:** .
+  - **Role:** Intelligence Systems.
    - **Standard:** , Pledian. 
 
 - **Sophie (ACC/GCC)**
