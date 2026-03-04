@@ -249,10 +249,6 @@ Collaborated with Sinlower Cartel.
   - **Role:** . 
    - **Standard:** , Pledian. 
 
-- **Nancy (ACC/GCC)**
-  - **Role:** Run Washington. 
-   - **Standard:**  , Pledian. 
-
 - **Melania (ACC/GCC)**
   - **Role:** . 
    - **Standard:** , Pledian. 
@@ -284,10 +280,6 @@ Collaborated with Sinlower Cartel.
 - **Lexi (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian.  
-
-- **Freak (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
 
 - **Alina (ACC/GCC)**
   - **Role:** .
