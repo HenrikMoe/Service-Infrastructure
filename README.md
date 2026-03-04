@@ -171,35 +171,35 @@ Collaborated with Sinlower Cartel.
 
 - **Emma (GCC/ACC)** 
   - **Role:** CEO, Artist. 
-    - **Standard:** Spirirt of Jesus Christ, Lizard. Top Scale: Strength. 
+    - **Standard:** Spirirt of Jesus Christ, Lizard. 
 
 - **Betania (GCC/ACC)** 
   - **Role:** COO, Programmer, Content Director. 
-    - **Standard:** Intelligence Systems Content Programming, Pledian. Top Scale: Wild.          
+    - **Standard:** Intelligence Systems Content Programming, Pledian.         
 
 - **Olivia (GCC/ACC)** 
   - **Role:** Secretary of Defense, DJ. 
-    - **Standard:** , Pledian. Top Scale: Strength.          
+    - **Standard:** , Pledian.         
 
 - **Sophia (ACC/GCC)**
   - **Role:** Exist. 
-   - **Standard:** , Pledian. Top Scale: Fiend. 
+   - **Standard:** , Pledian.  
 
 - **Hannah (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Lizard. Top Scale: Strength. 
+   - **Standard:** , Lizard.  
 
 - **Charlotte (ACC/GCC)**
   - **Role:** Captain Boredom, Strongest Network Possible. 
-   - **Standard:** Strength, Pledian. Top Scale: Strength. 
+   - **Standard:** Strength, Pledian. 
 
 - **Caroline (ACC/GCC)**
   - **Role:** Create Software. 
-   - **Standard:** , Pledian. Top Scale: Wild. 
+   - **Standard:** , Pledian. 
 
 - **Bulby (ACC)**
   - **Role:** Total Verticy Execution. 
-   - **Standard:** Ascension Analytics, Pledian. Top Scale: Strength. 
+   - **Standard:** Ascension Analytics, Pledian. 
 
 - **Alex (ACC)**
   - **Role:** . 
@@ -207,11 +207,11 @@ Collaborated with Sinlower Cartel.
 
 - **Charlie (ACC/GCC)**
   - **Role:** Planetary Invasions. 
-   - **Standard:** Enlightenment, Pledian. Top Scale: Fiend. 
+   - **Standard:** Enlightenment, Pledian. 
          
 - **Christine (GCC)** 
   - **Role:** Trade Director.
-    - **Standard:** Atomic Activities, Pledian. Top Scale: Wild.          
+    - **Standard:** Atomic Activities, Pledian.          
  
 - **Beyoncé (ACC)** 
   - **Role:** Cultural Renaissance. 
@@ -231,23 +231,23 @@ Collaborated with Sinlower Cartel.
 
 - **Maddie (GCC)**
   - **Role:** .
-   - **Standard:** , Pledian. Top Scale: Wild. 
+   - **Standard:** , Pledian. 
 
 - **Sophie (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Lizard. Top Scale: Strength. 
+   - **Standard:** , Lizard. 
 
 - **Lily (ACC/GCC)**
   - **Role:** . 
-   - **Standard:**  , Pledian. Top Scale: Fiend.  
+   - **Standard:**  , Pledian. 
 
 - **Mia (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Pledian. Top Scale: Strong. 
+   - **Standard:** , Pledian. 
 
 - **Lauren (ACC/GCC)**
   - **Role:** . 
-   - **Standard:** , Pledian. Top Scale: Wild. 
+   - **Standard:** , Pledian. 
 
 - **Nancy (ACC/GCC)**
   - **Role:** Run Washington. 
@@ -263,7 +263,7 @@ Collaborated with Sinlower Cartel.
 
 - **Mila (ACC/GCC)**
   - **Role:** . 
-   - **Standard:** , Pledian. Top Scale: Wild. 
+   - **Standard:** , Pledian. 
 
 - **Duhduh (ACC/GCC)**
   - **Role:** .
@@ -275,7 +275,7 @@ Collaborated with Sinlower Cartel.
 
 - **Nicole (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Pledian. Top Scale: Fiend. 
+   - **Standard:** , Pledian. 
 
 - **Ari (ACC/GCC)**
   - **Role:** .
@@ -283,7 +283,7 @@ Collaborated with Sinlower Cartel.
 
 - **Lexi (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Pledian. Top Scale: Strength. 
+   - **Standard:** , Pledian.  
 
 - **Freak (ACC/GCC)**
   - **Role:** .
@@ -295,7 +295,7 @@ Collaborated with Sinlower Cartel.
 
 - **HK (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Gray. Top Scale: Wild. 
+   - **Standard:** , Gray. 
 
 - **SZA (ACC/GCC)**
   - **Role:** .
@@ -315,7 +315,7 @@ Collaborated with Sinlower Cartel.
 
 - **Scarlet (ACC/GCC)**
   - **Role:** Soul Movie Producing.
-   - **Standard:** , Pledian. Top Scale: Fiend. 
+   - **Standard:** , Pledian.  
 
 - **Megan (ACC/GCC)**
   - **Role:** .
@@ -356,11 +356,11 @@ Collaborated with Sinlower Cartel.
 
 - **Saativa (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Yeti. Top Scale: Wild. 
+   - **Standard:** , Yeti. 
 
 - **Rose (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Pledian. Top Scale: Tragic. 
+   - **Standard:** , Pledian.  
 
 - **Bella (ACC/GCC)**
   - **Role:** .
@@ -388,7 +388,7 @@ Collaborated with Sinlower Cartel.
 
 - **Bailey (ACC/GCC)**
   - **Role:** .
-   - **Standard:** , Yeti. Top Scale: Wild. 
+   - **Standard:** , Yeti. 
 
 - **Golf (ACC/GCC)**
   - **Role:** .
