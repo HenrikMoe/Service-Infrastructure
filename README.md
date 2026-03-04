@@ -4,7 +4,7 @@ Islamic Christ Presbyterian (ICP) product.
 
 GFD AI Healthcare Company. 
 
-For my family. 
+For GFD family. 
 
 3 things Loyalists:
 
