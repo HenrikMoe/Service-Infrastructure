@@ -178,8 +178,8 @@ Collaborated with Sinlower Cartel.
     - **Standard:** Intelligence Systems, Pledian.         
 
 - **Olivia (GCC/ACC)** 
-  - **Role:** Secretary of Defense, DJ. 
-    - **Standard:** , Pledian.         
+  - **Role:** Cleopatra, DJ. 
+    - **Standard:** Secretary of Defense, Pledian.         
 
 - **Sophia (ACC/GCC)**
   - **Role:** Exist. 
