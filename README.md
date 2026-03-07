@@ -174,7 +174,7 @@ Collaborated with Sinlower Cartel.
     - **Standard:** Jesus Christ, Lizard. 
 
 - **Betania (GCC/ACC)** 
-  - **Role:** COO,. 
+  - **Role:** COO. 
     - **Standard:** , Pledian.         
 
 - **Olivia (GCC/ACC)** 
@@ -190,11 +190,11 @@ Collaborated with Sinlower Cartel.
    - **Standard:** , Lizard.  
 
 - **Charlotte (ACC/GCC)**
-  - **Role:** Captain Boredom. 
+  - **Role:** Boredom. 
    - **Standard:** Strength, Pledian. 
 
 - **Caroline (ACC/GCC)**
-  - **Role:** Create Software. 
+  - **Role:** Software. 
    - **Standard:** , Pledian. 
 
 - **Bulby (ACC)**
@@ -206,7 +206,7 @@ Collaborated with Sinlower Cartel.
    - **Standard:** Most High, Pledian. 
 
 - **Charlie (ACC/GCC)**
-  - **Role:** . 
+  - **Role:** Delete. 
    - **Standard:** , Pledian. 
          
 - **Christine (GCC)** 
