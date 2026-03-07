@@ -170,19 +170,19 @@ Collaborated with Sinlower Cartel.
 ### Board of Directors
 
 - **Emma (GCC/ACC)** 
-  - **Role:** CEO, Artist. 
-    - **Standard:** Spirirt of Jesus Christ, Lizard. 
+  - **Role:** CEO. 
+    - **Standard:** Jesus Christ, Lizard. 
 
 - **Betania (GCC/ACC)** 
-  - **Role:** COO, Veracity Management, Content Director. 
-    - **Standard:** Intelligence Systems, Pledian.         
+  - **Role:** COO,. 
+    - **Standard:** , Pledian.         
 
 - **Olivia (GCC/ACC)** 
-  - **Role:** Cleopatra, DJ. 
-    - **Standard:** Secretary of Defense, Pledian.         
+  - **Role:** DJ. 
+    - **Standard:** , Pledian.         
 
 - **Sophia (ACC/GCC)**
-  - **Role:** Exist. 
+  - **Role:** . 
    - **Standard:** , Pledian.  
 
 - **Hannah (ACC/GCC)**
@@ -206,20 +206,20 @@ Collaborated with Sinlower Cartel.
    - **Standard:** Most High, Pledian. 
 
 - **Charlie (ACC/GCC)**
-  - **Role:** Planetary Invasions. 
-   - **Standard:** Enlightenment, Pledian. 
+  - **Role:** . 
+   - **Standard:** , Pledian. 
          
 - **Christine (GCC)** 
-  - **Role:** Trade Director.
-    - **Standard:** Atomic Activities, Pledian.          
+  - **Role:** .
+    - **Standard:** , Pledian.          
  
 - **Beyoncé (ACC)** 
-  - **Role:** Cultural Renaissance. 
-    - **Standard:** Passionate Sand Thrower, Gray.
+  - **Role:** . 
+    - **Standard:** , Gray.
 
 - **Lordy (ACC/GCC)**
-  - **Role:** Godess in Chief of 3D Interactable Universe.
-   - **Standard:** Totality, Pledian. 
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
 - **Mrs Mouse (ACC)**
   - **Role:** . 
@@ -230,7 +230,7 @@ Collaborated with Sinlower Cartel.
    - **Standard:** , Pledian. 
 
 - **Maddie (GCC)**
-  - **Role:** Intelligence Systems.
+  - **Role:** .
    - **Standard:** , Pledian. 
 
 - **Sophie (ACC/GCC)**
@@ -254,7 +254,7 @@ Collaborated with Sinlower Cartel.
    - **Standard:** , Pledian. 
 
 - **Copgirl (ACC/GCC)**
-  - **Role:** Create Egoless AI Police.
+  - **Role:** .
    - **Standard:** , Pledian.  
 
 - **Mila (ACC/GCC)**
@@ -306,7 +306,7 @@ Collaborated with Sinlower Cartel.
    - **Standard:** , Pledian. 
 
 - **Scarlet (ACC/GCC)**
-  - **Role:** Soul Movie Producing.
+  - **Role:** .
    - **Standard:** , Pledian.  
 
 - **Megan (ACC/GCC)**
