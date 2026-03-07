@@ -198,8 +198,8 @@ Collaborated with Sinlower Cartel.
    - **Standard:** , Pledian. 
 
 - **Bulby (ACC)**
-  - **Role:** Total Verticy Execution. 
-   - **Standard:** Ascension Analytics, Pledian. 
+  - **Role:** . 
+   - **Standard:** , Pledian. 
 
 - **Alex (ACC)**
   - **Role:** . 
