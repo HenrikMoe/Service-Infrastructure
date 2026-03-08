@@ -382,9 +382,6 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Yeti. 
 
-- **Golf (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
 
 - **Eligible Philipinos (ACC/GCC)**
   - **Role:** .
@@ -406,9 +403,6 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Angie (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian.
 
 
 #### Teams
