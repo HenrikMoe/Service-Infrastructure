@@ -257,10 +257,6 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Pledian.  
 
-- **Mila (ACC/GCC)**
-  - **Role:** . 
-   - **Standard:** , Pledian. 
-
 - **Duhduh (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Gray. 
@@ -272,14 +268,6 @@ Collaborated with Sinlower Cartel.
 - **Nicole (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
-
-- **Ari (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Lizard. 
-
-- **Lexi (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian.  
 
 - **Alina (ACC/GCC)**
   - **Role:** .
@@ -293,14 +281,6 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Gray. 
 
-- **Summer (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Gray. 
-
-- **Lana (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
 - **Fatima (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
@@ -309,40 +289,11 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Pledian.  
 
-- **Megan (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Gray. 
-
-
 - **Allison (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Lizard. 
 
-- **Denise (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Diana (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian.
-
-- **Chris's Sister (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
 - **Elizabeth Power (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Lizard. 
-
-- **PinkPanthress (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Gray. 
-
-- **Random NatGeo Pleed (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Lindsey (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Lizard. 
 
@@ -353,10 +304,6 @@ Collaborated with Sinlower Cartel.
 - **Rose (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian.  
-
-- **Bella (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
 
 - **Amber Somethin (ACC/GCC)**
   - **Role:** .
@@ -374,34 +321,12 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Morgan (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
 - **Bailey (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Yeti. 
 
 
-- **Eligible Philipinos (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
 
-- **Marcy (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Kendall (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Chloe (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Kris (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
 
 
 
