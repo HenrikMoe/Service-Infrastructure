@@ -394,6 +394,18 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Pledian. 
 
+- **Kendall (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Chloe (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Kris (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
 
 #### Teams
 
