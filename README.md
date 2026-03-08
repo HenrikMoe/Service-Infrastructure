@@ -406,6 +406,10 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Pledian. 
 
+- **Angie (ACC/GCC)**
+  - **Role:** .
+   - **Standard:** , Pledian.
+
 
 #### Teams
 
