@@ -277,10 +277,6 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Gray. 
 
-- **SZA (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Gray. 
-
 - **Fatima (ACC/GCC)**
   - **Role:** .
    - **Standard:** , Pledian. 
