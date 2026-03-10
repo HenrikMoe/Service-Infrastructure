@@ -1,6 +1,6 @@
 # Service Infrastructure for [Jinsei.ai](https://Jinsei.ai)
 
-An Islamic Christ Presbyterian (ICP) product. 
+A Christ Islamic Presbyterian (CIP) product. 
 
 GFD AI Healthcare Company. 
 
