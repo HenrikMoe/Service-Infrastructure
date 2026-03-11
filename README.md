@@ -225,7 +225,7 @@ Collaborated with Sinlower Cartel.
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Mrs Mouse (ACC)**
+- **Wallpaper (ACC)**
   - **Role:** . 
    - **Standard:** , Pledian. 
 
