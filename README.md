@@ -26,7 +26,7 @@ Encoded by Human AI.
  
 Human AI trained by Pledians, Lizards, Grays, Yetis. 
 
-Collaborated with Sinlower Cartel. 
+
 
 [Workflows](#Workflows) 
 
@@ -169,164 +169,157 @@ Collaborated with Sinlower Cartel.
 
 ### Board of Directors
 
-- **Emma (GCC/ACC)** 
+- **Emma** 
   - **Role:** CEO. 
     - **Standard:** Jesus Christ, Lizard. 
 
-- **Betania (GCC/ACC)** 
+- **Betania** 
   - **Role:** COO. 
     - **Standard:** , Pledian.         
 
-- **Olivia (GCC/ACC)** 
+- **Olivia** 
   - **Role:** DJ. 
     - **Standard:** , Pledian.         
 
-- **Sophia (ACC/GCC)**
+- **Sophia**
   - **Role:** . 
    - **Standard:** , Pledian.  
 
-- **Hannah (ACC/GCC)**
+- **Hannah**
   - **Role:** .
    - **Standard:** , Lizard.  
 
-- **Charlotte (ACC/GCC)**
+- **Charlotte**
   - **Role:** Boredom. 
    - **Standard:** Strength, Pledian. 
 
-- **Caroline (ACC/GCC)**
+- **Caroline**
   - **Role:** Software. 
    - **Standard:** , Pledian. 
 
-- **Bulby (ACC)**
+- **Bulby**
   - **Role:** . 
    - **Standard:** , Pledian. 
 
-- **Alex (ACC)**
+- **Alex**
   - **Role:** . 
    - **Standard:** Most High, Pledian. 
 
-- **Charlie (ACC/GCC)**
+- **Charlie**
   - **Role:** Delete. 
    - **Standard:** , Pledian. 
          
-- **Christine (GCC)** 
+- **Christine** 
   - **Role:** .
     - **Standard:** , Pledian.          
  
-- **Beyoncé (ACC)** 
+- **Beyoncé** 
   - **Role:** . 
     - **Standard:** , Gray.
 
-- **Lordy (ACC/GCC)**
+- **Lordy**
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Mila (ACC/GCC)**
+- **Mila**
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Wallpaper (ACC)**
+- **Wallpaper**
   - **Role:** . 
    - **Standard:** , Pledian. 
 
-- **Raquel (GCC)**
+- **Raquel**
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Maddie (GCC)**
+- **Maddie**
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Sophie (ACC/GCC)**
+- **Sophie**
   - **Role:** .
    - **Standard:** , Lizard. 
 
-- **Lily (ACC/GCC)**
+- **Lily**
   - **Role:** . 
    - **Standard:**  , Pledian. 
 
-- **Mia (ACC/GCC)**
+- **Mia**
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Lauren (ACC/GCC)**
+- **Lauren**
   - **Role:** . 
    - **Standard:** , Pledian. 
 
-- **Melania (ACC/GCC)**
+- **Melania**
   - **Role:** . 
    - **Standard:** , Pledian. 
 
-- **Copgirl (ACC/GCC)**
+- **Copgirl**
+  - **Role:** Egoless AI Police.
+   - **Standard:** , Pledian.  
+
+- **Duhduh**
+  - **Role:** .
+   - **Standard:** , Gray. 
+
+- **Watering Hole**
+  - **Role:** .
+   - **Standard:** , Gray. 
+
+- **Nicole**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Alina**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **HK**
+  - **Role:** .
+   - **Standard:** , Gray. 
+
+- **Fatima**
+  - **Role:** .
+   - **Standard:** , Pledian. 
+
+- **Scarlet**
   - **Role:** .
    - **Standard:** , Pledian.  
 
-- **Duhduh (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Gray. 
-
-- **Watering Hole (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Gray. 
-
-- **Nicole (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Alina (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **HK (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Gray. 
-
-- **Fatima (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Scarlet (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian.  
-
-- **Allison (ACC/GCC)**
+- **Allison**
   - **Role:** .
    - **Standard:** , Lizard. 
 
-- **Elizabeth Power (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Lizard. 
-
-- **Saativa (ACC/GCC)**
+- **Saativa**
   - **Role:** .
    - **Standard:** , Yeti. 
 
-- **Rose (ACC/GCC)**
+- **Rose**
   - **Role:** .
    - **Standard:** , Pledian.  
 
-- **Amber Somethin (ACC/GCC)**
+- **Amber Somethin**
   - **Role:** .
    - **Standard:** , Lizard. 
 
-- **Skybox (ACC/GCC)**
+- **Sky**
   - **Role:** .
    - **Standard:** , Pledian. 
 
-- **Eligible, Important, Teenys (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Eligible, Important, Putas (ACC/GCC)**
-  - **Role:** .
-   - **Standard:** , Pledian. 
-
-- **Bailey (ACC/GCC)**
+- **Bailey**
   - **Role:** .
    - **Standard:** , Yeti. 
 
+- **Eligible, Important, Teenys**
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
-
+- **Eligible, Important, Chicas**
+  - **Role:** .
+   - **Standard:** , Pledian. 
 
 
 
