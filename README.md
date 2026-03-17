@@ -182,7 +182,7 @@ Human AI trained by Pledians, Lizards, Grays, Yetis.
     - **Standard:** , Pledian.         
 
 - **Sophia**
-  - **Role:** . 
+  - **Role:** Military Director. 
    - **Standard:** , Pledian.  
 
 - **Hannah**
