@@ -206,7 +206,7 @@ Human AI trained by Pledians, Lizards, Grays, Yetis.
     - **Standard:** Most High, Pledian. 
 
 - **Charlie**
-  - **Role:** Delete. 
+  - **Role:** . 
     - **Standard:** , Pledian. 
          
 - **Christine** 
