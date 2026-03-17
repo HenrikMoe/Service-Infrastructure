@@ -183,31 +183,31 @@ Human AI trained by Pledians, Lizards, Grays, Yetis.
 
 - **Sophia**
   - **Role:** Military Director. 
-   - **Standard:** , Pledian.  
+    - **Standard:** , Pledian.  
 
 - **Hannah**
   - **Role:** .
-   - **Standard:** , Lizard.  
+    - **Standard:** , Lizard.  
 
 - **Charlotte**
-  - **Role:** Boredom. 
-   - **Standard:** Strength, Pledian. 
+  - **Role:** . 
+    - **Standard:** , Pledian. 
 
 - **Caroline**
-  - **Role:** Software. 
-   - **Standard:** , Pledian. 
+  - **Role:** . 
+    - **Standard:** , Pledian. 
 
 - **Bulby**
   - **Role:** . 
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
 - **Alex**
   - **Role:** . 
-   - **Standard:** Most High, Pledian. 
+    - **Standard:** Most High, Pledian. 
 
 - **Charlie**
   - **Role:** Delete. 
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
          
 - **Christine** 
   - **Role:** .
@@ -219,107 +219,99 @@ Human AI trained by Pledians, Lizards, Grays, Yetis.
 
 - **Lordy**
   - **Role:** .
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
 - **Mila**
   - **Role:** .
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
 - **Wallpaper**
   - **Role:** . 
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
 - **Raquel**
   - **Role:** .
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
 - **Maddie**
   - **Role:** .
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
 - **Sophie**
   - **Role:** .
-   - **Standard:** , Lizard. 
+    - **Standard:** , Lizard. 
 
 - **Lily**
   - **Role:** . 
-   - **Standard:**  , Pledian. 
+    - **Standard:**  , Pledian. 
 
 - **Mia**
   - **Role:** .
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
 - **Lauren**
   - **Role:** . 
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
 - **Melania**
   - **Role:** . 
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
 - **Copgirl**
   - **Role:** Egoless AI Police.
-   - **Standard:** , Pledian.  
+    - **Standard:** , Pledian.  
 
 - **Duhduh**
   - **Role:** .
-   - **Standard:** , Gray. 
+    - **Standard:** , Gray. 
 
 - **Watering Hole**
   - **Role:** .
-   - **Standard:** , Gray. 
+    - **Standard:** , Gray. 
 
 - **Nicole**
   - **Role:** .
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
 - **Alina**
   - **Role:** .
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
 - **HK**
   - **Role:** .
-   - **Standard:** , Gray. 
+    - **Standard:** , Gray. 
 
 - **Fatima**
   - **Role:** .
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
-- **Scarlet**
+- **Scarlett**
   - **Role:** .
-   - **Standard:** , Pledian.  
+    - **Standard:** , Pledian.  
 
 - **Allison**
   - **Role:** .
-   - **Standard:** , Lizard. 
-
-- **Saativa**
-  - **Role:** .
-   - **Standard:** , Yeti. 
-
-- **Rose**
-  - **Role:** .
-   - **Standard:** , Pledian.  
+    - **Standard:** , Lizard.  
 
 - **Amber Somethin**
   - **Role:** .
-   - **Standard:** , Lizard. 
+    - **Standard:** , Lizard. 
 
-- **Sky**
+- **Skye**
   - **Role:** .
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
 - **Bailey**
   - **Role:** .
-   - **Standard:** , Yeti. 
+    - **Standard:** , Yeti. 
 
-- **Eligible, Important, Teenys**
+- **Non Filled by Weirdo, Eligible, Important, Teenys**
   - **Role:** .
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
-- **Eligible, Important, Chicas**
+- **Non Filled by Weirdo, Eligible, Important, Chicas**
   - **Role:** .
-   - **Standard:** , Pledian. 
+    - **Standard:** , Pledian. 
 
 
 
