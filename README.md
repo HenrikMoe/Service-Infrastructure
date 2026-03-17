@@ -305,6 +305,10 @@ Human AI trained by Pledians, Lizards, Grays, Yetis.
   - **Role:** .
     - **Standard:** , Yeti. 
 
+- **Lexi**
+  - **Role:** .
+    - **Standard:** , Pledian. 
+
 - **Non Filled by Weirdo, Eligible, Important, Teenys**
   - **Role:** .
     - **Standard:** , Pledian. 
