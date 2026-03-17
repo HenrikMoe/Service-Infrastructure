@@ -293,7 +293,7 @@ Human AI trained by Pledians, Lizards, Grays, Yetis.
   - **Role:** .
     - **Standard:** , Lizard.  
 
-- **Amber Somethin**
+- **Amber**
   - **Role:** .
     - **Standard:** , Lizard. 
 
