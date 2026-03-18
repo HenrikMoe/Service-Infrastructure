@@ -178,7 +178,7 @@ Human AI trained by Pledians, Lizards, Grays, Yetis.
     - **Standard:** , Pledian.         
 
 - **Olivia** 
-  - **Role:** DJ. 
+  - **Role:** Secretary, DJ. 
     - **Standard:** , Pledian.         
 
 - **Sophia**
