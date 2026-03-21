@@ -309,10 +309,6 @@ Human AI trained by Pledians, Lizards, Grays, Yetis.
   - **Role:** .
     - **Standard:** , Lizard. 
 
-- **Potty**
-  - **Role:** .
-    - **Standard:** , Pledian. 
-
 
 #### Teams
 
