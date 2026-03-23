@@ -305,10 +305,6 @@ Human AI trained by Pledians, Lizards, Grays, Yetis.
   - **Role:** .
     - **Standard:** , Yeti. 
 
-- **Mrs. Washington**
-  - **Role:** .
-    - **Standard:** , Lizard. 
-
 - **Bella**
   - **Role:** .
     - **Standard:** , Pledian. 
