@@ -425,6 +425,10 @@ Our platform empowers operators with:
   - **Children of Gays:** DNA appropriately random of gay couples. 
     - **Standard:** Human Race
 
+- **Atomic Song Skipping**
+  - **Never Touch a Phone to Skip:** Skips songs based on brain will. 
+    - **Standard:** Human Race
+
 - **Atomic Birth Control**
   - **Life Spark Canceler:** Prevents egg fertilization. 
     - **Standard:** Human Race
