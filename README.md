@@ -563,6 +563,8 @@ Our platform empowers operators with:
       
 # Finance
    
+- every finanical product ever mortages, refinancing, etc
+
 - **Free Market, Venture, Family, Endownment Capital Exchange Monitoring**
   - **Securities and Exchanges Monitoring (SEM):** Monitoring and approval of all financial security assets.
      - **Standard:** GFD SEM
