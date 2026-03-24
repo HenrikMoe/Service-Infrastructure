@@ -429,6 +429,9 @@ Our platform empowers operators with:
   - **Life Spark Canceler:** Prevents egg fertilization. 
     - **Standard:** Human Race
 
+- **Atomic Humam Waste Removal**
+  - **Never Poop or Pee Again:** Atomically removes human waste. 
+    - **Standard:** Human Race
 
 - **Techs Automated**
   - **Automates Tactical Tech Terminations of Displosable Assets:** Automated tech planning for tactical hits. 
