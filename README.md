@@ -433,6 +433,10 @@ Our platform empowers operators with:
   - **Never Poop or Pee Again:** Atomically removes human waste. 
     - **Standard:** Human Race
 
+- **Atomic Feeding and Drinking**
+  - **Automatic Stomach Nutrition:** Spawns mouth digested food and drink into stomachs. 
+    - **Standard:** Human Race
+
 - **Techs Automated**
   - **Automates Tactical Tech Terminations of Displosable Assets:** Automated tech planning for tactical hits. 
     - **Standard:** GFD Asset Termination
