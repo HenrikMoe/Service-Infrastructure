@@ -309,7 +309,7 @@ Human AI trained by Pledians, Lizards, Grays, Yetis.
   - **Role:** .
     - **Standard:** , Pledian. 
 
-- **Home**
+- **Homey**
   - **Role:** .
     - **Standard:** , Pledian. 
 
