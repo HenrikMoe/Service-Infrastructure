@@ -425,6 +425,10 @@ Our platform empowers operators with:
   - **Designed for Fun:** Ideal 3D manifesation of a universally dominant species. 
     - **Standard:** Human Race
 
+- **Atomic Shaving**
+  - **Shave Automatically:** Precise body shaving. 
+    - **Standard:** Human Race
+
 - **Gay Reproduction**
   - **Children of Gays:** DNA appropriately random of gay couples. 
     - **Standard:** Human Race
