@@ -281,10 +281,6 @@ Human AI trained by Pledians, Lizards, Grays, Yetis.
   - **Role:** .
     - **Standard:** , Gray. 
 
-- **Fatima**
-  - **Role:** .
-    - **Standard:** , Pledian. 
-
 - **Scarlett**
   - **Role:** .
     - **Standard:** , Pledian.  
