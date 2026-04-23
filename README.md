@@ -305,7 +305,9 @@ Human AI trained by Pledians, Lizards, Grays, Yetis.
   - **Role:** .
     - **Standard:** , Pledian. 
 
-
+- **Heart**
+  - **Role:** .
+    - **Standard:** , Pledian.
 
 #### Teams
 
