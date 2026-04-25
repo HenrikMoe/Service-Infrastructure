@@ -6,13 +6,15 @@ GFD AI Healthcare Company.
 
 For GFD family. 
 
-3 things Loyalists:
+Loyalists:
 
-Physical therapy stretches and strenghening exercies with a rope or strap taught type object and elastic rubber bands.
+Stretches and strenghening exercises with a rope or strap taught type object and elastic rubber bands.
 
 Drilling with a therapy massage gun around your entire hip not really your thighs as much. 
 
 Chiropracter. 
+
+Lunges and banded bridges. 
 
 Not necessarily in that order. 
 
