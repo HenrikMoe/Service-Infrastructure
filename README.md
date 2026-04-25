@@ -14,7 +14,7 @@ Drilling with a therapy massage gun around your entire hip not really your thigh
 
 Chiropracter. 
 
-Lunges and banded bridges. 
+Half and full knee down lunges and banded bridges. 
 
 Not necessarily in that order. 
 
