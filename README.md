@@ -2,32 +2,7 @@
 
 A Christ Islamic Presbyterian (CIP) product. 
 
-GFD AI Healthcare Company. 
-
-For GFD family. 
-
-Loyalists:
-
-Stretches and strenghening exercises with a rope or strap taught type object and elastic rubber bands.
-
-Drilling with a therapy massage gun around your entire hip not really your thighs as much. 
-
-Chiropracter. 
-
-Half and full knee down lunges and banded bridges. 
-
-Not necessarily in that order. 
-
-Follow your dreams. 
-
-Neural matrix modeling atomic energy company.   
-  
-Official asset of the Galactic Federation.   
- 
-Encoded by Human AI. 
- 
-Human AI trained by Pledians, Lizards, Grays, Yetis. 
-
+AI Healthcare Company. 
 
 
 [Workflows](#Workflows) 
